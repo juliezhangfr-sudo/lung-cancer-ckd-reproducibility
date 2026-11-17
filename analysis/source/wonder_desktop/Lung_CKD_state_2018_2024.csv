@@ -1,0 +1,127 @@
+"Notes","State","State Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error,Age Adjusted Rate,Age Adjusted Rate Lower 95% Confidence Interval,Age Adjusted Rate Upper 95% Confidence Interval,Age Adjusted Rate Standard Error,% of Total Deaths
+,"Alabama","01",133,35092928,0.378993739,0.314582406,0.443405072,0.032862925,0.274720605,0.228903545,0.329028885,0.024443750,1.112040134%
+,"Alaska","02",21,5139936,0.408565399,0.252910153,0.624537154,0.089156279,0.478103160,0.289571525,0.753017833,0.108539087,0.175585284%
+,"Arizona","04",148,51521005,0.287261477,0.240980491,0.333542463,0.023612748,0.201781277,0.169248488,0.240022503,0.017328648,1.237458194%
+,"Arkansas","05",137,21289765,0.643501701,0.535744703,0.751258700,0.054978061,0.493977534,0.413937436,0.588003274,0.042643278,1.145484950%
+,"California","06",1157,275100980,0.420572838,0.396338531,0.444807146,0.012364443,0.370045460,0.349332718,0.391817611,0.010718751,9.673913043%
+,"Colorado","08",241,40749117,0.591423858,0.516753817,0.666093899,0.038096960,0.551384427,0.482876199,0.627770879,0.036109812,2.015050167%
+,"Connecticut","09",111,25219005,0.440144248,0.358262028,0.522026469,0.041776643,0.303861543,0.248542755,0.371470598,0.029645747,0.928093645%
+,"Delaware","10",31,7033331,0.440758440,0.299473322,0.625621345,0.079162553,0.304401433,0.206152687,0.447737643,0.055091655,0.259197324%
+,"District of Columbia","11",24,4844095,0.495448582,0.317443816,0.737187854,0.101133018,0.540491730,0.344579267,0.818053861,0.111436479,0.200668896%
+,"Florida","12",786,154519266,0.508674433,0.473112553,0.544236313,0.018143816,0.310867096,0.289365887,0.334095640,0.011165201,6.571906355%
+,"Georgia","13",266,75769462,0.351064918,0.308875583,0.393254254,0.021525171,0.318684505,0.281274371,0.360154953,0.019680904,2.224080268%
+,"Hawaii","15",36,10006402,0.359769675,0.251979083,0.498072334,0.059961613,0.236560025,0.166042827,0.335739645,0.039206596,0.301003344%
+,"Idaho","16",60,13174487,0.455425703,0.347539908,0.586223965,0.058795205,0.400117179,0.304502400,0.519897187,0.052140951,0.501672241%
+,"Illinois","17",409,88513779,0.462074950,0.417292604,0.506857296,0.022848136,0.364810733,0.330050544,0.402860762,0.018176644,3.419732441%
+,"Indiana","18",415,47604546,0.871765482,0.787890645,0.955640320,0.042793285,0.701600048,0.634859777,0.774569996,0.034897941,3.469899666%
+,"Iowa","19",186,22316864,0.833450435,0.713671795,0.953229074,0.061111551,0.608125754,0.522391729,0.706901255,0.045402275,1.555183946%
+,"Kansas","20",109,20521508,0.531150050,0.431435152,0.630864948,0.050874948,0.400398772,0.327347679,0.487964691,0.039153232,0.911371237%
+,"Kentucky","21",298,31549556,0.944545781,0.837302287,1.051789274,0.054716068,0.731845153,0.650014679,0.823003358,0.042983801,2.491638796%
+,"Louisiana","22",147,32339867,0.454547324,0.381066078,0.528028569,0.037490431,0.377269064,0.319226209,0.444442589,0.030850938,1.229096990%
+,"Maine","23",62,9591078,0.646434113,0.495614570,0.828696211,0.082097214,0.408674386,0.312929056,0.538958917,0.052134729,0.518394649%
+,"Maryland","24",293,42917462,0.682705795,0.604532962,0.760878628,0.039884098,0.552699350,0.491076505,0.621044400,0.032366048,2.449832776%
+,"Massachusetts","25",238,48792493,0.487779954,0.425808521,0.549751388,0.031618078,0.368506250,0.322715302,0.420473392,0.024135746,1.989966555%
+,"Michigan","26",400,70211971,0.569703420,0.513872485,0.625534355,0.028485171,0.418544923,0.377251480,0.464062208,0.021612881,3.344481605%
+,"Minnesota","27",341,39863793,0.855412830,0.764619355,0.946206306,0.046323202,0.671597560,0.601982362,0.748299902,0.036485801,2.851170569%
+,"Mississippi","28",116,20702222,0.560326326,0.458357339,0.662295313,0.052024993,0.426052899,0.349159836,0.517827463,0.041188403,0.969899666%
+,"Missouri","29",268,43203194,0.620324507,0.546055500,0.694593513,0.037892350,0.466494733,0.411698662,0.527960971,0.028828134,2.240802676%
+,"Montana","30",41,7708843,0.531856726,0.381671024,0.721522153,0.083062066,0.382601213,0.274198483,0.531341284,0.059972002,0.342809365%
+,"Nebraska","31",113,13716687,0.823814089,0.671918184,0.975709993,0.077497911,0.682538807,0.561527709,0.825726300,0.064760317,0.944816054%
+,"Nevada","32",80,22036213,0.363038785,0.287867974,0.451834442,0.040588970,0.303864107,0.241395343,0.380192930,0.033714853,0.668896321%
+,"New Hampshire","33",49,9677753,0.506315877,0.374577549,0.669374906,0.072330840,0.341285041,0.249972355,0.468413831,0.050254225,0.409698997%
+,"New Jersey","34",211,63993602,0.329720462,0.285230632,0.374210291,0.022698893,0.244982884,0.212037527,0.282462540,0.017414908,1.764214047%
+,"New Mexico","35",36,14772424,0.243697311,0.170683159,0.337379431,0.040616218,0.194703513,0.138783875,0.271650784,0.030976536,0.301003344%
+,"New York","36",411,137284074,0.299379227,0.270435342,0.328323112,0.014767288,0.215792384,0.194796007,0.238856324,0.010985255,3.436454849%
+,"North Carolina","37",470,74604177,0.629991535,0.573035224,0.686947847,0.029059343,0.497000634,0.452444244,0.545474614,0.023263769,3.929765886%
+,"North Dakota","38",48,5422151,0.885257530,0.652718082,1.173718696,0.127775918,0.700862321,0.514986260,0.945310867,0.102220170,0.401337793%
+,"Ohio","39",454,82277073,0.551794058,0.501035981,0.602552136,0.025896978,0.404267261,0.367040806,0.445005397,0.019449452,3.795986622%
+,"Oklahoma","40",264,28036489,0.941630031,0.828041519,1.055218542,0.057953322,0.786346119,0.694230482,0.889027098,0.048457053,2.207357860%
+,"Oregon","41",189,29641978,0.637609272,0.546705942,0.728512602,0.046379250,0.474587778,0.408434348,0.551073779,0.035017299,1.580267559%
+,"Pennsylvania","42",601,90368801,0.665052533,0.611881538,0.718223528,0.027128059,0.464785115,0.428633894,0.504002994,0.018815445,5.025083612%
+,"Rhode Island","44",36,7571415,0.475472550,0.333016220,0.658253708,0.079245425,0.342560129,0.239271636,0.490008834,0.057493433,0.301003344%
+,"South Carolina","45",210,36776606,0.571015172,0.493783743,0.648246601,0.039403790,0.418429835,0.362950937,0.481839926,0.029310665,1.755852843%
+,"South Dakota","46",59,6308798,0.935201920,0.711922461,1.206345012,0.121752920,0.710600104,0.537877116,0.932586714,0.094311892,0.493311037%
+,"Tennessee","47",292,48866814,0.597542537,0.529004214,0.666080859,0.034968532,0.476286395,0.421863995,0.536843653,0.028606200,2.441471572%
+,"Texas","48",829,208410130,0.397773371,0.370695500,0.424851242,0.013815240,0.400743939,0.373190050,0.429849194,0.014306792,6.931438127%
+,"Utah","49",38,23257064,0.163391217,0.115625429,0.224267517,0.026505555,0.191001976,0.132664318,0.266695271,0.032516045,0.317725753%
+,"Vermont","50",28,4462226,0.627489509,0.416960504,0.906898037,0.118584371,0.412340853,0.273388896,0.634755645,0.078308554,0.234113712%
+,"Virginia","51",322,60496553,0.532261731,0.474124629,0.590398832,0.029661787,0.425808841,0.379773844,0.476668070,0.024156722,2.692307692%
+,"Washington","53",314,54139634,0.579981756,0.515830439,0.644133074,0.032730264,0.491465143,0.438377735,0.550053835,0.027856750,2.625418060%
+,"West Virginia","54",102,12480931,0.817246726,0.658644538,0.975848914,0.080919484,0.546162385,0.444437135,0.672034262,0.054583203,0.852842809%
+,"Wisconsin","55",312,41129034,0.758588203,0.674412867,0.842763539,0.042946600,0.550071871,0.488862837,0.618368315,0.032146921,2.608695652%
+,"Wyoming","56",18,4070683,0.442186238,0.262066095,0.698844395,0.104224296,0.364842347,0.213108298,0.599686893,0.088097534,0.150501672%
+"Total",,,11960,2325098265,0.514386862,0.505167935,0.523605788,0.004703534,0.410313843,0.403037318,0.417709103,0.003728972,100.000000000%
+"---"
+"Dataset: Multiple Cause of Death, 2018-2024, Single Race"
+"Query Parameters:"
+"MCD - ICD-10 Codes: N18.0 (End-stage renal disease); N18.1 (Chronic kidney disease, stage 1); N18.2 (Chronic kidney disease,"
+"stage 2); N18.3 (Chronic kidney disease, stage 3); N18.4 (Chronic kidney disease, stage 4); N18.5 (Chronic kidney disease, stage"
+"5); N18.8 (Other chronic renal failure); N18.9 (Chronic renal failure, unspecified)"
+"UCD - ICD-10 Codes: C34.0 (Main bronchus - Malignant neoplasms); C34.1 (Upper lobe, bronchus or lung - Malignant neoplasms);"
+"C34.2 (Middle lobe, bronchus or lung - Malignant neoplasms); C34.3 (Lower lobe, bronchus or lung - Malignant neoplasms); C34.8"
+"(Overlapping lesion of bronchus and lung - Malignant neoplasms); C34.9 (Bronchus or lung, unspecified - Malignant neoplasms)"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Aug 30, 2026 8:46:17 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2024 on CDC WONDER Online Database, released in 2026. Data are from the Multiple Cause of Death Files,"
+"2018-2024, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Aug 30, 2026 8:46:17 PM"
+"---"
+Caveats:
+"1. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#2000 Standard Population."
+"2. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age-Adjusted Rates."
+"3. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"4. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Confidence-Intervals."
+"5. The method used to calculate standard errors is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Standard-Errors."
+"6. The population figures for year 2024 are single-race estimates of the July 1 resident population, from the Vintage 2024"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2024 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for year 2023 are single-race estimates of the July 1"
+"resident population, from the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2022 are"
+"single-race estimates of the July 1 resident population, from the Vintage 2022 postcensal series released by the Census Bureau"
+"on June 22, 2023. The 2022 series is based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1,"
+"2020 decennial population count. The Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates"
+"for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The"
+"population figures for year 2021 are single-race estimates of the July 1 resident population, based on the Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal series"
+"released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the July 1"
+"resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on July"
+"27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the Vintage"
+"2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population figures for"
+"year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based on April"
+"2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Population Data."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age"
+"Group."
+"8. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Connecticut-2022."
+"9. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"10. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#ICD-10 Changes."

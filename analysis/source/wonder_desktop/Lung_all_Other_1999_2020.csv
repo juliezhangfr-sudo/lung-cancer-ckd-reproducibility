@@ -1,0 +1,103 @@
+"Notes","Year","Year Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error,Age Adjusted Rate,Age Adjusted Rate Lower 95% Confidence Interval,Age Adjusted Rate Upper 95% Confidence Interval,Age Adjusted Rate Standard Error,% of Total Deaths
+,"1999","1999",2400,13226019,18.146049843,17.420056648,18.872043038,0.370404691,29.609117503,28.370332955,30.847902051,0.632032933,2.917401082%
+,"2000","2000",2496,13699595,18.219516708,17.504739603,18.934293814,0.364682197,29.196205021,28.001651561,30.390758481,0.609466051,3.034097125%
+,"2001","2001",2730,14343799,19.032614721,18.318655833,19.746573608,0.364264738,30.188265525,29.008398789,31.368132261,0.601972824,3.318543731%
+,"2002","2002",2685,14855687,18.073886452,17.390233842,18.757539061,0.348802352,27.863183483,26.765664977,28.960701990,0.559958422,3.263842460%
+,"2003","2003",2925,15346813,19.059331732,18.368613682,19.750049782,0.352407168,28.989634974,27.898208639,30.081061310,0.556850171,3.555582569%
+,"2004","2004",3137,15835029,19.810509978,19.117252652,20.503767303,0.353702717,29.071375717,28.016244585,30.126506849,0.538332210,3.813286331%
+,"2005","2005",3216,16341265,19.680238953,19.000051810,20.360426096,0.347034257,28.399666448,27.379987155,29.419345741,0.520244537,3.909317450%
+,"2006","2006",3294,16853716,19.544651162,18.877195844,20.212106479,0.340538427,27.620069155,26.641257294,28.598881017,0.499393807,4.004132985%
+,"2007","2007",3478,17357234,20.037754863,19.371806828,20.703702899,0.339769406,28.114591653,27.146368702,29.082814604,0.493991301,4.227800401%
+,"2008","2008",3616,17864651,20.241089513,19.581345062,20.900833963,0.336604312,27.823126273,26.884755308,28.761497238,0.478760697,4.395550963%
+,"2009","2009",3653,18346146,19.911538914,19.265831070,20.557246758,0.329442778,26.931019360,26.027063372,27.834975349,0.461202035,4.440527563%
+,"2010","2010",3845,18703439,20.557716685,19.907912093,21.207521277,0.331532955,27.054682273,26.169992117,27.939372428,0.451372528,4.673919650%
+,"2011","2011",4017,19178501,20.945328313,20.297600825,21.593055801,0.330473208,26.600181404,25.752258418,27.448104389,0.432613768,4.883000061%
+,"2012","2012",4172,19796097,21.074861373,20.435349447,21.714373299,0.326281595,26.030589094,25.217784175,26.843394012,0.414696387,5.071415547%
+,"2013","2013",4229,20336870,20.794743734,20.167998844,21.421488624,0.319767801,25.038225421,24.263619607,25.812831236,0.395207048,5.140703823%
+,"2014","2014",4430,21104205,20.991077371,20.372934396,21.609220345,0.315379069,24.452612514,23.714353713,25.190871315,0.376662654,5.385036164%
+,"2015","2015",4625,21806263,21.209502976,20.598236337,21.820769616,0.311870734,23.884867724,23.180264926,24.589470523,0.359491224,5.622075002%
+,"2016","2016",4637,22190797,20.896049835,20.294596803,21.497502868,0.306863792,22.971849907,22.296051171,23.647648642,0.344795273,5.636662007%
+,"2017","2017",4654,22907294,20.316672934,19.732965169,20.900380700,0.297810084,21.698317855,21.062500427,22.334135283,0.324396647,5.657326931%
+,"2018","2018",4558,23292584,19.568460073,19.000359063,20.136561083,0.289847454,20.412208271,19.808553432,21.015863110,0.307987163,5.540630888%
+,"2019","2019",4704,23526009,19.994891611,19.423489989,20.566293234,0.291531440,20.172888343,19.586746628,20.759030057,0.299051895,5.718106120%
+,"2020","2020",4764,24051228,19.807720421,19.245243520,20.370197322,0.286978011,19.498136718,18.936215091,20.060058345,0.286694708,5.791041148%
+"Total",,,82265,410963241,20.017605419,19.880813436,20.154397402,0.069791828,24.938279832,24.763481912,25.113077751,0.089182612,100.000000000%
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"Hispanic Origin: Not Hispanic or Latino"
+"Race: American Indian or Alaska Native; Asian or Pacific Islander"
+"UCD - ICD-10 Codes: C34.0 (Main bronchus - Malignant neoplasms); C34.1 (Upper lobe, bronchus or lung - Malignant neoplasms);"
+"C34.2 (Middle lobe, bronchus or lung - Malignant neoplasms); C34.3 (Lower lobe, bronchus or lung - Malignant neoplasms); C34.8"
+"(Overlapping lesion of bronchus and lung - Malignant neoplasms); C34.9 (Bronchus or lung, unspecified - Malignant neoplasms)"
+"Group By: Year"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Aug 30, 2026 8:01:08 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Aug 30, 2026 8:01:08 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies."
+"5. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2000 Standard Population."
+"6. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Age-Adjusted Rates."
+"7. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"8. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"9. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Racial Differences."
+"10. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Confidence-Intervals."
+"11. The method used to calculate standard errors is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Standard-Errors."
+"12. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"13. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"14. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

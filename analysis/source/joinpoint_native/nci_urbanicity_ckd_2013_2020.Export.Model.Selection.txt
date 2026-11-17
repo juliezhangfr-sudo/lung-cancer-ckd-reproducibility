@@ -1,0 +1,3 @@
+"Urbanicity"	"Test #"	"Null Hypothesis"	"Alt Hypothesis"	"Selected Hypothesis"	"Numerator DF"	"Denominator DF"	"# of Permutations"	"P-Value"	"Significance level"
+0	0	0	1	0	   2	   4	4500	       0.0677778	       0.0500000
+1	0	0	1	0	   2	   4	4500	       0.5582222	       0.0500000

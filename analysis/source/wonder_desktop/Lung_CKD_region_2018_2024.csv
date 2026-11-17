@@ -1,0 +1,111 @@
+"Notes","Year","Year Code","Census Region","Census Region Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error,Age Adjusted Rate,Age Adjusted Rate Lower 95% Confidence Interval,Age Adjusted Rate Upper 95% Confidence Interval,Age Adjusted Rate Standard Error,% of Total Deaths
+,"2018","2018","Census Region 1: Northeast","CENS-R1",213,56111079,0.379604178,0.328624480,0.430583875,0.026010050,0.282762945,0.245407920,0.325392419,0.019732716,1.780936455%
+,"2018","2018","Census Region 2: Midwest","CENS-R2",376,68308744,0.550441976,0.494803696,0.606080255,0.028386877,0.439737879,0.396192893,0.487634937,0.022793462,3.143812709%
+,"2018","2018","Census Region 3: South","CENS-R3",606,124753948,0.485756170,0.447080479,0.524431861,0.019732496,0.395024606,0.363724108,0.428689882,0.016297182,5.066889632%
+,"2018","2018","Census Region 4: West","CENS-R4",322,77993663,0.412854055,0.367759439,0.457948670,0.023007457,0.357205354,0.317940274,0.400428642,0.020614246,2.692307692%
+"Total","2018","2018",,,1517,327167434,0.463676956,0.440343515,0.487010398,0.011904817,0.384454753,0.365496053,0.404295540,0.009794084,12.683946488%
+,"2019","2019","Census Region 1: Northeast","CENS-R1",251,55982803,0.448351970,0.392884508,0.503819432,0.028299725,0.334289346,0.294366394,0.379351059,0.021014611,2.098662207%
+,"2019","2019","Census Region 2: Midwest","CENS-R2",425,68329004,0.621990626,0.562855511,0.681125742,0.030170977,0.477346888,0.432278620,0.526709566,0.023561515,3.553511706%
+,"2019","2019","Census Region 3: South","CENS-R3",652,125580448,0.519189102,0.479336393,0.559041810,0.020333014,0.420250702,0.388170634,0.454663900,0.016690135,5.451505017%
+,"2019","2019","Census Region 4: West","CENS-R4",292,78347268,0.372699658,0.329950886,0.415448430,0.021810598,0.319846903,0.283919897,0.359577484,0.018874412,2.441471572%
+"Total","2019","2019",,,1620,328239523,0.493542029,0.469508214,0.517575843,0.012262150,0.397093219,0.377938304,0.417120569,0.009892715,13.545150502%
+,"2020","2020","Census Region 1: Northeast","CENS-R1",272,55849869,0.487019943,0.429141296,0.544898589,0.029529922,0.350760586,0.309643775,0.397011500,0.021629778,2.274247492%
+,"2020","2020","Census Region 2: Midwest","CENS-R2",432,68316744,0.632348638,0.572717817,0.691979458,0.030423888,0.478223790,0.432993554,0.527740339,0.023647067,3.612040134%
+,"2020","2020","Census Region 3: South","CENS-R3",694,126662754,0.547911662,0.507146715,0.588676608,0.020798442,0.439724314,0.407765519,0.473934450,0.016611035,5.802675585%
+,"2020","2020","Census Region 4: West","CENS-R4",335,78654756,0.425911944,0.380302635,0.471521252,0.023270055,0.363271523,0.325433046,0.404832814,0.019834181,2.801003344%
+"Total","2020","2020",,,1733,329484123,0.525973751,0.501209747,0.550737754,0.012634696,0.413647172,0.394210677,0.433945253,0.010034831,14.489966555%
+,"2021","2021","Census Region 1: Northeast","CENS-R1",263,57159838,0.460113270,0.404504543,0.515721998,0.028371800,0.342774689,0.301854010,0.388954253,0.021539519,2.198996656%
+,"2021","2021","Census Region 2: Midwest","CENS-R2",488,68841444,0.708875311,0.645980327,0.771770295,0.032089277,0.548758652,0.500270245,0.601452174,0.025307988,4.080267559%
+,"2021","2021","Census Region 3: South","CENS-R3",624,127225329,0.490468372,0.451984853,0.528951892,0.019634449,0.407212131,0.375869990,0.440832136,0.016309120,5.217391304%
+,"2021","2021","Census Region 4: West","CENS-R4",335,78667134,0.425844928,0.380242796,0.471447060,0.023266394,0.379362244,0.339767635,0.422874356,0.020755930,2.801003344%
+"Total","2021","2021",,,1710,331893745,0.515225136,0.490804608,0.539645665,0.012459453,0.421001349,0.401217691,0.441656945,0.010214234,14.297658863%
+,"2022","2022","Census Region 1: Northeast","CENS-R1",258,57040406,0.452310946,0.397118033,0.507503859,0.028159650,0.330408798,0.291719770,0.374061487,0.020352112,2.157190635%
+,"2022","2022","Census Region 2: Midwest","CENS-R2",444,68787595,0.645465218,0.585425668,0.705504768,0.030632424,0.495128286,0.450080125,0.544297305,0.023529135,3.712374582%
+,"2022","2022","Census Region 3: South","CENS-R3",700,128716192,0.543832123,0.503544476,0.584119771,0.020554922,0.430771638,0.399238792,0.464508352,0.016392009,5.852842809%
+,"2022","2022","Census Region 4: West","CENS-R4",371,78743364,0.471150813,0.423207388,0.519094239,0.024460931,0.394935853,0.355865332,0.437748532,0.020450758,3.102006689%
+"Total","2022","2022",,,1773,333287557,0.531973055,0.507210735,0.556735376,0.012633837,0.413829226,0.394589552,0.433909628,0.009931947,14.824414716%
+,"2023","2023","Census Region 1: Northeast","CENS-R1",254,56983517,0.445742933,0.390924871,0.500560995,0.027968399,0.309327886,0.271877083,0.351809804,0.019722418,2.123745819%
+,"2023","2023","Census Region 2: Midwest","CENS-R2",427,68909283,0.619655265,0.560880313,0.678430216,0.029987220,0.462094508,0.418409119,0.509927799,0.022838970,3.570234114%
+,"2023","2023","Census Region 3: South","CENS-R3",710,130125290,0.545627987,0.505492962,0.585763011,0.020477053,0.435190671,0.404085878,0.468432931,0.016162111,5.936454849%
+,"2023","2023","Census Region 4: West","CENS-R4",390,78896805,0.494316595,0.445256435,0.543376755,0.025030694,0.391492680,0.352345996,0.434448736,0.020496424,3.260869565%
+"Total","2023","2023",,,1781,334914895,0.531776886,0.507079353,0.556474419,0.012600782,0.401251323,0.382356389,0.420988649,0.009755521,14.891304348%
+,"2024 ","2024","Census Region 1: Northeast","CENS-R1",236,57832935,0.408071975,0.356008058,0.460135892,0.026563223,0.284462704,0.249196240,0.324709792,0.018587176,1.973244147%
+,"2024 ","2024","Census Region 2: Midwest","CENS-R2",522,69596584,0.750036812,0.685693502,0.814380122,0.032828219,0.556138040,0.509289842,0.607046511,0.024424972,4.364548495%
+,"2024 ","2024","Census Region 3: South","CENS-R3",734,132665693,0.553270392,0.513244090,0.593296694,0.020421583,0.413784429,0.383337892,0.446371519,0.015828895,6.137123746%
+,"2024 ","2024","Census Region 4: West","CENS-R4",334,80015776,0.417417685,0.372651129,0.462184241,0.022840079,0.329902687,0.294939869,0.368617350,0.018335789,2.792642140%
+"Total","2024 ","2024",,,1826,340110988,0.536883566,0.512258024,0.561509108,0.012564052,0.400914347,0.382399990,0.420257393,0.009556762,15.267558528%
+"Total",,,,,11960,2325098265,0.514386862,0.505167935,0.523605788,0.004703534,0.410313843,0.403037318,0.417709103,0.003728972,100.000000000%
+"---"
+"Dataset: Multiple Cause of Death, 2018-2024, Single Race"
+"Query Parameters:"
+"MCD - ICD-10 Codes: N18.0 (End-stage renal disease); N18.1 (Chronic kidney disease, stage 1); N18.2 (Chronic kidney disease,"
+"stage 2); N18.3 (Chronic kidney disease, stage 3); N18.4 (Chronic kidney disease, stage 4); N18.5 (Chronic kidney disease, stage"
+"5); N18.8 (Other chronic renal failure); N18.9 (Chronic renal failure, unspecified)"
+"UCD - ICD-10 Codes: C34.0 (Main bronchus - Malignant neoplasms); C34.1 (Upper lobe, bronchus or lung - Malignant neoplasms);"
+"C34.2 (Middle lobe, bronchus or lung - Malignant neoplasms); C34.3 (Lower lobe, bronchus or lung - Malignant neoplasms); C34.8"
+"(Overlapping lesion of bronchus and lung - Malignant neoplasms); C34.9 (Bronchus or lung, unspecified - Malignant neoplasms)"
+"Group By: Year; Census Region"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Aug 30, 2026 8:12:41 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2024 on CDC WONDER Online Database, released in 2026. Data are from the Multiple Cause of Death Files,"
+"2018-2024, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Aug 30, 2026 8:12:41 PM"
+"---"
+Caveats:
+"1. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#2000 Standard Population."
+"2. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age-Adjusted Rates."
+"3. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"4. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Confidence-Intervals."
+"5. The method used to calculate standard errors is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Standard-Errors."
+"6. The population figures for year 2024 are single-race estimates of the July 1 resident population, from the Vintage 2024"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2024 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for year 2023 are single-race estimates of the July 1"
+"resident population, from the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2022 are"
+"single-race estimates of the July 1 resident population, from the Vintage 2022 postcensal series released by the Census Bureau"
+"on June 22, 2023. The 2022 series is based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1,"
+"2020 decennial population count. The Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates"
+"for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The"
+"population figures for year 2021 are single-race estimates of the July 1 resident population, based on the Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal series"
+"released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the July 1"
+"resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on July"
+"27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the Vintage"
+"2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population figures for"
+"year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based on April"
+"2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Population Data."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age"
+"Group."
+"8. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Connecticut-2022."
+"9. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"10. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#ICD-10 Changes."

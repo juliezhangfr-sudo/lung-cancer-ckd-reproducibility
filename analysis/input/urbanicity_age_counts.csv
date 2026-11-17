@@ -1,0 +1,197 @@
+year,urban,age,lung,ckd
+2018,Large Central Metro,55-64,6431,42
+2018,Large Central Metro,65-74,10035,117
+2018,Large Central Metro,75-84,9720,145
+2018,Large Central Metro,85+,4976,97
+2018,Large Fringe Metro,55-64,6495,33
+2018,Large Fringe Metro,65-74,10637,96
+2018,Large Fringe Metro,75-84,9677,108
+2018,Large Fringe Metro,85+,4816,80
+2018,Medium Metro,55-64,6284,43
+2018,Medium Metro,65-74,9863,91
+2018,Medium Metro,75-84,8740,134
+2018,Medium Metro,85+,3790,87
+2018,Small Metro,55-64,3151,13
+2018,Small Metro,65-74,5040,42
+2018,Small Metro,75-84,4416,67
+2018,Small Metro,85+,1846,27
+2018,Micropolitan (Nonmetro),55-64,3605,24
+2018,Micropolitan (Nonmetro),65-74,5568,39
+2018,Micropolitan (Nonmetro),75-84,4610,57
+2018,Micropolitan (Nonmetro),85+,1749,31
+2018,NonCore (Nonmetro),55-64,2688,15
+2018,NonCore (Nonmetro),65-74,4433,36
+2018,NonCore (Nonmetro),75-84,3635,40
+2018,NonCore (Nonmetro),85+,1285,19
+2018,Not Available,55-64,296,NOT_RETURNED
+2018,Not Available,65-74,420,NOT_RETURNED
+2018,Not Available,75-84,427,NOT_RETURNED
+2018,Not Available,85+,259,NOT_RETURNED
+2019,Large Central Metro,55-64,6012,44
+2019,Large Central Metro,65-74,10018,107
+2019,Large Central Metro,75-84,9408,142
+2019,Large Central Metro,85+,4880,91
+2019,Large Fringe Metro,55-64,6106,30
+2019,Large Fringe Metro,65-74,10479,111
+2019,Large Fringe Metro,75-84,10147,155
+2019,Large Fringe Metro,85+,4787,83
+2019,Medium Metro,55-64,5954,36
+2019,Medium Metro,65-74,9712,92
+2019,Medium Metro,75-84,8906,135
+2019,Medium Metro,85+,3794,83
+2019,Small Metro,55-64,2977,22
+2019,Small Metro,65-74,4855,52
+2019,Small Metro,75-84,4488,60
+2019,Small Metro,85+,1781,47
+2019,Micropolitan (Nonmetro),55-64,3560,21
+2019,Micropolitan (Nonmetro),65-74,5583,55
+2019,Micropolitan (Nonmetro),75-84,4680,54
+2019,Micropolitan (Nonmetro),85+,1749,31
+2019,NonCore (Nonmetro),55-64,2645,18
+2019,NonCore (Nonmetro),65-74,4367,38
+2019,NonCore (Nonmetro),75-84,3578,45
+2019,NonCore (Nonmetro),85+,1306,21
+2019,Not Available,55-64,237,NOT_RETURNED
+2019,Not Available,65-74,405,NOT_RETURNED
+2019,Not Available,75-84,440,NOT_RETURNED
+2019,Not Available,85+,270,NOT_RETURNED
+2020,Large Central Metro,55-64,5665,40
+2020,Large Central Metro,65-74,9914,116
+2020,Large Central Metro,75-84,9164,132
+2020,Large Central Metro,85+,4501,89
+2020,Large Fringe Metro,55-64,5988,40
+2020,Large Fringe Metro,65-74,10340,115
+2020,Large Fringe Metro,75-84,9715,151
+2020,Large Fringe Metro,85+,4400,81
+2020,Medium Metro,55-64,5784,33
+2020,Medium Metro,65-74,9978,119
+2020,Medium Metro,75-84,8591,161
+2020,Medium Metro,85+,3690,93
+2020,Small Metro,55-64,2954,14
+2020,Small Metro,65-74,5016,41
+2020,Small Metro,75-84,4354,68
+2020,Small Metro,85+,1718,33
+2020,Micropolitan (Nonmetro),55-64,3471,18
+2020,Micropolitan (Nonmetro),65-74,5549,59
+2020,Micropolitan (Nonmetro),75-84,4674,89
+2020,Micropolitan (Nonmetro),85+,1620,39
+2020,NonCore (Nonmetro),55-64,2548,15
+2020,NonCore (Nonmetro),65-74,4315,46
+2020,NonCore (Nonmetro),75-84,3562,57
+2020,NonCore (Nonmetro),85+,1270,34
+2020,Not Available,55-64,234,NOT_RETURNED
+2020,Not Available,65-74,438,NOT_RETURNED
+2020,Not Available,75-84,428,NOT_RETURNED
+2020,Not Available,85+,253,NOT_RETURNED
+2021,Large Central Metro,55-64,5533,37
+2021,Large Central Metro,65-74,9733,111
+2021,Large Central Metro,75-84,9236,145
+2021,Large Central Metro,85+,4351,90
+2021,Large Fringe Metro,55-64,5705,40
+2021,Large Fringe Metro,65-74,10347,111
+2021,Large Fringe Metro,75-84,9696,158
+2021,Large Fringe Metro,85+,4395,97
+2021,Medium Metro,55-64,5629,44
+2021,Medium Metro,65-74,9829,87
+2021,Medium Metro,75-84,8587,128
+2021,Medium Metro,85+,3673,83
+2021,Small Metro,55-64,2829,15
+2021,Small Metro,65-74,5115,66
+2021,Small Metro,75-84,4230,66
+2021,Small Metro,85+,1798,42
+2021,Micropolitan (Nonmetro),55-64,3325,18
+2021,Micropolitan (Nonmetro),65-74,5468,54
+2021,Micropolitan (Nonmetro),75-84,4599,84
+2021,Micropolitan (Nonmetro),85+,1659,43
+2021,NonCore (Nonmetro),55-64,2634,19
+2021,NonCore (Nonmetro),65-74,4360,39
+2021,NonCore (Nonmetro),75-84,3540,62
+2021,NonCore (Nonmetro),85+,1164,26
+2021,Not Available,55-64,229,NOT_RETURNED
+2021,Not Available,65-74,411,NOT_RETURNED
+2021,Not Available,75-84,426,NOT_RETURNED
+2021,Not Available,85+,245,NOT_RETURNED
+2022,Large Central Metro,55-64,5063,44
+2022,Large Central Metro,65-74,9775,107
+2022,Large Central Metro,75-84,9228,153
+2022,Large Central Metro,85+,4437,112
+2022,Large Fringe Metro,55-64,5317,35
+2022,Large Fringe Metro,65-74,10073,98
+2022,Large Fringe Metro,75-84,9772,169
+2022,Large Fringe Metro,85+,4197,97
+2022,Medium Metro,55-64,5437,42
+2022,Medium Metro,65-74,9644,87
+2022,Medium Metro,75-84,8864,151
+2022,Medium Metro,85+,3488,79
+2022,Small Metro,55-64,2651,17
+2022,Small Metro,65-74,4889,34
+2022,Small Metro,75-84,4366,81
+2022,Small Metro,85+,1689,58
+2022,Micropolitan (Nonmetro),55-64,3271,20
+2022,Micropolitan (Nonmetro),65-74,5553,57
+2022,Micropolitan (Nonmetro),75-84,4613,93
+2022,Micropolitan (Nonmetro),85+,1656,48
+2022,NonCore (Nonmetro),55-64,2429,14
+2022,NonCore (Nonmetro),65-74,4193,32
+2022,NonCore (Nonmetro),75-84,3487,72
+2022,NonCore (Nonmetro),85+,1150,27
+2022,Not Available,55-64,207,NOT_RETURNED
+2022,Not Available,65-74,425,NOT_RETURNED
+2022,Not Available,75-84,401,NOT_RETURNED
+2022,Not Available,85+,234,NOT_RETURNED
+2023,Large Central Metro,55-64,4741,41
+2023,Large Central Metro,65-74,9552,113
+2023,Large Central Metro,75-84,9231,161
+2023,Large Central Metro,85+,4490,111
+2023,Large Fringe Metro,55-64,5193,36
+2023,Large Fringe Metro,65-74,10108,112
+2023,Large Fringe Metro,75-84,9941,159
+2023,Large Fringe Metro,85+,4382,101
+2023,Medium Metro,55-64,5017,26
+2023,Medium Metro,65-74,9862,99
+2023,Medium Metro,75-84,9048,160
+2023,Medium Metro,85+,3570,103
+2023,Small Metro,55-64,2666,20
+2023,Small Metro,65-74,4905,43
+2023,Small Metro,75-84,4478,69
+2023,Small Metro,85+,1639,42
+2023,Micropolitan (Nonmetro),55-64,3019,18
+2023,Micropolitan (Nonmetro),65-74,5446,44
+2023,Micropolitan (Nonmetro),75-84,4720,81
+2023,Micropolitan (Nonmetro),85+,1573,49
+2023,NonCore (Nonmetro),55-64,2389,16
+2023,NonCore (Nonmetro),65-74,4303,46
+2023,NonCore (Nonmetro),75-84,3616,66
+2023,NonCore (Nonmetro),85+,1203,26
+2023,Not Available,55-64,214,NOT_RETURNED
+2023,Not Available,65-74,421,NOT_RETURNED
+2023,Not Available,75-84,470,NOT_RETURNED
+2023,Not Available,85+,228,NOT_RETURNED
+2024,Large Central Metro,55-64,4314,31
+2024,Large Central Metro,65-74,9553,109
+2024,Large Central Metro,75-84,9406,167
+2024,Large Central Metro,85+,4429,101
+2024,Large Fringe Metro,55-64,4729,32
+2024,Large Fringe Metro,65-74,9828,86
+2024,Large Fringe Metro,75-84,10010,178
+2024,Large Fringe Metro,85+,4360,94
+2024,Medium Metro,55-64,4634,35
+2024,Medium Metro,65-74,9653,103
+2024,Medium Metro,75-84,9134,177
+2024,Medium Metro,85+,3581,90
+2024,Small Metro,55-64,2399,16
+2024,Small Metro,65-74,4786,56
+2024,Small Metro,75-84,4406,94
+2024,Small Metro,85+,1661,49
+2024,Micropolitan (Nonmetro),55-64,2812,20
+2024,Micropolitan (Nonmetro),65-74,5445,71
+2024,Micropolitan (Nonmetro),75-84,4648,85
+2024,Micropolitan (Nonmetro),85+,1679,56
+2024,NonCore (Nonmetro),55-64,2135,17
+2024,NonCore (Nonmetro),65-74,4221,33
+2024,NonCore (Nonmetro),75-84,3593,64
+2024,NonCore (Nonmetro),85+,1152,25
+2024,Not Available,55-64,178,NOT_RETURNED
+2024,Not Available,65-74,385,NOT_RETURNED
+2024,Not Available,75-84,405,NOT_RETURNED
+2024,Not Available,85+,224,NOT_RETURNED

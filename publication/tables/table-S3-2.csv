@@ -1,0 +1,10 @@
+﻿Setting,Documented specification,Evidence status
+Program/version,NCI Joinpoint Regression Program V5.4.0.0,Documented in retained analysis record
+Model,Log-linear,Documented in retained analysis record
+Weighting,CDC WONDER-provided rate SEs,Documented in retained analysis record
+Model selection,"Permutation test; alpha=.05; 4,499 permutations",Documented in retained analysis record
+CI method,"Empirical-quantile; 5,001 resamples",Documented in retained analysis record
+Maximum allowed joinpoints,2 for the overall 2013–2024 series (common configuration for the other sessions is given in the note),Verified in native Run Summary export
+Minimum observations: joinpoint to either end,2 observations,Verified in native Run Summary export
+Minimum observations: between joinpoints,2 observations,Verified in native Run Summary export
+Native analysis files,Original .JPO/.JPS files located,Located; settings verified against native Run Summary exports (see note)

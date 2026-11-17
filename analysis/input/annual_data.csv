@@ -1,0 +1,1285 @@
+Disease,Dimension,Group,Year,Era,Source,Deaths,Deaths_status,Population,Rate,Rate_status,Lower,Upper,SE,Rate_type
+all,Overall,Overall,1999,Bridged,Lung_all_1999_2020.csv,152063.0,Numeric,279040168.0,55.414976482,Numeric,55.136397365,55.693555599,0.142132202,AAMR
+all,Overall,Overall,2000,Bridged,Lung_all_1999_2020.csv,155431.0,Numeric,281421906.0,56.069090907,Numeric,55.790318073,56.347863741,0.142231038,AAMR
+all,Overall,Overall,2001,Bridged,Lung_all_1999_2020.csv,155973.0,Numeric,284968955.0,55.314875847,Numeric,55.04029308,55.589458613,0.140093248,AAMR
+all,Overall,Overall,2002,Bridged,Lung_all_1999_2020.csv,157630.0,Numeric,287625193.0,54.925664882,Numeric,54.654329982,55.196999783,0.138436174,AAMR
+all,Overall,Overall,2003,Bridged,Lung_all_1999_2020.csv,157992.0,Numeric,290107933.0,54.100592445,Numeric,53.833481379,54.367703512,0.136281156,AAMR
+all,Overall,Overall,2004,Bridged,Lung_all_1999_2020.csv,158009.0,Numeric,292805298.0,53.224891305,Numeric,52.961917153,53.487865458,0.134170486,AAMR
+all,Overall,Overall,2005,Bridged,Lung_all_1999_2020.csv,159220.0,Numeric,295516599.0,52.651657479,Numeric,52.392292446,52.911022512,0.132329098,AAMR
+all,Overall,Overall,2006,Bridged,Lung_all_1999_2020.csv,158600.0,Numeric,298379912.0,51.512993329,Numeric,51.258514726,51.767471932,0.129836022,AAMR
+all,Overall,Overall,2007,Bridged,Lung_all_1999_2020.csv,158686.0,Numeric,301231207.0,50.590412974,Numeric,50.3403496,50.840476348,0.127583354,AAMR
+all,Overall,Overall,2008,Bridged,Lung_all_1999_2020.csv,158592.0,Numeric,304093966.0,49.497597148,Numeric,49.252693402,49.742500895,0.124950891,AAMR
+all,Overall,Overall,2009,Bridged,Lung_all_1999_2020.csv,158086.0,Numeric,306771529.0,48.330860921,Numeric,48.091011412,48.570710429,0.122372198,AAMR
+all,Overall,Overall,2010,Bridged,Lung_all_1999_2020.csv,158249.0,Numeric,308745538.0,47.605473973,Numeric,47.369093884,47.841854062,0.120602086,AAMR
+all,Overall,Overall,2011,Bridged,Lung_all_1999_2020.csv,156957.0,Numeric,311591917.0,45.975603951,Numeric,45.745977515,46.205230386,0.117156345,AAMR
+all,Overall,Overall,2012,Bridged,Lung_all_1999_2020.csv,157426.0,Numeric,313914040.0,44.874077494,Numeric,44.650066944,45.098088043,0.114291097,AAMR
+all,Overall,Overall,2013,Bridged,Lung_all_1999_2020.csv,156178.0,Numeric,316128839.0,43.351409286,Numeric,43.133864993,43.568953579,0.110991986,AAMR
+all,Overall,Overall,2014,Bridged,Lung_all_1999_2020.csv,155529.0,Numeric,318857056.0,42.081059538,Numeric,41.869217243,42.292901833,0.108082803,AAMR
+all,Overall,Overall,2015,Bridged,Lung_all_1999_2020.csv,153722.0,Numeric,321418820.0,40.482562749,Numeric,40.277346002,40.687779497,0.104702422,AAMR
+all,Overall,Overall,2016,Bridged,Lung_all_1999_2020.csv,148870.0,Numeric,323127513.0,38.345678534,Numeric,38.148023215,38.543333853,0.100844551,AAMR
+all,Overall,Overall,2017,Bridged,Lung_all_1999_2020.csv,145849.0,Numeric,325719178.0,36.601380724,Numeric,36.410781615,36.791979834,0.097244443,AAMR
+all,Overall,Overall,2018,Bridged,Lung_all_1999_2020.csv,142081.0,Numeric,327167434.0,34.752204158,Numeric,34.56908979,34.935318527,0.093425698,AAMR
+all,Overall,Overall,2019,Bridged,Lung_all_1999_2020.csv,139603.0,Numeric,328239523.0,33.405383947,Numeric,33.227890004,33.582877889,0.090558134,AAMR
+all,Overall,Overall,2020,Bridged,Lung_all_1999_2020.csv,136084.0,Numeric,329484123.0,31.836501116,Numeric,31.665137253,32.00786498,0.087430543,AAMR
+all,Overall,Overall,2021,Single,Lung_all_2018_2024.csv,134504.0,Numeric,331893745.0,31.734636556,Numeric,31.562651673,31.907474367,0.087867177,AAMR
+all,Overall,Overall,2022,Single,Lung_all_2018_2024.csv,131889.0,Numeric,333287557.0,30.046425497,Numeric,29.882698076,30.2109725,0.083649096,AAMR
+all,Overall,Overall,2023,Single,Lung_all_2018_2024.csv,131584.0,Numeric,334914895.0,29.492104509,Numeric,29.331214873,29.653809184,0.082199222,AAMR
+all,Overall,Overall,2024,Single,Lung_all_2018_2024.csv,128665.0,Numeric,340110988.0,28.023504051,Numeric,27.868927653,28.178886206,0.078974554,AAMR
+all,Age,< 1 year,1999,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,3795762.0,,Unreliable,0.0,0.0,0.0,CMR
+all,Age,1-4 years,1999,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,15339782.0,,Unreliable,0.0,0.0,0.0,CMR
+all,Age,5-14 years,1999,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,40819824.0,,Suppressed,,,,CMR
+all,Age,15-24 years,1999,Bridged,Lung_all_age_1999_2020.csv,20.0,Numeric,38676031.0,0.051711614,Numeric,0.031587005,0.079864452,0.011563069,CMR
+all,Age,25-34 years,1999,Bridged,Lung_all_age_1999_2020.csv,178.0,Numeric,40178406.0,0.443024046,Numeric,0.377940176,0.508107916,0.033206056,CMR
+all,Age,35-44 years,1999,Bridged,Lung_all_age_1999_2020.csv,2722.0,Numeric,45076677.0,6.038599518,Numeric,5.811744579,6.265454457,0.115742316,CMR
+all,Age,45-54 years,1999,Bridged,Lung_all_age_1999_2020.csv,11428.0,Numeric,36577819.0,31.242978156,Numeric,30.670151287,31.815805025,0.292258607,CMR
+all,Age,55-64 years,1999,Bridged,Lung_all_age_1999_2020.csv,29325.0,Numeric,23778026.0,123.328151799,Numeric,121.91659199,124.739711607,0.720183576,CMR
+all,Age,65-74 years,1999,Bridged,Lung_all_age_1999_2020.csv,51811.0,Numeric,18418909.0,281.292447886,Numeric,278.870286053,283.714609719,1.235796853,CMR
+all,Age,75-84 years,1999,Bridged,Lung_all_age_1999_2020.csv,44241.0,Numeric,12224914.0,361.892116378,Numeric,358.519843372,365.264389385,1.720547452,CMR
+all,Age,85+ years,1999,Bridged,Lung_all_age_1999_2020.csv,12331.0,Numeric,4154018.0,296.845126815,Numeric,291.60566299,302.084590639,2.673195829,CMR
+all,Age,Not Stated,1999,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2000,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,3805648.0,,Suppressed,,,,CMR
+all,Age,1-4 years,2000,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,15370150.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2000,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,41077577.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2000,Bridged,Lung_all_age_1999_2020.csv,22.0,Numeric,39183891.0,0.056145522,Numeric,0.035185837,0.085004881,0.011970265,CMR
+all,Age,25-34 years,2000,Bridged,Lung_all_age_1999_2020.csv,196.0,Numeric,39891724.0,0.491329981,Numeric,0.422543784,0.560116178,0.035094999,CMR
+all,Age,35-44 years,2000,Bridged,Lung_all_age_1999_2020.csv,2752.0,Numeric,45148527.0,6.095436956,Numeric,5.867698328,6.323175585,0.116193178,CMR
+all,Age,45-54 years,2000,Bridged,Lung_all_age_1999_2020.csv,11904.0,Numeric,37677952.0,31.594073903,Numeric,31.026509379,32.161638427,0.289573737,CMR
+all,Age,55-64 years,2000,Bridged,Lung_all_age_1999_2020.csv,29710.0,Numeric,24274684.0,122.390882617,Numeric,120.999156388,123.782608845,0.710064403,CMR
+all,Age,65-74 years,2000,Bridged,Lung_all_age_1999_2020.csv,52227.0,Numeric,18390986.0,283.981511377,Numeric,281.545952697,286.417070058,1.24263198,CMR
+all,Age,75-84 years,2000,Bridged,Lung_all_age_1999_2020.csv,45809.0,Numeric,12361180.0,370.587597624,Numeric,367.193912487,373.981282762,1.731472009,CMR
+all,Age,85+ years,2000,Bridged,Lung_all_age_1999_2020.csv,12801.0,Numeric,4239587.0,301.939788003,Numeric,296.709152366,307.17042364,2.668691651,CMR
+all,Age,Not Stated,2000,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2001,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,4012658.0,,Unreliable,0.0,0.0,0.0,CMR
+all,Age,1-4 years,2001,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,15285559.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2001,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,41152040.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2001,Bridged,Lung_all_age_1999_2020.csv,20.0,Numeric,40213570.0,0.049734455,Numeric,0.030379297,0.076810887,0.011120962,CMR
+all,Age,25-34 years,2001,Bridged,Lung_all_age_1999_2020.csv,157.0,Numeric,39471522.0,0.397755121,Numeric,0.335536264,0.459973977,0.031744315,CMR
+all,Age,35-44 years,2001,Bridged,Lung_all_age_1999_2020.csv,2794.0,Numeric,45051752.0,6.201756593,Numeric,5.971793793,6.431719393,0.117327959,CMR
+all,Age,45-54 years,2001,Bridged,Lung_all_age_1999_2020.csv,12031.0,Numeric,39386268.0,30.546179191,Numeric,30.000343283,31.0920151,0.278487708,CMR
+all,Age,55-64 years,2001,Bridged,Lung_all_age_1999_2020.csv,29759.0,Numeric,25105295.0,118.536746929,Numeric,117.189956849,119.88353701,0.687137796,CMR
+all,Age,65-74 years,2001,Bridged,Lung_all_age_1999_2020.csv,51200.0,Numeric,18384179.0,278.500334445,Numeric,276.087948376,280.912720514,1.230809219,CMR
+all,Age,75-84 years,2001,Bridged,Lung_all_age_1999_2020.csv,46677.0,Numeric,12593618.0,370.640113111,Numeric,367.277653911,374.002572311,1.715540408,CMR
+all,Age,85+ years,2001,Bridged,Lung_all_age_1999_2020.csv,13324.0,Numeric,4312494.0,308.962748702,Numeric,303.716548262,314.208949142,2.676632877,CMR
+all,Age,Not Stated,2001,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2002,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,3951461.0,,Unreliable,0.0,0.0,0.0,CMR
+all,Age,1-4 years,2002,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,15477731.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2002,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,41133838.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2002,Bridged,Lung_all_age_1999_2020.csv,21.0,Numeric,40854135.0,0.051402386,Numeric,0.031819105,0.078574201,0.01121692,CMR
+all,Age,25-34 years,2002,Bridged,Lung_all_age_1999_2020.csv,165.0,Numeric,39349646.0,0.419317622,Numeric,0.35533571,0.483299534,0.032643833,CMR
+all,Age,35-44 years,2002,Bridged,Lung_all_age_1999_2020.csv,2694.0,Numeric,44640649.0,6.034858499,Numeric,5.806968971,6.262748026,0.116270167,CMR
+all,Age,45-54 years,2002,Bridged,Lung_all_age_1999_2020.csv,12138.0,Numeric,39992194.0,30.350922983,Numeric,29.810971911,30.890874054,0.275485241,CMR
+all,Age,55-64 years,2002,Bridged,Lung_all_age_1999_2020.csv,30665.0,Numeric,26703332.0,114.835856439,Numeric,113.550533967,116.121178911,0.655776771,CMR
+all,Age,65-74 years,2002,Bridged,Lung_all_age_1999_2020.csv,50237.0,Numeric,18388535.0,273.197402621,Numeric,270.808377101,275.586428141,1.218890572,CMR
+all,Age,75-84 years,2002,Bridged,Lung_all_age_1999_2020.csv,48063.0,Numeric,12764864.0,376.525750686,Numeric,373.159508821,379.89199255,1.717470339,CMR
+all,Age,85+ years,2002,Bridged,Lung_all_age_1999_2020.csv,13642.0,Numeric,4368808.0,312.259087605,Numeric,307.019077371,317.499097838,2.673474609,CMR
+all,Age,Not Stated,2002,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2003,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,3975871.0,,Unreliable,0.0,0.0,0.0,CMR
+all,Age,1-4 years,2003,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,15616575.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2003,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,41036204.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2003,Bridged,Lung_all_age_1999_2020.csv,25.0,Numeric,41388854.0,0.060402735,Numeric,0.03908963,0.089166518,0.012080547,CMR
+all,Age,25-34 years,2003,Bridged,Lung_all_age_1999_2020.csv,154.0,Numeric,39243795.0,0.392418725,Numeric,0.330439601,0.454397849,0.031622002,CMR
+all,Age,35-44 years,2003,Bridged,Lung_all_age_1999_2020.csv,2475.0,Numeric,44154206.0,5.605355014,Numeric,5.384518139,5.82619189,0.112671875,CMR
+all,Age,45-54 years,2003,Bridged,Lung_all_age_1999_2020.csv,12364.0,Numeric,40819954.0,30.289108116,Numeric,29.755204259,30.823011974,0.272399927,CMR
+all,Age,55-64 years,2003,Bridged,Lung_all_age_1999_2020.csv,30934.0,Numeric,28008945.0,110.443288742,Numeric,109.21251744,111.674060044,0.627944542,CMR
+all,Age,65-74 years,2003,Bridged,Lung_all_age_1999_2020.csv,49363.0,Numeric,18500915.0,266.813830559,Numeric,264.460062656,269.167598463,1.200901992,CMR
+all,Age,75-84 years,2003,Bridged,Lung_all_age_1999_2020.csv,48591.0,Numeric,12896438.0,376.778456191,Numeric,373.428306479,380.128605902,1.709260057,CMR
+all,Age,85+ years,2003,Bridged,Lung_all_age_1999_2020.csv,14080.0,Numeric,4466176.0,315.25851198,Numeric,310.051104467,320.465919493,2.656840568,CMR
+all,Age,Not Stated,2003,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2004,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,4014258.0,,Suppressed,,,,CMR
+all,Age,1-4 years,2004,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,15771627.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2004,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,40865917.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2004,Bridged,Lung_all_age_1999_2020.csv,23.0,Numeric,41948112.0,0.054829643,Numeric,0.034757059,0.082271331,0.011432771,CMR
+all,Age,25-34 years,2004,Bridged,Lung_all_age_1999_2020.csv,147.0,Numeric,39266556.0,0.374364383,Numeric,0.313845357,0.434883408,0.030877054,CMR
+all,Age,35-44 years,2004,Bridged,Lung_all_age_1999_2020.csv,2424.0,Numeric,43800275.0,5.534211829,Numeric,5.31389608,5.754527577,0.112405994,CMR
+all,Age,45-54 years,2004,Bridged,Lung_all_age_1999_2020.csv,12440.0,Numeric,41629930.0,29.882346667,Numeric,29.357224223,30.407469112,0.267919614,CMR
+all,Age,55-64 years,2004,Bridged,Lung_all_age_1999_2020.csv,31071.0,Numeric,29305304.0,106.025175511,Numeric,104.84624704,107.204103982,0.601494118,CMR
+all,Age,65-74 years,2004,Bridged,Lung_all_age_1999_2020.csv,49009.0,Numeric,18667533.0,262.536029801,Numeric,260.211650153,264.860409449,1.185907984,CMR
+all,Age,75-84 years,2004,Bridged,Lung_all_age_1999_2020.csv,48441.0,Numeric,12989903.0,372.91271536,Numeric,369.591808363,376.233622358,1.694340305,CMR
+all,Age,85+ years,2004,Bridged,Lung_all_age_1999_2020.csv,14441.0,Numeric,4545883.0,317.672056232,Numeric,312.490783521,322.853328943,2.643506485,CMR
+all,Age,Not Stated,2004,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2005,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,4004393.0,,Unreliable,0.0,0.0,0.0,CMR
+all,Age,1-4 years,2005,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,15913007.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2005,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,40601646.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2005,Bridged,Lung_all_age_1999_2020.csv,16.0,Numeric,42446169.0,,Unreliable,0.021545973,0.061214099,0.009423701,CMR
+all,Age,25-34 years,2005,Bridged,Lung_all_age_1999_2020.csv,132.0,Numeric,39258647.0,0.336231659,Numeric,0.278871848,0.393591469,0.02926521,CMR
+all,Age,35-44 years,2005,Bridged,Lung_all_age_1999_2020.csv,2321.0,Numeric,43505538.0,5.334952989,Numeric,5.117908333,5.551997646,0.11073707,CMR
+all,Age,45-54 years,2005,Bridged,Lung_all_age_1999_2020.csv,12609.0,Numeric,42495904.0,29.67109489,Numeric,29.153190823,30.188998957,0.264236769,CMR
+all,Age,55-64 years,2005,Bridged,Lung_all_age_1999_2020.csv,31350.0,Numeric,30641497.0,102.312233635,Numeric,101.179664128,103.444803143,0.577841585,CMR
+all,Age,65-74 years,2005,Bridged,Lung_all_age_1999_2020.csv,48370.0,Numeric,18881697.0,256.174008088,Numeric,253.891022915,258.456993261,1.164788354,CMR
+all,Age,75-84 years,2005,Bridged,Lung_all_age_1999_2020.csv,49013.0,Numeric,13074802.0,374.866097399,Numeric,371.547331695,378.184863102,1.693247808,CMR
+all,Age,85+ years,2005,Bridged,Lung_all_age_1999_2020.csv,15402.0,Numeric,4693299.0,328.170014312,Numeric,322.987190949,333.352837675,2.644297634,CMR
+all,Age,Not Stated,2005,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2006,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,4041738.0,,Suppressed,,,,CMR
+all,Age,1-4 years,2006,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,15897145.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2006,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,40577826.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2006,Bridged,Lung_all_age_1999_2020.csv,27.0,Numeric,42843844.0,0.063019555,Numeric,0.041530517,0.091690302,0.012128119,CMR
+all,Age,25-34 years,2006,Bridged,Lung_all_age_1999_2020.csv,155.0,Numeric,39395179.0,0.393449158,Numeric,0.331508068,0.455390248,0.031602597,CMR
+all,Age,35-44 years,2006,Bridged,Lung_all_age_1999_2020.csv,2023.0,Numeric,43243801.0,4.678127161,Numeric,4.474268037,4.881986284,0.104009757,CMR
+all,Age,45-54 years,2006,Bridged,Lung_all_age_1999_2020.csv,12601.0,Numeric,43286159.0,29.110922039,Numeric,28.602634425,29.619209652,0.259330415,CMR
+all,Age,55-64 years,2006,Bridged,Lung_all_age_1999_2020.csv,31303.0,Numeric,31930113.0,98.035982522,Numeric,96.949935582,99.122029463,0.554105582,CMR
+all,Age,65-74 years,2006,Bridged,Lung_all_age_1999_2020.csv,47860.0,Numeric,19203027.0,249.231540423,Numeric,246.998622674,251.464458173,1.13924375,CMR
+all,Age,75-84 years,2006,Bridged,Lung_all_age_1999_2020.csv,48718.0,Numeric,13095151.0,372.03083798,Numeric,368.727216461,375.334459498,1.685521183,CMR
+all,Age,85+ years,2006,Bridged,Lung_all_age_1999_2020.csv,15908.0,Numeric,4865929.0,326.92626629,Numeric,321.845864097,332.006668482,2.592041935,CMR
+all,Age,Not Stated,2006,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2007,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,4147997.0,,Suppressed,,,,CMR
+all,Age,1-4 years,2007,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,15977965.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2007,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,40555653.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2007,Bridged,Lung_all_age_1999_2020.csv,25.0,Numeric,43145815.0,0.057943047,Numeric,0.037497843,0.085535526,0.011588609,CMR
+all,Age,25-34 years,2007,Bridged,Lung_all_age_1999_2020.csv,135.0,Numeric,39713463.0,0.3399351,Numeric,0.282591468,0.397278732,0.029256955,CMR
+all,Age,35-44 years,2007,Bridged,Lung_all_age_1999_2020.csv,1848.0,Numeric,42796230.0,4.318137369,Numeric,4.121257395,4.515017342,0.100448966,CMR
+all,Age,45-54 years,2007,Bridged,Lung_all_age_1999_2020.csv,12464.0,Numeric,43939939.0,28.365992952,Numeric,27.86799754,28.863988364,0.254079292,CMR
+all,Age,55-64 years,2007,Bridged,Lung_all_age_1999_2020.csv,31202.0,Numeric,33128434.0,94.184953022,Numeric,93.139880617,95.230025428,0.533200207,CMR
+all,Age,65-74 years,2007,Bridged,Lung_all_age_1999_2020.csv,48135.0,Numeric,19698727.0,244.355891627,Numeric,242.172918457,246.538864797,1.113761821,CMR
+all,Age,75-84 years,2007,Bridged,Lung_all_age_1999_2020.csv,48344.0,Numeric,13087439.0,369.392361638,Numeric,366.099505998,372.685217278,1.680028388,CMR
+all,Age,85+ years,2007,Bridged,Lung_all_age_1999_2020.csv,16524.0,Numeric,5039545.0,327.886743744,Numeric,322.887292504,332.886194983,2.550740428,CMR
+all,Age,Not Stated,2007,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2008,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,4132735.0,,Suppressed,,,,CMR
+all,Age,1-4 years,2008,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,16138392.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2008,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,40636257.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2008,Bridged,Lung_all_age_1999_2020.csv,29.0,Numeric,43391492.0,0.066833378,Numeric,0.04475965,0.095984093,0.012410647,CMR
+all,Age,25-34 years,2008,Bridged,Lung_all_age_1999_2020.csv,144.0,Numeric,40207473.0,0.358142378,Numeric,0.29964579,0.416638967,0.029845198,CMR
+all,Age,35-44 years,2008,Bridged,Lung_all_age_1999_2020.csv,1603.0,Numeric,42192486.0,3.799254682,Numeric,3.613265486,3.985243879,0.094892447,CMR
+all,Age,45-54 years,2008,Bridged,Lung_all_age_1999_2020.csv,12521.0,Numeric,44460447.0,28.162110021,Numeric,27.668820654,28.655399388,0.251678249,CMR
+all,Age,55-64 years,2008,Bridged,Lung_all_age_1999_2020.csv,30781.0,Numeric,34157063.0,90.116061794,Numeric,89.109322747,91.12280084,0.513642371,CMR
+all,Age,65-74 years,2008,Bridged,Lung_all_age_1999_2020.csv,48282.0,Numeric,20505679.0,235.456723964,Numeric,233.3564568,237.556991128,1.07156488,CMR
+all,Age,75-84 years,2008,Bridged,Lung_all_age_1999_2020.csv,47927.0,Numeric,13076102.0,366.523601605,Numeric,363.242135715,369.805067496,1.674217291,CMR
+all,Age,85+ years,2008,Bridged,Lung_all_age_1999_2020.csv,17293.0,Numeric,5195840.0,332.823951469,Numeric,327.863337029,337.784565908,2.530925734,CMR
+all,Age,Not Stated,2008,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2009,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,4003587.0,,Suppressed,,,,CMR
+all,Age,1-4 years,2009,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,16240931.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2009,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,40843063.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2009,Bridged,Lung_all_age_1999_2020.csv,25.0,Numeric,43576932.0,0.057369803,Numeric,0.037126868,0.084689303,0.011473961,CMR
+all,Age,25-34 years,2009,Bridged,Lung_all_age_1999_2020.csv,145.0,Numeric,40723342.0,0.35606115,Numeric,0.298105383,0.414016918,0.029569269,CMR
+all,Age,35-44 years,2009,Bridged,Lung_all_age_1999_2020.csv,1514.0,Numeric,41487811.0,3.6492646,Numeric,3.465442176,3.833087023,0.093786951,CMR
+all,Age,45-54 years,2009,Bridged,Lung_all_age_1999_2020.csv,12482.0,Numeric,44867088.0,27.819946773,Numeric,27.331890075,28.30800347,0.249008519,CMR
+all,Age,55-64 years,2009,Bridged,Lung_all_age_1999_2020.csv,30951.0,Numeric,35405600.0,87.418374494,Numeric,86.444458596,88.392290393,0.496895867,CMR
+all,Age,65-74 years,2009,Bridged,Lung_all_age_1999_2020.csv,48518.0,Numeric,21233099.0,228.50173684,Numeric,226.468471153,230.535002528,1.037380453,CMR
+all,Age,75-84 years,2009,Bridged,Lung_all_age_1999_2020.csv,46838.0,Numeric,13022775.0,359.662207172,Numeric,356.404952577,362.919461766,1.661864589,CMR
+all,Age,85+ years,2009,Bridged,Lung_all_age_1999_2020.csv,17596.0,Numeric,5367301.0,327.837026468,Numeric,322.992993429,332.681059508,2.471445428,CMR
+all,Age,Not Stated,2009,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2010,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,3944153.0,,Unreliable,0.0,0.0,0.0,CMR
+all,Age,1-4 years,2010,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,16257209.0,,Unreliable,0.0,0.0,0.0,CMR
+all,Age,5-14 years,2010,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,41025851.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2010,Bridged,Lung_all_age_1999_2020.csv,31.0,Numeric,43626342.0,0.071057986,Numeric,0.048280349,0.100861126,0.012762391,CMR
+all,Age,25-34 years,2010,Bridged,Lung_all_age_1999_2020.csv,161.0,Numeric,41063948.0,0.39207141,Numeric,0.331508281,0.45263454,0.030899556,CMR
+all,Age,35-44 years,2010,Bridged,Lung_all_age_1999_2020.csv,1351.0,Numeric,41070606.0,3.289457185,Numeric,3.114047877,3.464866493,0.089494545,CMR
+all,Age,45-54 years,2010,Bridged,Lung_all_age_1999_2020.csv,12082.0,Numeric,45006716.0,26.844882439,Numeric,26.366199265,27.323565613,0.244226109,CMR
+all,Age,55-64 years,2010,Bridged,Lung_all_age_1999_2020.csv,31134.0,Numeric,36482729.0,85.339010686,Numeric,84.391058976,86.286962397,0.483648832,CMR
+all,Age,65-74 years,2010,Bridged,Lung_all_age_1999_2020.csv,48584.0,Numeric,21713429.0,223.750933121,Numeric,221.761294087,225.740572154,1.015121956,CMR
+all,Age,75-84 years,2010,Bridged,Lung_all_age_1999_2020.csv,46646.0,Numeric,13061122.0,357.136239903,Numeric,353.895211857,360.37726795,1.653585738,CMR
+all,Age,85+ years,2010,Bridged,Lung_all_age_1999_2020.csv,18252.0,Numeric,5493433.0,332.251253451,Numeric,327.431026692,337.07148021,2.459299367,CMR
+all,Age,Not Stated,2010,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2011,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,3996537.0,,Suppressed,,,,CMR
+all,Age,1-4 years,2011,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,16165521.0,,Unreliable,0.0,0.0,0.0,CMR
+all,Age,5-14 years,2011,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,41039048.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2011,Bridged,Lung_all_age_1999_2020.csv,30.0,Numeric,43797875.0,0.068496474,Numeric,0.046214571,0.097782826,0.012505688,CMR
+all,Age,25-34 years,2011,Bridged,Lung_all_age_1999_2020.csv,122.0,Numeric,41790498.0,0.291932391,Numeric,0.24012897,0.343735812,0.026430317,CMR
+all,Age,35-44 years,2011,Bridged,Lung_all_age_1999_2020.csv,1259.0,Numeric,40627954.0,3.098851594,Numeric,2.927675156,3.270028031,0.087334917,CMR
+all,Age,45-54 years,2011,Bridged,Lung_all_age_1999_2020.csv,11483.0,Numeric,44718203.0,25.678581047,Numeric,25.20890392,26.148258174,0.239631187,CMR
+all,Age,55-64 years,2011,Bridged,Lung_all_age_1999_2020.csv,31758.0,Numeric,38062140.0,83.437242362,Numeric,82.51956622,84.354918505,0.468202114,CMR
+all,Age,65-74 years,2011,Bridged,Lung_all_age_1999_2020.csv,48158.0,Numeric,22481738.0,214.209417439,Numeric,212.296217272,216.122617607,0.976122534,CMR
+all,Age,75-84 years,2011,Bridged,Lung_all_age_1999_2020.csv,45571.0,Numeric,13175230.0,345.883904873,Numeric,342.708185303,349.059624443,1.620265087,CMR
+all,Age,85+ years,2011,Bridged,Lung_all_age_1999_2020.csv,18566.0,Numeric,5737173.0,323.608857533,Numeric,318.953883116,328.26383195,2.374986948,CMR
+all,Age,Not Stated,2011,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2012,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,3943077.0,,Unreliable,0.0,0.0,0.0,CMR
+all,Age,1-4 years,2012,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,16056267.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2012,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,41144754.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2012,Bridged,Lung_all_age_1999_2020.csv,25.0,Numeric,43943905.0,0.056890711,Numeric,0.036816824,0.083982068,0.011378142,CMR
+all,Age,25-34 years,2012,Bridged,Lung_all_age_1999_2020.csv,174.0,Numeric,42309321.0,0.411256895,Numeric,0.350149378,0.472364413,0.031177305,CMR
+all,Age,35-44 years,2012,Bridged,Lung_all_age_1999_2020.csv,1172.0,Numeric,40516420.0,2.892654386,Numeric,2.727043526,3.058265246,0.084495337,CMR
+all,Age,45-54 years,2012,Bridged,Lung_all_age_1999_2020.csv,11103.0,Numeric,44268738.0,25.080904723,Numeric,24.614375235,25.547434212,0.238025249,CMR
+all,Age,55-64 years,2012,Bridged,Lung_all_age_1999_2020.csv,31444.0,Numeric,38586202.0,81.490269501,Numeric,80.589543019,82.390995983,0.459554328,CMR
+all,Age,65-74 years,2012,Bridged,Lung_all_age_1999_2020.csv,49402.0,Numeric,23985392.0,205.967031933,Numeric,204.150757305,207.783306562,0.926670729,CMR
+all,Age,75-84 years,2012,Bridged,Lung_all_age_1999_2020.csv,45053.0,Numeric,13272634.0,339.442796358,Numeric,336.308350228,342.577242489,1.599207209,CMR
+all,Age,85+ years,2012,Bridged,Lung_all_age_1999_2020.csv,19044.0,Numeric,5887330.0,323.474308388,Numeric,318.880035602,328.068581173,2.344016727,CMR
+all,Age,Not Stated,2012,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2013,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,3941783.0,,Suppressed,,,,CMR
+all,Age,1-4 years,2013,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,15926305.0,,Unreliable,0.0,0.0,0.0,CMR
+all,Age,5-14 years,2013,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,41221035.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2013,Bridged,Lung_all_age_1999_2020.csv,22.0,Numeric,43954402.0,0.05005187,Numeric,0.031367006,0.075779031,0.010671095,CMR
+all,Age,25-34 years,2013,Bridged,Lung_all_age_1999_2020.csv,123.0,Numeric,42844587.0,0.287084107,Numeric,0.236348523,0.337819691,0.025885502,CMR
+all,Age,35-44 years,2013,Bridged,Lung_all_age_1999_2020.csv,1145.0,Numeric,40452690.0,2.830466899,Numeric,2.666516903,2.994416894,0.083647957,CMR
+all,Age,45-54 years,2013,Bridged,Lung_all_age_1999_2020.csv,10432.0,Numeric,43767532.0,23.835019987,Numeric,23.377628789,24.292411185,0.233362856,CMR
+all,Age,55-64 years,2013,Bridged,Lung_all_age_1999_2020.csv,31416.0,Numeric,39316431.0,79.905523469,Numeric,79.021919968,80.789126971,0.450818113,CMR
+all,Age,65-74 years,2013,Bridged,Lung_all_age_1999_2020.csv,49562.0,Numeric,25216766.0,196.543839127,Numeric,194.813460689,198.274217564,0.882846141,CMR
+all,Age,75-84 years,2013,Bridged,Lung_all_age_1999_2020.csv,44153.0,Numeric,13446519.0,328.360075942,Numeric,325.297221838,331.422930047,1.562680665,CMR
+all,Age,85+ years,2013,Bridged,Lung_all_age_1999_2020.csv,19317.0,Numeric,6040789.0,319.776108717,Numeric,315.266568703,324.285648731,2.300785721,CMR
+all,Age,Not Stated,2013,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2014,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,3948350.0,,Suppressed,,,,CMR
+all,Age,1-4 years,2014,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,15928533.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2014,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,41191072.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2014,Bridged,Lung_all_age_1999_2020.csv,22.0,Numeric,43979821.0,0.050022941,Numeric,0.031348877,0.075735233,0.010664927,CMR
+all,Age,25-34 years,2014,Bridged,Lung_all_age_1999_2020.csv,129.0,Numeric,43516504.0,0.296439254,Numeric,0.245283213,0.347595296,0.026100021,CMR
+all,Age,35-44 years,2014,Bridged,Lung_all_age_1999_2020.csv,1107.0,Numeric,40513133.0,2.732447278,Numeric,2.571481315,2.893413241,0.082125491,CMR
+all,Age,45-54 years,2014,Bridged,Lung_all_age_1999_2020.csv,9728.0,Numeric,43458851.0,22.384392997,Numeric,21.939567562,22.829218433,0.226951753,CMR
+all,Age,55-64 years,2014,Bridged,Lung_all_age_1999_2020.csv,31425.0,Numeric,40077581.0,78.410421028,Numeric,77.543474695,79.277367361,0.442319558,CMR
+all,Age,65-74 years,2014,Bridged,Lung_all_age_1999_2020.csv,49975.0,Numeric,26398290.0,189.311504647,Numeric,187.651701142,190.971308151,0.846838523,CMR
+all,Age,75-84 years,2014,Bridged,Lung_all_age_1999_2020.csv,43927.0,Numeric,13682690.0,321.040672558,Numeric,318.038398346,324.04294677,1.531772557,CMR
+all,Age,85+ years,2014,Bridged,Lung_all_age_1999_2020.csv,19202.0,Numeric,6162231.0,311.60792252,Numeric,307.200432581,316.015412459,2.248719357,CMR
+all,Age,Not Stated,2014,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2015,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,3978038.0,,Unreliable,0.0,0.0,0.0,CMR
+all,Age,1-4 years,2015,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,15929243.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2015,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,41109506.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2015,Bridged,Lung_all_age_1999_2020.csv,26.0,Numeric,43848216.0,0.059295457,Numeric,0.038733571,0.086881482,0.011628796,CMR
+all,Age,25-34 years,2015,Bridged,Lung_all_age_1999_2020.csv,133.0,Numeric,44137202.0,0.301333102,Numeric,0.250120471,0.352545734,0.026128894,CMR
+all,Age,35-44 years,2015,Bridged,Lung_all_age_1999_2020.csv,1013.0,Numeric,40589783.0,2.495701936,Numeric,2.342012483,2.649391389,0.078412986,CMR
+all,Age,45-54 years,2015,Bridged,Lung_all_age_1999_2020.csv,8829.0,Numeric,43188161.0,20.443102451,Numeric,20.016673072,20.86953183,0.21756601,CMR
+all,Age,55-64 years,2015,Bridged,Lung_all_age_1999_2020.csv,31392.0,Numeric,40877819.0,76.794703749,Numeric,75.945175455,77.644232043,0.433432803,CMR
+all,Age,65-74 years,2015,Bridged,Lung_all_age_1999_2020.csv,49824.0,Numeric,27550517.0,180.845971058,Numeric,179.257988917,182.433953198,0.81019497,CMR
+all,Age,75-84 years,2015,Bridged,Lung_all_age_1999_2020.csv,42627.0,Numeric,13923174.0,306.158638828,Numeric,303.252206568,309.065071087,1.482873602,CMR
+all,Age,85+ years,2015,Bridged,Lung_all_age_1999_2020.csv,19867.0,Numeric,6287161.0,315.993180388,Numeric,311.599103667,320.387257109,2.241875878,CMR
+all,Age,Not Stated,2015,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2016,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,3970145.0,,Suppressed,,,,CMR
+all,Age,1-4 years,2016,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,15956892.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2016,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,41048032.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2016,Bridged,Lung_all_age_1999_2020.csv,28.0,Numeric,43511027.0,0.064351503,Numeric,0.042760931,0.093005941,0.012161291,CMR
+all,Age,25-34 years,2016,Bridged,Lung_all_age_1999_2020.csv,127.0,Numeric,44677243.0,0.28426105,Numeric,0.234821835,0.333700265,0.025224089,CMR
+all,Age,35-44 years,2016,Bridged,Lung_all_age_1999_2020.csv,884.0,Numeric,40470156.0,2.184325655,Numeric,2.040330684,2.328320626,0.073466822,CMR
+all,Age,45-54 years,2016,Bridged,Lung_all_age_1999_2020.csv,7929.0,Numeric,42786679.0,18.531468638,Numeric,18.123565824,18.939371452,0.208113681,CMR
+all,Age,55-64 years,2016,Bridged,Lung_all_age_1999_2020.csv,30347.0,Numeric,41463144.0,73.190301247,Numeric,72.366823773,74.013778721,0.420141568,CMR
+all,Age,65-74 years,2016,Bridged,Lung_all_age_1999_2020.csv,48056.0,Numeric,28630330.0,167.849968897,Numeric,166.34923557,169.350702223,0.765680269,CMR
+all,Age,75-84 years,2016,Bridged,Lung_all_age_1999_2020.csv,42032.0,Numeric,14233534.0,295.302628286,Numeric,292.479482172,298.1257744,1.44038067,CMR
+all,Age,85+ years,2016,Bridged,Lung_all_age_1999_2020.csv,19462.0,Numeric,6380331.0,305.031196657,Numeric,300.745646368,309.316746947,2.18650525,CMR
+all,Age,Not Stated,2016,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2017,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,3939295.0,,Unreliable,0.0,0.0,0.0,CMR
+all,Age,1-4 years,2017,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,15999565.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2017,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,41082692.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2017,Bridged,Lung_all_age_1999_2020.csv,17.0,Numeric,43250295.0,,Unreliable,0.02289737,0.062932981,0.009533127,CMR
+all,Age,25-34 years,2017,Bridged,Lung_all_age_1999_2020.csv,111.0,Numeric,45342672.0,0.244802512,Numeric,0.199260685,0.290344339,0.023235626,CMR
+all,Age,35-44 years,2017,Bridged,Lung_all_age_1999_2020.csv,842.0,Numeric,40875370.0,2.059920191,Numeric,1.920780697,2.199059686,0.070989538,CMR
+all,Age,45-54 years,2017,Bridged,Lung_all_age_1999_2020.csv,6982.0,Numeric,42374952.0,16.476714829,Numeric,16.090226153,16.863203506,0.1971881,CMR
+all,Age,55-64 years,2017,Bridged,Lung_all_age_1999_2020.csv,29487.0,Numeric,41995658.0,70.214401689,Numeric,69.412969141,71.015834236,0.408894157,CMR
+all,Age,65-74 years,2017,Bridged,Lung_all_age_1999_2020.csv,47628.0,Numeric,29683446.0,160.45306869,Numeric,159.012039008,161.894098372,0.735219225,CMR
+all,Age,75-84 years,2017,Bridged,Lung_all_age_1999_2020.csv,41680.0,Numeric,14706551.0,283.411113864,Numeric,280.690235713,286.131992014,1.388203138,CMR
+all,Age,85+ years,2017,Bridged,Lung_all_age_1999_2020.csv,19090.0,Numeric,6468682.0,295.114213375,Numeric,290.927789159,299.30063759,2.135930722,CMR
+all,Age,Not Stated,2017,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2018,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,3848208.0,,Unreliable,0.0,0.0,0.0,CMR
+all,Age,1-4 years,2018,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,15962067.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2018,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,41075169.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2018,Bridged,Lung_all_age_1999_2020.csv,18.0,Numeric,42970800.0,,Unreliable,0.024825882,0.066202491,0.009873311,CMR
+all,Age,25-34 years,2018,Bridged,Lung_all_age_1999_2020.csv,119.0,Numeric,45697774.0,0.260406557,Numeric,0.213618555,0.30719456,0.02387143,CMR
+all,Age,35-44 years,2018,Bridged,Lung_all_age_1999_2020.csv,782.0,Numeric,41277888.0,1.894476772,Numeric,1.761693924,2.02725962,0.067746351,CMR
+all,Age,45-54 years,2018,Bridged,Lung_all_age_1999_2020.csv,6263.0,Numeric,41631699.0,15.043825139,Numeric,14.671242047,15.416408231,0.190093414,CMR
+all,Age,55-64 years,2018,Bridged,Lung_all_age_1999_2020.csv,28950.0,Numeric,42272636.0,68.484018834,Numeric,67.695120525,69.272917144,0.402499137,CMR
+all,Age,65-74 years,2018,Bridged,Lung_all_age_1999_2020.csv,45996.0,Numeric,30492316.0,150.844560315,Numeric,149.466000254,152.223120376,0.70334697,CMR
+all,Age,75-84 years,2018,Bridged,Lung_all_age_1999_2020.csv,41225.0,Numeric,15394374.0,267.792636453,Numeric,265.207554176,270.377718729,1.318919529,CMR
+all,Age,85+ years,2018,Bridged,Lung_all_age_1999_2020.csv,18721.0,Numeric,6544503.0,286.056863294,Numeric,281.959127797,290.154598791,2.090681376,CMR
+all,Age,Not Stated,2018,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2019,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,3783052.0,,Suppressed,,,,CMR
+all,Age,1-4 years,2019,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,15793631.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2019,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,40994163.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2019,Bridged,Lung_all_age_1999_2020.csv,22.0,Numeric,42687510.0,0.051537323,Numeric,0.032297925,0.078028023,0.010987794,CMR
+all,Age,25-34 years,2019,Bridged,Lung_all_age_1999_2020.csv,105.0,Numeric,45940321.0,0.228557393,Numeric,0.184839754,0.272275032,0.022304918,CMR
+all,Age,35-44 years,2019,Bridged,Lung_all_age_1999_2020.csv,769.0,Numeric,41659144.0,1.845933272,Numeric,1.715463802,1.976402742,0.066566056,CMR
+all,Age,45-54 years,2019,Bridged,Lung_all_age_1999_2020.csv,5573.0,Numeric,40874902.0,13.634283454,Numeric,13.276315731,13.992251176,0.182636593,CMR
+all,Age,55-64 years,2019,Bridged,Lung_all_age_1999_2020.csv,27491.0,Numeric,42448537.0,64.763127172,Numeric,63.997550638,65.528703707,0.390600273,CMR
+all,Age,65-74 years,2019,Bridged,Lung_all_age_1999_2020.csv,45419.0,Numeric,31483433.0,144.263174858,Numeric,142.936413625,145.58993609,0.676918996,CMR
+all,Age,75-84 years,2019,Bridged,Lung_all_age_1999_2020.csv,41647.0,Numeric,15969872.0,260.784807793,Numeric,258.280160957,263.28945463,1.277881039,CMR
+all,Age,85+ years,2019,Bridged,Lung_all_age_1999_2020.csv,18567.0,Numeric,6604958.0,281.107010824,Numeric,277.06351611,285.150505538,2.063007507,CMR
+all,Age,Not Stated,2019,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2020,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,3735010.0,,Unreliable,0.0,0.0,0.0,CMR
+all,Age,1-4 years,2020,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,15566282.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2020,Bridged,Lung_all_age_1999_2020.csv,,Suppressed,40992134.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2020,Bridged,Lung_all_age_1999_2020.csv,13.0,Numeric,42555684.0,,Unreliable,0.0162657,0.052238357,0.008472549,CMR
+all,Age,25-34 years,2020,Bridged,Lung_all_age_1999_2020.csv,125.0,Numeric,46069646.0,0.271328328,Numeric,0.223762374,0.318894281,0.024268343,CMR
+all,Age,35-44 years,2020,Bridged,Lung_all_age_1999_2020.csv,755.0,Numeric,42136192.0,1.791808809,Numeric,1.663996034,1.919621583,0.065210599,CMR
+all,Age,45-54 years,2020,Bridged,Lung_all_age_1999_2020.csv,5051.0,Numeric,40366133.0,12.512964767,Numeric,12.167878554,12.85805098,0.176064394,CMR
+all,Age,55-64 years,2020,Bridged,Lung_all_age_1999_2020.csv,26644.0,Numeric,42403677.0,62.834173555,Numeric,62.079685678,63.588661433,0.384942795,CMR
+all,Age,65-74 years,2020,Bridged,Lung_all_age_1999_2020.csv,45550.0,Numeric,32549398.0,139.941144226,Numeric,138.655983926,141.226304527,0.655694031,CMR
+all,Age,75-84 years,2020,Bridged,Lung_all_age_1999_2020.csv,40488.0,Numeric,16451547.0,246.104515278,Numeric,243.707269894,248.501760661,1.223084379,CMR
+all,Age,85+ years,2020,Bridged,Lung_all_age_1999_2020.csv,17452.0,Numeric,6658420.0,262.104222924,Numeric,258.215495638,265.99295021,1.984044534,CMR
+all,Age,Not Stated,2020,Bridged,Lung_all_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2021,Single,Lung_all_age_2018_2024.csv,0.0,Numeric,3564493.0,0.0,Numeric,0.0,0.0,0.0,CMR
+all,Age,1-4 years,2021,Single,Lung_all_age_2018_2024.csv,0.0,Numeric,15262845.0,0.0,Numeric,0.0,0.0,0.0,CMR
+all,Age,5-14 years,2021,Single,Lung_all_age_2018_2024.csv,,Suppressed,41739332.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2021,Single,Lung_all_age_2018_2024.csv,17.0,Numeric,43088663.0,0.039453533,Numeric,0.022983261,0.063169052,0.009568887,CMR
+all,Age,25-34 years,2021,Single,Lung_all_age_2018_2024.csv,117.0,Numeric,45495105.0,0.257170524,Numeric,0.210570694,0.303770354,0.023775423,CMR
+all,Age,35-44 years,2021,Single,Lung_all_age_2018_2024.csv,773.0,Numeric,43403854.0,1.780947839,Numeric,1.655397606,1.906498073,0.064056241,CMR
+all,Age,45-54 years,2021,Single,Lung_all_age_2018_2024.csv,4848.0,Numeric,40688436.0,11.914933275,Numeric,11.579530709,12.250335841,0.171123758,CMR
+all,Age,55-64 years,2021,Single,Lung_all_age_2018_2024.csv,25884.0,Numeric,42803064.0,60.472306375,Numeric,59.735595792,61.209016958,0.375872746,CMR
+all,Age,65-74 years,2021,Single,Lung_all_age_2018_2024.csv,45263.0,Numeric,33666122.0,134.446729564,Numeric,133.208119381,135.685339747,0.631943971,CMR
+all,Age,75-84 years,2021,Single,Lung_all_age_2018_2024.csv,40314.0,Numeric,16206075.0,248.758567389,Numeric,246.330245959,251.18688882,1.238939505,CMR
+all,Age,85+ years,2021,Single,Lung_all_age_2018_2024.csv,17285.0,Numeric,5975756.0,289.252104671,Numeric,284.939914483,293.564294859,2.200097035,CMR
+all,Age,Not Stated,2021,Single,Lung_all_age_2018_2024.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2022,Single,Lung_all_age_2018_2024.csv,0.0,Numeric,3683113.0,0.0,Numeric,0.0,0.0,0.0,CMR
+all,Age,1-4 years,2022,Single,Lung_all_age_2018_2024.csv,0.0,Numeric,14855240.0,0.0,Numeric,0.0,0.0,0.0,CMR
+all,Age,5-14 years,2022,Single,Lung_all_age_2018_2024.csv,,Suppressed,40899034.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2022,Single,Lung_all_age_2018_2024.csv,12.0,Numeric,44341571.0,0.027062641,Numeric,0.013983537,0.047273021,0.007812311,CMR
+all,Age,25-34 years,2022,Single,Lung_all_age_2018_2024.csv,116.0,Numeric,45501300.0,0.254937771,Numeric,0.20854383,0.301331711,0.023670378,CMR
+all,Age,35-44 years,2022,Single,Lung_all_age_2018_2024.csv,769.0,Numeric,43695365.0,1.759912064,Numeric,1.635522522,1.884301606,0.063464052,CMR
+all,Age,45-54 years,2022,Single,Lung_all_age_2018_2024.csv,4481.0,Numeric,40431645.0,11.082903008,Numeric,10.758397456,11.407408561,0.165564057,CMR
+all,Age,55-64 years,2022,Single,Lung_all_age_2018_2024.csv,24375.0,Numeric,42085437.0,57.917896873,Numeric,57.190792858,58.645000887,0.370971436,CMR
+all,Age,65-74 years,2022,Single,Lung_all_age_2018_2024.csv,44552.0,Numeric,33788439.0,131.855751016,Numeric,130.631356021,133.080146011,0.624691324,CMR
+all,Age,75-84 years,2022,Single,Lung_all_age_2018_2024.csv,40731.0,Numeric,17520545.0,232.475645021,Numeric,230.217920258,234.733369784,1.151900389,CMR
+all,Age,85+ years,2022,Single,Lung_all_age_2018_2024.csv,16851.0,Numeric,6485868.0,259.811022981,Numeric,255.888181085,263.733864877,2.001449947,CMR
+all,Age,Not Stated,2022,Single,Lung_all_age_2018_2024.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2023,Single,Lung_all_age_2018_2024.csv,0.0,Numeric,3648654.0,0.0,Numeric,0.0,0.0,0.0,CMR
+all,Age,1-4 years,2023,Single,Lung_all_age_2018_2024.csv,0.0,Numeric,14862506.0,0.0,Numeric,0.0,0.0,0.0,CMR
+all,Age,5-14 years,2023,Single,Lung_all_age_2018_2024.csv,,Suppressed,40987321.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2023,Single,Lung_all_age_2018_2024.csv,21.0,Numeric,43886652.0,0.04785054,Numeric,0.029620441,0.073144814,0.010441844,CMR
+all,Age,25-34 years,2023,Single,Lung_all_age_2018_2024.csv,125.0,Numeric,45542516.0,0.274468806,Numeric,0.226352303,0.322585309,0.024549236,CMR
+all,Age,35-44 years,2023,Single,Lung_all_age_2018_2024.csv,736.0,Numeric,44390693.0,1.658005204,Numeric,1.538220034,1.777790374,0.061114883,CMR
+all,Age,45-54 years,2023,Single,Lung_all_age_2018_2024.csv,4274.0,Numeric,40493781.0,10.554707154,Numeric,10.238271799,10.871142509,0.16144661,CMR
+all,Age,55-64 years,2023,Single,Lung_all_age_2018_2024.csv,23239.0,Numeric,41854411.0,55.523419025,Numeric,54.809541754,56.237296296,0.364223097,CMR
+all,Age,65-74 years,2023,Single,Lung_all_age_2018_2024.csv,44597.0,Numeric,34685284.0,128.576141974,Numeric,127.38280351,129.769480438,0.608846155,CMR
+all,Age,75-84 years,2023,Single,Lung_all_age_2018_2024.csv,41504.0,Numeric,18368097.0,225.956994892,Numeric,223.783108298,228.130881486,1.109125813,CMR
+all,Age,85+ years,2023,Single,Lung_all_age_2018_2024.csv,17085.0,Numeric,6194980.0,275.787815296,Numeric,271.652356916,279.923273675,2.109927745,CMR
+all,Age,Not Stated,2023,Single,Lung_all_age_2018_2024.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+all,Age,< 1 year,2024,Single,Lung_all_age_2018_2024.csv,0.0,Numeric,3615598.0,0.0,Numeric,0.0,0.0,0.0,CMR
+all,Age,1-4 years,2024,Single,Lung_all_age_2018_2024.csv,,Suppressed,14983716.0,,Suppressed,,,,CMR
+all,Age,5-14 years,2024,Single,Lung_all_age_2018_2024.csv,,Suppressed,41098826.0,,Suppressed,,,,CMR
+all,Age,15-24 years,2024,Single,Lung_all_age_2018_2024.csv,19.0,Numeric,44797761.0,0.042412834,Numeric,0.025535495,0.06623273,0.009730171,CMR
+all,Age,25-34 years,2024,Single,Lung_all_age_2018_2024.csv,109.0,Numeric,46453864.0,0.234641407,Numeric,0.190591248,0.278691565,0.022474571,CMR
+all,Age,35-44 years,2024,Single,Lung_all_age_2018_2024.csv,716.0,Numeric,45539224.0,1.572270972,Numeric,1.457104263,1.687437681,0.058758525,CMR
+all,Age,45-54 years,2024,Single,Lung_all_age_2018_2024.csv,4049.0,Numeric,40780356.0,9.928800033,Numeric,9.622970834,10.234629232,0.156035305,CMR
+all,Age,55-64 years,2024,Single,Lung_all_age_2018_2024.csv,21201.0,Numeric,41661725.0,50.888435368,Numeric,50.203425234,51.573445502,0.349494966,CMR
+all,Age,65-74 years,2024,Single,Lung_all_age_2018_2024.csv,43871.0,Numeric,35444962.0,123.772173885,Numeric,122.61395585,124.93039192,0.590927569,CMR
+all,Age,75-84 years,2024,Single,Lung_all_age_2018_2024.csv,41602.0,Numeric,19299813.0,215.556492698,Numeric,213.485111284,217.627874112,1.056827252,CMR
+all,Age,85+ years,2024,Single,Lung_all_age_2018_2024.csv,17086.0,Numeric,6435143.0,265.510805277,Numeric,261.529567922,269.492042631,2.031243548,CMR
+all,Age,Not Stated,2024,Single,Lung_all_age_2018_2024.csv,,Suppressed,,,Not Applicable,,,,CMR
+all,Race,Hispanic,1999,Bridged,Lung_all_Hispanic_1999_2020.csv,3543.0,Numeric,33937795.0,25.012717809,Numeric,24.15269766,25.872737957,0.43878579,AAMR
+all,Race,Hispanic,2000,Bridged,Lung_all_Hispanic_1999_2020.csv,3637.0,Numeric,35305818.0,24.724129501,Numeric,23.886920475,25.561338527,0.427147462,AAMR
+all,Race,Hispanic,2001,Bridged,Lung_all_Hispanic_1999_2020.csv,3812.0,Numeric,37144096.0,23.930631829,Numeric,23.138491365,24.722772293,0.404153298,AAMR
+all,Race,Hispanic,2002,Bridged,Lung_all_Hispanic_1999_2020.csv,4037.0,Numeric,38617620.0,24.230084024,Numeric,23.451219519,25.008948529,0.39737985,AAMR
+all,Race,Hispanic,2003,Bridged,Lung_all_Hispanic_1999_2020.csv,4136.0,Numeric,40049429.0,23.736099469,Numeric,22.983018343,24.489180596,0.384225064,AAMR
+all,Race,Hispanic,2004,Bridged,Lung_all_Hispanic_1999_2020.csv,4212.0,Numeric,41501375.0,23.15003325,Numeric,22.421347916,23.878718584,0.371778232,AAMR
+all,Race,Hispanic,2005,Bridged,Lung_all_Hispanic_1999_2020.csv,4485.0,Numeric,43023614.0,23.314827969,Numeric,22.605018706,24.024637233,0.362147583,AAMR
+all,Race,Hispanic,2006,Bridged,Lung_all_Hispanic_1999_2020.csv,4354.0,Numeric,44606305.0,21.616879095,Numeric,20.949974517,22.283783674,0.340257438,AAMR
+all,Race,Hispanic,2007,Bridged,Lung_all_Hispanic_1999_2020.csv,4617.0,Numeric,46196853.0,21.86727239,Numeric,21.211852816,22.522691964,0.334397742,AAMR
+all,Race,Hispanic,2008,Bridged,Lung_all_Hispanic_1999_2020.csv,4802.0,Numeric,47793785.0,21.643318493,Numeric,21.007236397,22.27940059,0.324531682,AAMR
+all,Race,Hispanic,2009,Bridged,Lung_all_Hispanic_1999_2020.csv,4777.0,Numeric,49327489.0,20.426789132,Numeric,19.824524811,21.029053452,0.307277715,AAMR
+all,Race,Hispanic,2010,Bridged,Lung_all_Hispanic_1999_2020.csv,4950.0,Numeric,50477594.0,20.401463448,Numeric,19.810283976,20.992642921,0.30162218,AAMR
+all,Race,Hispanic,2011,Bridged,Lung_all_Hispanic_1999_2020.csv,5089.0,Numeric,52045277.0,19.748870302,Numeric,19.186221277,20.311519327,0.287065829,AAMR
+all,Race,Hispanic,2012,Bridged,Lung_all_Hispanic_1999_2020.csv,5225.0,Numeric,53027708.0,19.19647121,Numeric,18.656892049,19.73605037,0.27529549,AAMR
+all,Race,Hispanic,2013,Bridged,Lung_all_Hispanic_1999_2020.csv,5353.0,Numeric,54071370.0,18.702317819,Numeric,18.183615802,19.221019835,0.264643886,AAMR
+all,Race,Hispanic,2014,Bridged,Lung_all_Hispanic_1999_2020.csv,5511.0,Numeric,55387539.0,18.268181267,Numeric,17.769251268,18.767111266,0.254556122,AAMR
+all,Race,Hispanic,2015,Bridged,Lung_all_Hispanic_1999_2020.csv,5693.0,Numeric,56592793.0,17.73410561,Numeric,17.257087811,18.211123409,0.243376428,AAMR
+all,Race,Hispanic,2016,Bridged,Lung_all_Hispanic_1999_2020.csv,5547.0,Numeric,57470287.0,16.640271649,Numeric,16.186688994,17.093854304,0.231419722,AAMR
+all,Race,Hispanic,2017,Bridged,Lung_all_Hispanic_1999_2020.csv,5452.0,Numeric,58946729.0,15.552262206,Numeric,15.1251444,15.979380011,0.217917248,AAMR
+all,Race,Hispanic,2018,Bridged,Lung_all_Hispanic_1999_2020.csv,5545.0,Numeric,59871746.0,15.077008619,Numeric,14.666889263,15.487127974,0.209244569,AAMR
+all,Race,Hispanic,2019,Bridged,Lung_all_Hispanic_1999_2020.csv,5661.0,Numeric,60572237.0,14.841393427,Numeric,14.442985061,15.239801793,0.203269574,AAMR
+all,Race,Hispanic,2020,Bridged,Lung_all_Hispanic_1999_2020.csv,5653.0,Numeric,61312879.0,14.060085751,Numeric,13.682154794,14.438016708,0.192821917,AAMR
+all,Race,Hispanic,2021,Single,Lung_all_Hispanic_2018_2024.csv,5777.0,Numeric,62647044.0,14.163186075,Numeric,13.786993978,14.547655421,0.193215268,AAMR
+all,Race,Hispanic,2022,Single,Lung_all_Hispanic_2018_2024.csv,5816.0,Numeric,63664346.0,13.622223888,Numeric,13.263360417,13.98889933,0.18430431,AAMR
+all,Race,Hispanic,2023,Single,Lung_all_Hispanic_2018_2024.csv,5812.0,Numeric,65219145.0,13.067891574,Numeric,12.722759629,13.420532942,0.177255521,AAMR
+all,Race,Hispanic,2024,Single,Lung_all_Hispanic_2018_2024.csv,6107.0,Numeric,68086153.0,12.980053189,Numeric,12.647038574,13.320049932,0.170999637,AAMR
+all,Urbanicity,Metro,1999,Bridged,Lung_all_Metro_1999_2020.csv,122637.0,Numeric,234421194.0,54.945241434,Numeric,54.63763981,55.252843057,0.156939604,AAMR
+all,Urbanicity,Metro,2000,Bridged,Lung_all_Metro_1999_2020.csv,124674.0,Numeric,236637796.0,55.242707586,Numeric,54.93599084,55.549424332,0.156488136,AAMR
+all,Urbanicity,Metro,2001,Bridged,Lung_all_Metro_1999_2020.csv,125165.0,Numeric,240128266.0,54.476908695,Numeric,54.17497274,54.77884465,0.154048957,AAMR
+all,Urbanicity,Metro,2002,Bridged,Lung_all_Metro_1999_2020.csv,126355.0,Numeric,242665792.0,53.950442931,Numeric,53.652668072,54.24821779,0.151925948,AAMR
+all,Urbanicity,Metro,2003,Bridged,Lung_all_Metro_1999_2020.csv,126705.0,Numeric,244993933.0,53.132917682,Numeric,52.839872179,53.425963186,0.149513012,AAMR
+all,Urbanicity,Metro,2004,Bridged,Lung_all_Metro_1999_2020.csv,126509.0,Numeric,247510633.0,52.160568116,Numeric,51.872414766,52.448721466,0.147017015,AAMR
+all,Urbanicity,Metro,2005,Bridged,Lung_all_Metro_1999_2020.csv,127347.0,Numeric,250039935.0,51.491225243,Numeric,51.207465295,51.77498519,0.144775483,AAMR
+all,Urbanicity,Metro,2006,Bridged,Lung_all_Metro_1999_2020.csv,126696.0,Numeric,252641624.0,50.299452334,Numeric,50.021292305,50.577612363,0.141918382,AAMR
+all,Urbanicity,Metro,2007,Bridged,Lung_all_Metro_1999_2020.csv,126141.0,Numeric,255300617.0,49.103444975,Numeric,48.831048989,49.37584096,0.138977543,AAMR
+all,Urbanicity,Metro,2008,Bridged,Lung_all_Metro_1999_2020.csv,126183.0,Numeric,257996520.0,48.051405484,Numeric,47.784725184,48.318085784,0.136061378,AAMR
+all,Urbanicity,Metro,2009,Bridged,Lung_all_Metro_1999_2020.csv,125784.0,Numeric,260573371.0,46.866273799,Numeric,46.605373996,47.127173603,0.133112144,AAMR
+all,Urbanicity,Metro,2010,Bridged,Lung_all_Metro_1999_2020.csv,125982.0,Numeric,262452132.0,46.145529718,Numeric,45.888571871,46.402487564,0.131100942,AAMR
+all,Urbanicity,Metro,2011,Bridged,Lung_all_Metro_1999_2020.csv,124551.0,Numeric,265270604.0,44.354426121,Numeric,44.105574552,44.603277689,0.126965086,AAMR
+all,Urbanicity,Metro,2012,Bridged,Lung_all_Metro_1999_2020.csv,125203.0,Numeric,267664440.0,43.282203727,Numeric,43.039765678,43.524641776,0.123692882,AAMR
+all,Urbanicity,Metro,2013,Bridged,Lung_all_Metro_1999_2020.csv,124269.0,Numeric,269911242.0,41.774655426,Numeric,41.539494157,42.009816695,0.119980239,AAMR
+all,Urbanicity,Metro,2014,Bridged,Lung_all_Metro_1999_2020.csv,123624.0,Numeric,272667942.0,40.451293903,Numeric,40.222715542,40.679872264,0.116621612,AAMR
+all,Urbanicity,Metro,2015,Bridged,Lung_all_Metro_1999_2020.csv,122224.0,Numeric,275252217.0,38.839120348,Numeric,38.618173652,39.060067045,0.112727907,AAMR
+all,Urbanicity,Metro,2016,Bridged,Lung_all_Metro_1999_2020.csv,118019.0,Numeric,277016929.0,36.622958305,Numeric,36.410842579,36.835074031,0.108222309,AAMR
+all,Urbanicity,Metro,2017,Bridged,Lung_all_Metro_1999_2020.csv,115918.0,Numeric,279636439.0,34.972152456,Numeric,34.767793499,35.176511413,0.104264774,AAMR
+all,Urbanicity,Metro,2018,Bridged,Lung_all_Metro_1999_2020.csv,112947.0,Numeric,281067210.0,33.178168476,Numeric,32.982079406,33.374257545,0.100045444,AAMR
+all,Urbanicity,Metro,2019,Bridged,Lung_all_Metro_1999_2020.csv,110706.0,Numeric,282176462.0,31.799503624,Numeric,31.609765186,31.989242061,0.096805325,AAMR
+all,Urbanicity,Metro,2020,Bridged,Lung_all_Metro_1999_2020.csv,107686.0,Numeric,283450351.0,30.188779799,Numeric,30.006173421,30.371386176,0.093166519,AAMR
+all,Race,NH Black,1999,Bridged,Lung_all_NHBlack_1999_2020.csv,15824.0,Numeric,34722236.0,65.652467596,Numeric,64.618421127,66.686514065,0.527574729,AAMR
+all,Race,NH Black,2000,Bridged,Lung_all_NHBlack_1999_2020.csv,15912.0,Numeric,35091809.0,64.873635463,Numeric,63.853783987,65.893486939,0.520332386,AAMR
+all,Race,NH Black,2001,Bridged,Lung_all_NHBlack_1999_2020.csv,15869.0,Numeric,35638389.0,63.344354661,Numeric,62.345983596,64.342725727,0.509372993,AAMR
+all,Race,NH Black,2002,Bridged,Lung_all_NHBlack_1999_2020.csv,16160.0,Numeric,36049904.0,62.815320447,Numeric,61.832384686,63.798256209,0.501497837,AAMR
+all,Race,NH Black,2003,Bridged,Lung_all_NHBlack_1999_2020.csv,16247.0,Numeric,36422205.0,61.78829468,Numeric,60.821959076,62.754630284,0.493028369,AAMR
+all,Race,NH Black,2004,Bridged,Lung_all_NHBlack_1999_2020.csv,16315.0,Numeric,36848991.0,60.608737805,Numeric,59.660477384,61.556998225,0.483806337,AAMR
+all,Race,NH Black,2005,Bridged,Lung_all_NHBlack_1999_2020.csv,16426.0,Numeric,37270736.0,59.335936718,Numeric,58.409007487,60.262865949,0.472923077,AAMR
+all,Race,NH Black,2006,Bridged,Lung_all_NHBlack_1999_2020.csv,16352.0,Numeric,37719495.0,57.481283355,Numeric,56.579055092,58.383511618,0.460320542,AAMR
+all,Race,NH Black,2007,Bridged,Lung_all_NHBlack_1999_2020.csv,16353.0,Numeric,38184699.0,56.248200837,Numeric,55.363704736,57.132696937,0.451273521,AAMR
+all,Race,NH Black,2008,Bridged,Lung_all_NHBlack_1999_2020.csv,16089.0,Numeric,38651733.0,54.057291565,Numeric,53.198876405,54.915706724,0.437966918,AAMR
+all,Race,NH Black,2009,Bridged,Lung_all_NHBlack_1999_2020.csv,16181.0,Numeric,39104815.0,52.537496401,Numeric,51.703482764,53.371510038,0.425517162,AAMR
+all,Race,NH Black,2010,Bridged,Lung_all_NHBlack_1999_2020.csv,16529.0,Numeric,39437133.0,52.631771853,Numeric,51.804105151,53.459438555,0.42227893,AAMR
+all,Race,NH Black,2011,Bridged,Lung_all_NHBlack_1999_2020.csv,16446.0,Numeric,39944896.0,50.456579252,Numeric,49.660412284,51.25274622,0.406207637,AAMR
+all,Race,NH Black,2012,Bridged,Lung_all_NHBlack_1999_2020.csv,16629.0,Numeric,40391388.0,49.556938991,Numeric,48.77901604,50.334861942,0.396899465,AAMR
+all,Race,NH Black,2013,Bridged,Lung_all_NHBlack_1999_2020.csv,16769.0,Numeric,40802086.0,48.156482305,Numeric,47.403256181,48.909708428,0.384299043,AAMR
+all,Race,NH Black,2014,Bridged,Lung_all_NHBlack_1999_2020.csv,16475.0,Numeric,41316519.0,45.730658762,Numeric,45.009025592,46.452291933,0.368180189,AAMR
+all,Race,NH Black,2015,Bridged,Lung_all_NHBlack_1999_2020.csv,16099.0,Numeric,41777483.0,43.086071911,Numeric,42.398138731,43.77400509,0.350986316,AAMR
+all,Race,NH Black,2016,Bridged,Lung_all_NHBlack_1999_2020.csv,15847.0,Numeric,42141669.0,41.171215942,Numeric,40.508511658,41.833920225,0.33811443,AAMR
+all,Race,NH Black,2017,Bridged,Lung_all_NHBlack_1999_2020.csv,15382.0,Numeric,42624362.0,38.825730704,Numeric,38.191736244,39.459725163,0.323466561,AAMR
+all,Race,NH Black,2018,Bridged,Lung_all_NHBlack_1999_2020.csv,15025.0,Numeric,42934826.0,36.899903915,Numeric,36.291272568,37.508535263,0.310526198,AAMR
+all,Race,NH Black,2019,Bridged,Lung_all_NHBlack_1999_2020.csv,14945.0,Numeric,43235803.0,35.663074909,Numeric,35.073922041,36.252227778,0.300588198,AAMR
+all,Race,NH Black,2020,Bridged,Lung_all_NHBlack_1999_2020.csv,14382.0,Numeric,43620633.0,33.372825901,Numeric,32.811281277,33.934370525,0.286502359,AAMR
+all,Race,NH Black,2021,Single,Lung_all_NHBlack_2018_2024.csv,14237.0,Numeric,41858536.0,33.39645271,Numeric,32.830104291,33.970831473,0.290178263,AAMR
+all,Race,NH Black,2022,Single,Lung_all_NHBlack_2018_2024.csv,14038.0,Numeric,42070471.0,32.242928963,Numeric,31.6956122,32.79794832,0.280429282,AAMR
+all,Race,NH Black,2023,Single,Lung_all_NHBlack_2018_2024.csv,13859.0,Numeric,42313088.0,30.971133168,Numeric,30.442386091,31.507538299,0.270921258,AAMR
+all,Race,NH Black,2024,Single,Lung_all_NHBlack_2018_2024.csv,13877.0,Numeric,42951595.0,30.043977971,Numeric,29.533551169,30.56169359,0.261526061,AAMR
+all,Race,NH White,1999,Bridged,Lung_all_NHWhite_1999_2020.csv,129891.0,Numeric,197154118.0,57.186394167,Numeric,56.875087067,57.497701267,0.158830153,AAMR
+all,Race,NH White,2000,Bridged,Lung_all_NHWhite_1999_2020.csv,132991.0,Numeric,197324684.0,58.189704462,Numeric,57.876679855,58.502729069,0.159706432,AAMR
+all,Race,NH White,2001,Bridged,Lung_all_NHWhite_1999_2020.csv,133203.0,Numeric,197842671.0,57.687682468,Numeric,57.37760245,57.997762487,0.158204091,AAMR
+all,Race,NH White,2002,Bridged,Lung_all_NHWhite_1999_2020.csv,134365.0,Numeric,198101982.0,57.387830688,Numeric,57.080588995,57.695072381,0.156755966,AAMR
+all,Race,NH White,2003,Bridged,Lung_all_NHWhite_1999_2020.csv,134350.0,Numeric,198289486.0,56.628524299,Numeric,56.325189866,56.931858731,0.154762465,AAMR
+all,Race,NH White,2004,Bridged,Lung_all_NHWhite_1999_2020.csv,134050.0,Numeric,198619903.0,55.858623206,Numeric,55.558894147,56.158352265,0.152922989,AAMR
+all,Race,NH White,2005,Bridged,Lung_all_NHWhite_1999_2020.csv,134869.0,Numeric,198880984.0,55.470194312,Numeric,55.17321548,55.767173144,0.151519812,AAMR
+all,Race,NH White,2006,Bridged,Lung_all_NHWhite_1999_2020.csv,134354.0,Numeric,199200396.0,54.506564764,Numeric,54.21396019,54.799169337,0.149288048,AAMR
+all,Race,NH White,2007,Bridged,Lung_all_NHWhite_1999_2020.csv,134072.0,Numeric,199492421.0,53.64137066,Numeric,53.352885654,53.929855666,0.147186228,AAMR
+all,Race,NH White,2008,Bridged,Lung_all_NHWhite_1999_2020.csv,133819.0,Numeric,199783797.0,52.592045584,Numeric,52.308839973,52.875251194,0.144492658,AAMR
+all,Race,NH White,2009,Bridged,Lung_all_NHWhite_1999_2020.csv,133209.0,Numeric,199993079.0,51.599069384,Numeric,51.320171483,51.877967284,0.142294847,AAMR
+all,Race,NH White,2010,Bridged,Lung_all_NHWhite_1999_2020.csv,132603.0,Numeric,200127372.0,50.741773479,Numeric,50.466527128,51.01701983,0.140431812,AAMR
+all,Race,NH White,2011,Bridged,Lung_all_NHWhite_1999_2020.csv,131171.0,Numeric,200423243.0,49.221166798,Numeric,48.95214526,49.490188336,0.137255887,AAMR
+all,Race,NH White,2012,Bridged,Lung_all_NHWhite_1999_2020.csv,130994.0,Numeric,200698847.0,48.005546039,Numeric,47.742727809,48.268364268,0.134090933,AAMR
+all,Race,NH White,2013,Bridged,Lung_all_NHWhite_1999_2020.csv,129506.0,Numeric,200918513.0,46.51928654,Numeric,46.262661894,46.775911187,0.130930942,AAMR
+all,Race,NH White,2014,Bridged,Lung_all_NHWhite_1999_2020.csv,128724.0,Numeric,201048793.0,45.412640311,Numeric,45.160937662,45.664342959,0.128419719,AAMR
+all,Race,NH White,2015,Bridged,Lung_all_NHWhite_1999_2020.csv,126765.0,Numeric,201242281.0,43.806590403,Numeric,43.561609626,44.05157118,0.124990192,AAMR
+all,Race,NH White,2016,Bridged,Lung_all_NHWhite_1999_2020.csv,122428.0,Numeric,201324760.0,41.536643778,Numeric,41.300061014,41.773226543,0.120705492,AAMR
+all,Race,NH White,2017,Bridged,Lung_all_NHWhite_1999_2020.csv,119987.0,Numeric,201240793.0,39.924339786,Numeric,39.694541871,40.1541377,0.117243834,AAMR
+all,Race,NH White,2018,Bridged,Lung_all_NHWhite_1999_2020.csv,116646.0,Numeric,201068278.0,37.993075989,Numeric,37.77142804,38.214723937,0.113085688,AAMR
+all,Race,NH White,2019,Bridged,Lung_all_NHWhite_1999_2020.csv,114013.0,Numeric,200905474.0,36.491066365,Numeric,36.275629956,36.706502775,0.109916536,AAMR
+all,Race,NH White,2020,Bridged,Lung_all_NHWhite_1999_2020.csv,111040.0,Numeric,200499383.0,34.94329463,Numeric,34.73416599,35.152423269,0.106698285,AAMR
+all,Race,NH White,2021,Single,Lung_all_NHWhite_2018_2024.csv,109058.0,Numeric,196833431.0,35.051814515,Numeric,34.840093882,35.264987004,0.108184711,AAMR
+all,Race,NH White,2022,Single,Lung_all_NHWhite_2018_2024.csv,106428.0,Numeric,196225966.0,33.173682942,Numeric,32.971301962,33.377487597,0.103412705,AAMR
+all,Race,NH White,2023,Single,Lung_all_NHWhite_2018_2024.csv,106117.0,Numeric,195432584.0,32.757547449,Numeric,32.557381102,32.959136141,0.102282248,AAMR
+all,Race,NH White,2024,Single,Lung_all_NHWhite_2018_2024.csv,102896.0,Numeric,195433224.0,31.175378198,Numeric,30.981736193,31.37046322,0.098951217,AAMR
+all,Urbanicity,Nonmetro,1999,Bridged,Lung_all_Nonmetro_1999_2020.csv,29426.0,Numeric,44618974.0,57.652818642,Numeric,56.992847732,58.312789551,0.336719852,AAMR
+all,Urbanicity,Nonmetro,2000,Bridged,Lung_all_Nonmetro_1999_2020.csv,30757.0,Numeric,44784110.0,59.841567004,Numeric,59.171696918,60.511437089,0.341770452,AAMR
+all,Urbanicity,Nonmetro,2001,Bridged,Lung_all_Nonmetro_1999_2020.csv,30808.0,Numeric,44840689.0,59.316404394,Numeric,58.653085863,59.979722925,0.338427822,AAMR
+all,Urbanicity,Nonmetro,2002,Bridged,Lung_all_Nonmetro_1999_2020.csv,31275.0,Numeric,44959401.0,59.454324364,Numeric,58.794285658,60.11436307,0.336754442,AAMR
+all,Urbanicity,Nonmetro,2003,Bridged,Lung_all_Nonmetro_1999_2020.csv,31287.0,Numeric,45114000.0,58.65053798,Numeric,57.999369116,59.301706844,0.332229012,AAMR
+all,Urbanicity,Nonmetro,2004,Bridged,Lung_all_Nonmetro_1999_2020.csv,31500.0,Numeric,45294665.0,58.257796562,Numeric,57.612846718,58.902746407,0.329056043,AAMR
+all,Urbanicity,Nonmetro,2005,Bridged,Lung_all_Nonmetro_1999_2020.csv,31873.0,Numeric,45476664.0,58.125890253,Numeric,57.485749885,58.766030621,0.326602229,AAMR
+all,Urbanicity,Nonmetro,2006,Bridged,Lung_all_Nonmetro_1999_2020.csv,31904.0,Numeric,45738288.0,57.13446574,Numeric,56.505166026,57.763765455,0.321071283,AAMR
+all,Urbanicity,Nonmetro,2007,Bridged,Lung_all_Nonmetro_1999_2020.csv,32545.0,Numeric,45930590.0,57.435856948,Numeric,56.808803104,58.062910791,0.31992543,AAMR
+all,Urbanicity,Nonmetro,2008,Bridged,Lung_all_Nonmetro_1999_2020.csv,32409.0,Numeric,46097446.0,56.277720893,Numeric,55.661647692,56.893794093,0.314323061,AAMR
+all,Urbanicity,Nonmetro,2009,Bridged,Lung_all_Nonmetro_1999_2020.csv,32302.0,Numeric,46198158.0,55.324004963,Numeric,54.716465392,55.931544534,0.309969169,AAMR
+all,Urbanicity,Nonmetro,2010,Bridged,Lung_all_Nonmetro_1999_2020.csv,32267.0,Numeric,46293406.0,54.636485869,Numeric,54.035487803,55.237483935,0.306631667,AAMR
+all,Urbanicity,Nonmetro,2011,Bridged,Lung_all_Nonmetro_1999_2020.csv,32406.0,Numeric,46321313.0,53.884142133,Numeric,53.2916664,54.476617865,0.302283537,AAMR
+all,Urbanicity,Nonmetro,2012,Bridged,Lung_all_Nonmetro_1999_2020.csv,32223.0,Numeric,46249600.0,52.582453188,Numeric,52.001841254,53.163065121,0.296230578,AAMR
+all,Urbanicity,Nonmetro,2013,Bridged,Lung_all_Nonmetro_1999_2020.csv,31909.0,Numeric,46217597.0,51.167284621,Numeric,50.598672529,51.735896713,0.29010821,AAMR
+all,Urbanicity,Nonmetro,2014,Bridged,Lung_all_Nonmetro_1999_2020.csv,31905.0,Numeric,46189114.0,50.33134196,Numeric,49.771004289,50.891679632,0.285886567,AAMR
+all,Urbanicity,Nonmetro,2015,Bridged,Lung_all_Nonmetro_1999_2020.csv,31498.0,Numeric,46166603.0,48.900920464,Numeric,48.352051202,49.449789725,0.280035338,AAMR
+all,Urbanicity,Nonmetro,2016,Bridged,Lung_all_Nonmetro_1999_2020.csv,30851.0,Numeric,46110584.0,47.142477512,Numeric,46.607458673,47.677496351,0.272968795,AAMR
+all,Urbanicity,Nonmetro,2017,Bridged,Lung_all_Nonmetro_1999_2020.csv,29931.0,Numeric,46082739.0,45.050368111,Numeric,44.530469542,45.570266681,0.265254372,AAMR
+all,Urbanicity,Nonmetro,2018,Bridged,Lung_all_Nonmetro_1999_2020.csv,29134.0,Numeric,46100224.0,42.921382929,Numeric,42.419421063,43.423344796,0.256102993,AAMR
+all,Urbanicity,Nonmetro,2019,Bridged,Lung_all_Nonmetro_1999_2020.csv,28897.0,Numeric,46063061.0,41.836744758,Numeric,41.345200613,42.328288903,0.250787829,AAMR
+all,Urbanicity,Nonmetro,2020,Bridged,Lung_all_Nonmetro_1999_2020.csv,28398.0,Numeric,46024426.0,40.585716112,Numeric,40.103957767,41.067474456,0.245795074,AAMR
+all,Race,Other,1999,Bridged,Lung_all_Other_1999_2020.csv,2400.0,Numeric,13226019.0,29.609117503,Numeric,28.370332955,30.847902051,0.632032933,AAMR
+all,Race,Other,2000,Bridged,Lung_all_Other_1999_2020.csv,2496.0,Numeric,13699595.0,29.196205021,Numeric,28.001651561,30.390758481,0.609466051,AAMR
+all,Race,Other,2001,Bridged,Lung_all_Other_1999_2020.csv,2730.0,Numeric,14343799.0,30.188265525,Numeric,29.008398789,31.368132261,0.601972824,AAMR
+all,Race,Other,2002,Bridged,Lung_all_Other_1999_2020.csv,2685.0,Numeric,14855687.0,27.863183483,Numeric,26.765664977,28.96070199,0.559958422,AAMR
+all,Race,Other,2003,Bridged,Lung_all_Other_1999_2020.csv,2925.0,Numeric,15346813.0,28.989634974,Numeric,27.898208639,30.08106131,0.556850171,AAMR
+all,Race,Other,2004,Bridged,Lung_all_Other_1999_2020.csv,3137.0,Numeric,15835029.0,29.071375717,Numeric,28.016244585,30.126506849,0.53833221,AAMR
+all,Race,Other,2005,Bridged,Lung_all_Other_1999_2020.csv,3216.0,Numeric,16341265.0,28.399666448,Numeric,27.379987155,29.419345741,0.520244537,AAMR
+all,Race,Other,2006,Bridged,Lung_all_Other_1999_2020.csv,3294.0,Numeric,16853716.0,27.620069155,Numeric,26.641257294,28.598881017,0.499393807,AAMR
+all,Race,Other,2007,Bridged,Lung_all_Other_1999_2020.csv,3478.0,Numeric,17357234.0,28.114591653,Numeric,27.146368702,29.082814604,0.493991301,AAMR
+all,Race,Other,2008,Bridged,Lung_all_Other_1999_2020.csv,3616.0,Numeric,17864651.0,27.823126273,Numeric,26.884755308,28.761497238,0.478760697,AAMR
+all,Race,Other,2009,Bridged,Lung_all_Other_1999_2020.csv,3653.0,Numeric,18346146.0,26.93101936,Numeric,26.027063372,27.834975349,0.461202035,AAMR
+all,Race,Other,2010,Bridged,Lung_all_Other_1999_2020.csv,3845.0,Numeric,18703439.0,27.054682273,Numeric,26.169992117,27.939372428,0.451372528,AAMR
+all,Race,Other,2011,Bridged,Lung_all_Other_1999_2020.csv,4017.0,Numeric,19178501.0,26.600181404,Numeric,25.752258418,27.448104389,0.432613768,AAMR
+all,Race,Other,2012,Bridged,Lung_all_Other_1999_2020.csv,4172.0,Numeric,19796097.0,26.030589094,Numeric,25.217784175,26.843394012,0.414696387,AAMR
+all,Race,Other,2013,Bridged,Lung_all_Other_1999_2020.csv,4229.0,Numeric,20336870.0,25.038225421,Numeric,24.263619607,25.812831236,0.395207048,AAMR
+all,Race,Other,2014,Bridged,Lung_all_Other_1999_2020.csv,4430.0,Numeric,21104205.0,24.452612514,Numeric,23.714353713,25.190871315,0.376662654,AAMR
+all,Race,Other,2015,Bridged,Lung_all_Other_1999_2020.csv,4625.0,Numeric,21806263.0,23.884867724,Numeric,23.180264926,24.589470523,0.359491224,AAMR
+all,Race,Other,2016,Bridged,Lung_all_Other_1999_2020.csv,4637.0,Numeric,22190797.0,22.971849907,Numeric,22.296051171,23.647648642,0.344795273,AAMR
+all,Race,Other,2017,Bridged,Lung_all_Other_1999_2020.csv,4654.0,Numeric,22907294.0,21.698317855,Numeric,21.062500427,22.334135283,0.324396647,AAMR
+all,Race,Other,2018,Bridged,Lung_all_Other_1999_2020.csv,4558.0,Numeric,23292584.0,20.412208271,Numeric,19.808553432,21.01586311,0.307987163,AAMR
+all,Race,Other,2019,Bridged,Lung_all_Other_1999_2020.csv,4704.0,Numeric,23526009.0,20.172888343,Numeric,19.586746628,20.759030057,0.299051895,AAMR
+all,Race,Other,2020,Bridged,Lung_all_Other_1999_2020.csv,4764.0,Numeric,24051228.0,19.498136718,Numeric,18.936215091,20.060058345,0.286694708,AAMR
+all,Race,Other,2021,Single,Lung_all_Other_2018_2024.csv,5191.0,Numeric,30554734.0,18.84641182,Numeric,18.328198652,19.376311948,0.266222115,AAMR
+all,Race,Other,2022,Single,Lung_all_Other_2018_2024.csv,5335.0,Numeric,31326774.0,18.15798681,Numeric,17.667779383,18.65898539,0.251801816,AAMR
+all,Race,Other,2023,Single,Lung_all_Other_2018_2024.csv,5465.0,Numeric,31950078.0,17.915817379,Numeric,17.439353058,18.402508074,0.24471717,AAMR
+all,Race,Other,2024,Single,Lung_all_Other_2018_2024.csv,5451.0,Numeric,33640016.0,16.737530879,Numeric,16.29233883,17.192214313,0.228654486,AAMR
+all,Region,Northeast,1999,Bridged,Lung_all_region_1999_2020.csv,29975.0,Numeric,53343775.0,52.616458406,Numeric,52.020405114,53.212511698,0.304108822,AAMR
+all,Region,Midwest,1999,Bridged,Lung_all_region_1999_2020.csv,36450.0,Numeric,64100061.0,56.492180709,Numeric,55.91206817,57.072293247,0.295975785,AAMR
+all,Region,South,1999,Bridged,Lung_all_region_1999_2020.csv,59036.0,Numeric,99164460.0,60.479945529,Numeric,59.991700642,60.968190415,0.249104534,AAMR
+all,Region,West,1999,Bridged,Lung_all_region_1999_2020.csv,26602.0,Numeric,62431872.0,48.374567109,Numeric,47.792662903,48.956471315,0.296889901,AAMR
+all,Region,Northeast,2000,Bridged,Lung_all_region_1999_2020.csv,30503.0,Numeric,53594378.0,53.066516384,Numeric,52.470602102,53.662430666,0.304037899,AAMR
+all,Region,Midwest,2000,Bridged,Lung_all_region_1999_2020.csv,36922.0,Numeric,64392776.0,56.892707597,Numeric,56.31224033,57.473174865,0.296156769,AAMR
+all,Region,South,2000,Bridged,Lung_all_region_1999_2020.csv,61041.0,Numeric,100236820.0,61.757084904,Numeric,61.266873082,62.247296726,0.250108072,AAMR
+all,Region,West,2000,Bridged,Lung_all_region_1999_2020.csv,26965.0,Numeric,63197932.0,48.265957647,Numeric,47.689258754,48.84265654,0.294234129,AAMR
+all,Region,Northeast,2001,Bridged,Lung_all_region_1999_2020.csv,30293.0,Numeric,53915522.0,52.162739886,Numeric,51.57488993,52.750589843,0.299923447,AAMR
+all,Region,Midwest,2001,Bridged,Lung_all_region_1999_2020.csv,37295.0,Numeric,64776531.0,56.878845498,Numeric,56.301327099,57.456363896,0.294652244,AAMR
+all,Region,South,2001,Bridged,Lung_all_region_1999_2020.csv,61218.0,Numeric,101849575.0,60.735778408,Numeric,60.254297153,61.217259664,0.245653702,AAMR
+all,Region,West,2001,Bridged,Lung_all_region_1999_2020.csv,27167.0,Numeric,64427327.0,47.4288749,Numeric,46.864150159,47.99359964,0.288124867,AAMR
+all,Region,Northeast,2002,Bridged,Lung_all_region_1999_2020.csv,30541.0,Numeric,54143915.0,51.934208515,Numeric,51.351117157,52.517299873,0.297495591,AAMR
+all,Region,Midwest,2002,Bridged,Lung_all_region_1999_2020.csv,37742.0,Numeric,65018293.0,56.810554162,Numeric,56.236915247,57.384193076,0.292672916,AAMR
+all,Region,South,2002,Bridged,Lung_all_region_1999_2020.csv,62070.0,Numeric,103150787.0,60.368378748,Numeric,59.892826432,60.843931064,0.242628733,AAMR
+all,Region,West,2002,Bridged,Lung_all_region_1999_2020.csv,27277.0,Numeric,65312198.0,46.503309722,Numeric,45.950307716,47.056311728,0.282143881,AAMR
+all,Region,Northeast,2003,Bridged,Lung_all_region_1999_2020.csv,30293.0,Numeric,54334453.0,50.99035077,Numeric,50.415163219,51.565538321,0.293463036,AAMR
+all,Region,Midwest,2003,Bridged,Lung_all_region_1999_2020.csv,37723.0,Numeric,65276954.0,56.03709706,Numeric,55.47079096,56.60340316,0.288931684,AAMR
+all,Region,South,2003,Bridged,Lung_all_region_1999_2020.csv,62269.0,Numeric,104380188.0,59.320782861,Numeric,58.853903408,59.787662315,0.238203803,AAMR
+all,Region,West,2003,Bridged,Lung_all_region_1999_2020.csv,27707.0,Numeric,66116338.0,46.138813216,Numeric,45.594000347,46.683626086,0.27796575,AAMR
+all,Region,Northeast,2004,Bridged,Lung_all_region_1999_2020.csv,30061.0,Numeric,54423533.0,50.081956228,Numeric,49.514460771,50.649451684,0.289538498,AAMR
+all,Region,Midwest,2004,Bridged,Lung_all_region_1999_2020.csv,38200.0,Numeric,65532305.0,56.070531267,Numeric,55.507078467,56.633984066,0.287475918,AAMR
+all,Region,South,2004,Bridged,Lung_all_region_1999_2020.csv,62663.0,Numeric,105883977.0,58.482081839,Numeric,58.022866469,58.941297209,0.234293556,AAMR
+all,Region,West,2004,Bridged,Lung_all_region_1999_2020.csv,27085.0,Numeric,66965483.0,44.132677708,Numeric,43.605143399,44.660212017,0.269150157,AAMR
+all,Region,Northeast,2005,Bridged,Lung_all_region_1999_2020.csv,30008.0,Numeric,54451230.0,49.585841515,Numeric,49.022913069,50.14876996,0.28720839,AAMR
+all,Region,Midwest,2005,Bridged,Lung_all_region_1999_2020.csv,38022.0,Numeric,65751872.0,55.044525652,Numeric,54.489574968,55.599476336,0.283138104,AAMR
+all,Region,South,2005,Bridged,Lung_all_region_1999_2020.csv,63806.0,Numeric,107479771.0,58.188882742,Numeric,57.73572792,58.642037565,0.23120144,AAMR
+all,Region,West,2005,Bridged,Lung_all_region_1999_2020.csv,27384.0,Numeric,67833726.0,43.606708166,Numeric,43.087902132,44.1255142,0.264696956,AAMR
+all,Region,Northeast,2006,Bridged,Lung_all_region_1999_2020.csv,29724.0,Numeric,54522659.0,48.649672276,Numeric,48.094097022,49.20524753,0.283456762,AAMR
+all,Region,Midwest,2006,Bridged,Lung_all_region_1999_2020.csv,38073.0,Numeric,66028555.0,54.323767621,Numeric,53.775940061,54.871595182,0.279503857,AAMR
+all,Region,South,2006,Bridged,Lung_all_region_1999_2020.csv,63544.0,Numeric,109076933.0,56.66206268,Numeric,56.219540032,57.104585328,0.225776861,AAMR
+all,Region,West,2006,Bridged,Lung_all_region_1999_2020.csv,27259.0,Numeric,68751765.0,42.423048998,Numeric,41.916645363,42.929452633,0.258369201,AAMR
+all,Region,Northeast,2007,Bridged,Lung_all_region_1999_2020.csv,29853.0,Numeric,54653362.0,48.259165051,Numeric,47.70889069,48.809439412,0.280752225,AAMR
+all,Region,Midwest,2007,Bridged,Lung_all_region_1999_2020.csv,38504.0,Numeric,66293689.0,54.152263721,Numeric,53.608814803,54.695712639,0.277269856,AAMR
+all,Region,South,2007,Bridged,Lung_all_region_1999_2020.csv,63034.0,Numeric,110688742.0,54.970538424,Numeric,54.539123554,55.401953295,0.220109628,AAMR
+all,Region,West,2007,Bridged,Lung_all_region_1999_2020.csv,27295.0,Numeric,69595414.0,41.484925007,Numeric,40.989499525,41.980350489,0.252768103,AAMR
+all,Region,Northeast,2008,Bridged,Lung_all_region_1999_2020.csv,29436.0,Numeric,54875926.0,46.899628848,Numeric,46.360943372,47.438314324,0.274839528,AAMR
+all,Region,Midwest,2008,Bridged,Lung_all_region_1999_2020.csv,38522.0,Numeric,66523935.0,53.199460679,Numeric,52.665388713,53.733532646,0.272485697,AAMR
+all,Region,South,2008,Bridged,Lung_all_region_1999_2020.csv,63396.0,Numeric,112184930.0,53.94345985,Numeric,53.521012467,54.365907233,0.215534379,AAMR
+all,Region,West,2008,Bridged,Lung_all_region_1999_2020.csv,27238.0,Numeric,70509175.0,40.352642511,Numeric,39.869723563,40.835561459,0.246387218,AAMR
+all,Region,Northeast,2009,Bridged,Lung_all_region_1999_2020.csv,28916.0,Numeric,55133101.0,45.540567736,Numeric,45.012188063,46.068947409,0.269581466,AAMR
+all,Region,Midwest,2009,Bridged,Lung_all_region_1999_2020.csv,38253.0,Numeric,66748437.0,52.019668534,Numeric,51.49480565,52.544531417,0.267787186,AAMR
+all,Region,South,2009,Bridged,Lung_all_region_1999_2020.csv,63532.0,Numeric,113548615.0,52.752427736,Numeric,52.339208505,53.165646967,0.210826138,AAMR
+all,Region,West,2009,Bridged,Lung_all_region_1999_2020.csv,27385.0,Numeric,71341376.0,39.528357133,Numeric,39.055886778,40.000827489,0.241056304,AAMR
+all,Region,Northeast,2010,Bridged,Lung_all_region_1999_2020.csv,29154.0,Numeric,55317240.0,45.367142297,Numeric,44.842305342,45.891979252,0.267773957,AAMR
+all,Region,Midwest,2010,Bridged,Lung_all_region_1999_2020.csv,38178.0,Numeric,66927001.0,51.219201177,Numeric,50.701347716,51.737054639,0.26421095,AAMR
+all,Region,South,2010,Bridged,Lung_all_region_1999_2020.csv,63719.0,Numeric,114555744.0,51.988302127,Numeric,51.581344286,52.395259967,0.207631551,AAMR
+all,Region,West,2010,Bridged,Lung_all_region_1999_2020.csv,27198.0,Numeric,71945553.0,38.432503535,Numeric,37.971008205,38.893998864,0.235456801,AAMR
+all,Region,Northeast,2011,Bridged,Lung_all_region_1999_2020.csv,28709.0,Numeric,55521598.0,43.858005075,Numeric,43.345578304,44.370431846,0.26144223,AAMR
+all,Region,Midwest,2011,Bridged,Lung_all_region_1999_2020.csv,37933.0,Numeric,67158835.0,49.912319519,Numeric,49.40500114,50.419637898,0.258835908,AAMR
+all,Region,South,2011,Bridged,Lung_all_region_1999_2020.csv,63423.0,Numeric,116046736.0,50.147214304,Numeric,49.753244,50.541184609,0.201005257,AAMR
+all,Region,West,2011,Bridged,Lung_all_region_1999_2020.csv,26892.0,Numeric,72864748.0,36.705360489,Numeric,36.26140514,37.149315839,0.226507831,AAMR
+all,Region,Northeast,2012,Bridged,Lung_all_region_1999_2020.csv,28749.0,Numeric,55761091.0,43.010318174,Numeric,42.507793845,43.512842502,0.256389964,AAMR
+all,Region,Midwest,2012,Bridged,Lung_all_region_1999_2020.csv,38219.0,Numeric,67316297.0,49.189375575,Numeric,48.690747692,49.688003458,0.254401981,AAMR
+all,Region,South,2012,Bridged,Lung_all_region_1999_2020.csv,63717.0,Numeric,117257221.0,48.880222614,Numeric,48.496752594,49.263692634,0.195647969,AAMR
+all,Region,West,2012,Bridged,Lung_all_region_1999_2020.csv,26741.0,Numeric,73579431.0,35.314024371,Numeric,34.885281929,35.742766814,0.218746144,AAMR
+all,Region,Northeast,2013,Bridged,Lung_all_region_1999_2020.csv,28348.0,Numeric,55943073.0,41.591641344,Numeric,41.101309978,42.08197271,0.250169064,AAMR
+all,Region,Midwest,2013,Bridged,Lung_all_region_1999_2020.csv,37816.0,Numeric,67547890.0,47.676987917,Numeric,47.190385619,48.163590215,0.248266478,AAMR
+all,Region,South,2013,Bridged,Lung_all_region_1999_2020.csv,63493.0,Numeric,118383453.0,47.275782002,Numeric,46.903864446,47.647699558,0.189753855,AAMR
+all,Region,West,2013,Bridged,Lung_all_region_1999_2020.csv,26521.0,Numeric,74254423.0,33.971082632,Numeric,33.556614629,34.385550634,0.211463267,AAMR
+all,Region,Northeast,2014,Bridged,Lung_all_region_1999_2020.csv,27591.0,Numeric,56152333.0,39.812309315,Numeric,39.335825284,40.288793346,0.243104097,AAMR
+all,Region,Midwest,2014,Bridged,Lung_all_region_1999_2020.csv,38131.0,Numeric,67745108.0,47.108213698,Numeric,46.628817456,47.58760994,0.24458992,AAMR
+all,Region,South,2014,Bridged,Lung_all_region_1999_2020.csv,63387.0,Numeric,119771934.0,45.878440279,Numeric,45.516831019,46.240049539,0.184494521,AAMR
+all,Region,West,2014,Bridged,Lung_all_region_1999_2020.csv,26420.0,Numeric,75187681.0,32.703400829,Numeric,32.303339026,33.103462632,0.204113165,AAMR
+all,Region,Northeast,2015,Bridged,Lung_all_region_1999_2020.csv,27275.0,Numeric,56283891.0,38.63955925,Numeric,38.173774712,39.105343787,0.237645172,AAMR
+all,Region,Midwest,2015,Bridged,Lung_all_region_1999_2020.csv,37255.0,Numeric,67907403.0,45.093539515,Numeric,44.628551727,45.558527304,0.237238668,AAMR
+all,Region,South,2015,Bridged,Lung_all_region_1999_2020.csv,62459.0,Numeric,121182847.0,43.77804703,Numeric,43.430219464,44.125874595,0.177463044,AAMR
+all,Region,West,2015,Bridged,Lung_all_region_1999_2020.csv,26733.0,Numeric,76044679.0,31.994726051,Numeric,31.605342301,32.384109802,0.198665179,AAMR
+all,Region,Northeast,2016,Bridged,Lung_all_region_1999_2020.csv,26401.0,Numeric,56209510.0,36.81361254,Numeric,36.362222189,37.265002891,0.230301199,AAMR
+all,Region,Midwest,2016,Bridged,Lung_all_region_1999_2020.csv,36171.0,Numeric,67941429.0,43.05135562,Numeric,42.600460624,43.502250617,0.230048467,AAMR
+all,Region,South,2016,Bridged,Lung_all_region_1999_2020.csv,60996.0,Numeric,122319574.0,41.668671921,Numeric,41.333463323,42.003880518,0.171024795,AAMR
+all,Region,West,2016,Bridged,Lung_all_region_1999_2020.csv,25302.0,Numeric,76657000.0,29.515391477,Numeric,29.146059268,29.884723687,0.188434801,AAMR
+all,Region,Northeast,2017,Bridged,Lung_all_region_1999_2020.csv,25406.0,Numeric,56470581.0,34.410768857,Numeric,33.980667649,34.840870064,0.219439391,AAMR
+all,Region,Midwest,2017,Bridged,Lung_all_region_1999_2020.csv,35464.0,Numeric,68179351.0,41.33871003,Numeric,40.901269883,41.776150176,0.223183748,AAMR
+all,Region,South,2017,Bridged,Lung_all_region_1999_2020.csv,59891.0,Numeric,123658624.0,39.808945432,Numeric,39.485817631,40.132073233,0.164861123,AAMR
+all,Region,West,2017,Bridged,Lung_all_region_1999_2020.csv,25088.0,Numeric,77410622.0,28.494109142,Numeric,28.136084487,28.852133798,0.18266564,AAMR
+all,Region,Northeast,2018,Bridged,Lung_all_region_1999_2020.csv,24906.0,Numeric,56111079.0,33.265138935,Numeric,32.845668108,33.684609762,0.214015728,AAMR
+all,Region,Midwest,2018,Bridged,Lung_all_region_1999_2020.csv,34321.0,Numeric,68308744.0,39.05665755,Numeric,38.636961295,39.476353805,0.214130742,AAMR
+all,Region,South,2018,Bridged,Lung_all_region_1999_2020.csv,58825.0,Numeric,124753948.0,37.989961657,Numeric,37.67913846,38.300784855,0.158583264,AAMR
+all,Region,West,2018,Bridged,Lung_all_region_1999_2020.csv,24029.0,Numeric,77993663.0,26.479770539,Numeric,26.140427607,26.819113472,0.173134149,AAMR
+all,Region,Northeast,2019,Bridged,Lung_all_region_1999_2020.csv,24028.0,Numeric,55982803.0,31.505284358,Numeric,31.101036579,31.909532138,0.206248867,AAMR
+all,Region,Midwest,2019,Bridged,Lung_all_region_1999_2020.csv,33914.0,Numeric,68329004.0,37.889292099,Numeric,37.479817498,38.2987667,0.208915613,AAMR
+all,Region,South,2019,Bridged,Lung_all_region_1999_2020.csv,58023.0,Numeric,125580448.0,36.573630036,Numeric,36.272414508,36.874845564,0.153681392,AAMR
+all,Region,West,2019,Bridged,Lung_all_region_1999_2020.csv,23638.0,Numeric,78347268.0,25.363091348,Numeric,25.035773862,25.690408834,0.166998717,AAMR
+all,Region,Northeast,2020,Bridged,Lung_all_region_1999_2020.csv,22876.0,Numeric,55849869.0,29.542342631,Numeric,29.153701904,29.930983357,0.198286085,AAMR
+all,Region,Midwest,2020,Bridged,Lung_all_region_1999_2020.csv,33005.0,Numeric,68316744.0,36.267448051,Numeric,35.869955154,36.664940949,0.202802499,AAMR
+all,Region,South,2020,Bridged,Lung_all_region_1999_2020.csv,57055.0,Numeric,126662754.0,35.015405379,Numeric,34.72454484,35.306265918,0.148398234,AAMR
+all,Region,West,2020,Bridged,Lung_all_region_1999_2020.csv,23148.0,Numeric,78654756.0,24.205399616,Numeric,23.889901245,24.520897987,0.160968557,AAMR
+all,Region,Northeast,2021,Single,Lung_all_region_2018_2024.csv,22416.0,Numeric,57159838.0,28.682642516,Numeric,28.302508958,29.067729083,0.194586332,AAMR
+all,Region,Midwest,2021,Single,Lung_all_region_2018_2024.csv,32896.0,Numeric,68841444.0,36.460762711,Numeric,36.060510466,36.865069589,0.20477047,AAMR
+all,Region,South,2021,Single,Lung_all_region_2018_2024.csv,56340.0,Numeric,127225329.0,34.928684033,Numeric,34.636377845,35.223189596,0.149448026,AAMR
+all,Region,West,2021,Single,Lung_all_region_2018_2024.csv,22852.0,Numeric,78667134.0,24.401448069,Numeric,24.081670973,24.724961233,0.163685661,AAMR
+all,Region,Northeast,2022,Single,Lung_all_region_2018_2024.csv,22229.0,Numeric,57040406.0,27.565536998,Numeric,27.199686231,27.936146755,0.18727741,AAMR
+all,Region,Midwest,2022,Single,Lung_all_region_2018_2024.csv,32070.0,Numeric,68787595.0,34.473122472,Numeric,34.091411317,34.858802668,0.195288812,AAMR
+all,Region,South,2022,Single,Lung_all_region_2018_2024.csv,54978.0,Numeric,128716192.0,32.847234044,Numeric,32.5701584,33.126441271,0.14166371,AAMR
+all,Region,West,2022,Single,Lung_all_region_2018_2024.csv,22612.0,Numeric,78743364.0,23.134075585,Numeric,22.830697681,23.441056123,0.155292451,AAMR
+all,Region,Northeast,2023,Single,Lung_all_region_2018_2024.csv,21932.0,Numeric,56983517.0,26.811507122,Numeric,26.453603035,27.17417699,0.183211807,AAMR
+all,Region,Midwest,2023,Single,Lung_all_region_2018_2024.csv,32186.0,Numeric,68909283.0,34.233806785,Numeric,33.855422755,34.616139398,0.193584457,AAMR
+all,Region,South,2023,Single,Lung_all_region_2018_2024.csv,55087.0,Numeric,130125290.0,32.293220682,Numeric,32.021110806,32.567414031,0.139122874,AAMR
+all,Region,West,2023,Single,Lung_all_region_2018_2024.csv,22379.0,Numeric,78896805.0,22.46800767,Numeric,22.171683052,22.7679397,0.151685303,AAMR
+all,Region,Northeast,2024,Single,Lung_all_region_2018_2024.csv,21294.0,Numeric,57832935.0,25.406006466,Numeric,25.062001967,25.75472747,0.176105983,AAMR
+all,Region,Midwest,2024,Single,Lung_all_region_2018_2024.csv,31352.0,Numeric,69596584.0,32.535004054,Numeric,32.170864144,32.903067788,0.18630529,AAMR
+all,Region,South,2024,Single,Lung_all_region_2018_2024.csv,54359.0,Numeric,132665693.0,30.951478299,Numeric,30.689268773,31.215732535,0.134063405,AAMR
+all,Region,West,2024,Single,Lung_all_region_2018_2024.csv,21660.0,Numeric,80015776.0,21.065391681,Numeric,20.783564325,21.350778076,0.144268786,AAMR
+all,Sex,Female,1999,Bridged,Lung_all_sex_1999_2020.csv,62662.0,Numeric,142237295.0,40.212258156,Numeric,39.896196541,40.528319772,0.161255926,AAMR
+all,Sex,Male,1999,Bridged,Lung_all_sex_1999_2020.csv,89401.0,Numeric,136802873.0,76.824544111,Numeric,76.314312828,77.334775394,0.260322083,AAMR
+all,Sex,Female,2000,Bridged,Lung_all_sex_1999_2020.csv,65016.0,Numeric,143368343.0,41.296357871,Numeric,40.977730876,41.614984865,0.162564793,AAMR
+all,Sex,Male,2000,Bridged,Lung_all_sex_1999_2020.csv,90415.0,Numeric,138053563.0,76.704864158,Numeric,76.198663826,77.21106449,0.258265476,AAMR
+all,Sex,Female,2001,Bridged,Lung_all_sex_1999_2020.csv,65606.0,Numeric,145077463.0,41.069915859,Numeric,40.754512786,41.385318933,0.160919935,AAMR
+all,Sex,Male,2001,Bridged,Lung_all_sex_1999_2020.csv,90367.0,Numeric,139891492.0,75.20466871,Numeric,74.708189275,75.701148144,0.253305834,AAMR
+all,Sex,Female,2002,Bridged,Lung_all_sex_1999_2020.csv,67509.0,Numeric,146394634.0,41.577990266,Numeric,41.263267862,41.892712671,0.160572655,AAMR
+all,Sex,Male,2002,Bridged,Lung_all_sex_1999_2020.csv,90121.0,Numeric,141230559.0,73.423679475,Numeric,72.937926597,73.909432352,0.247833101,AAMR
+all,Sex,Female,2003,Bridged,Lung_all_sex_1999_2020.csv,68084.0,Numeric,147679036.0,41.287164309,Numeric,40.975866579,41.598462039,0.158825373,AAMR
+all,Sex,Male,2003,Bridged,Lung_all_sex_1999_2020.csv,89908.0,Numeric,142428897.0,71.786073932,Numeric,71.310466347,72.261681516,0.242656931,AAMR
+all,Sex,Female,2004,Bridged,Lung_all_sex_1999_2020.csv,68431.0,Numeric,148977286.0,40.915786348,Numeric,40.607973724,41.223598971,0.157047257,AAMR
+all,Sex,Male,2004,Bridged,Lung_all_sex_1999_2020.csv,89578.0,Numeric,143828012.0,70.125105346,Numeric,69.659306725,70.590903968,0.237652358,AAMR
+all,Sex,Female,2005,Bridged,Lung_all_sex_1999_2020.csv,69079.0,Numeric,150319521.0,40.606420011,Numeric,40.302183007,40.910657015,0.155222961,AAMR
+all,Sex,Male,2005,Bridged,Lung_all_sex_1999_2020.csv,90141.0,Numeric,145197078.0,69.099544931,Numeric,68.641842139,69.557247723,0.233521833,AAMR
+all,Sex,Female,2006,Bridged,Lung_all_sex_1999_2020.csv,69357.0,Numeric,151732647.0,40.137992409,Numeric,39.837634758,40.438350061,0.1532437,AAMR
+all,Sex,Male,2006,Bridged,Lung_all_sex_1999_2020.csv,89243.0,Numeric,146647265.0,67.001339285,Numeric,66.555251556,67.447427013,0.22759578,AAMR
+all,Sex,Female,2007,Bridged,Lung_all_sex_1999_2020.csv,70355.0,Numeric,153166353.0,40.038322853,Numeric,39.740663207,40.335982499,0.151867166,AAMR
+all,Sex,Male,2007,Bridged,Lung_all_sex_1999_2020.csv,88331.0,Numeric,148064854.0,64.924386743,Numeric,64.489764525,65.359008961,0.221746029,AAMR
+all,Sex,Female,2008,Bridged,Lung_all_sex_1999_2020.csv,70051.0,Numeric,154604015.0,39.073860643,Numeric,38.782691667,39.365029619,0.1485556,AAMR
+all,Sex,Male,2008,Bridged,Lung_all_sex_1999_2020.csv,88541.0,Numeric,149489951.0,63.498694974,Numeric,63.073845689,63.923544259,0.216759839,AAMR
+all,Sex,Female,2009,Bridged,Lung_all_sex_1999_2020.csv,70389.0,Numeric,155964075.0,38.578167445,Numeric,38.291037822,38.865297068,0.146494706,AAMR
+all,Sex,Male,2009,Bridged,Lung_all_sex_1999_2020.csv,87697.0,Numeric,150807454.0,61.369337093,Numeric,60.95627547,61.782398716,0.210745726,AAMR
+all,Sex,Female,2010,Bridged,Lung_all_sex_1999_2020.csv,70550.0,Numeric,156964212.0,38.105503534,Numeric,37.821952546,38.389054522,0.144668871,AAMR
+all,Sex,Male,2010,Bridged,Lung_all_sex_1999_2020.csv,87699.0,Numeric,151781326.0,60.26449023,Numeric,59.858570521,60.670409938,0.207101892,AAMR
+all,Sex,Female,2011,Bridged,Lung_all_sex_1999_2020.csv,70219.0,Numeric,158301098.0,37.04770043,Numeric,36.770815574,37.324585286,0.141267784,AAMR
+all,Sex,Male,2011,Bridged,Lung_all_sex_1999_2020.csv,86738.0,Numeric,153290819.0,57.716675921,Numeric,57.325473788,58.107878055,0.199592925,AAMR
+all,Sex,Female,2012,Bridged,Lung_all_sex_1999_2020.csv,70736.0,Numeric,159421973.0,36.377423324,Numeric,36.106342608,36.648504039,0.138306488,AAMR
+all,Sex,Male,2012,Bridged,Lung_all_sex_1999_2020.csv,86690.0,Numeric,154492067.0,56.060517172,Numeric,55.680140751,56.440893592,0.194069602,AAMR
+all,Sex,Female,2013,Bridged,Lung_all_sex_1999_2020.csv,70519.0,Numeric,160477237.0,35.472854252,Numeric,35.20773245,35.737976053,0.135266225,AAMR
+all,Sex,Male,2013,Bridged,Lung_all_sex_1999_2020.csv,85659.0,Numeric,155651602.0,53.715669816,Numeric,53.348681559,54.082658073,0.187238907,AAMR
+all,Sex,Female,2014,Bridged,Lung_all_sex_1999_2020.csv,70668.0,Numeric,161920569.0,34.695665245,Numeric,34.436387824,34.954942666,0.132284399,AAMR
+all,Sex,Male,2014,Bridged,Lung_all_sex_1999_2020.csv,84861.0,Numeric,156936487.0,51.65908808,Numeric,51.304283918,52.013892243,0.181022532,AAMR
+all,Sex,Female,2015,Bridged,Lung_all_sex_1999_2020.csv,70074.0,Numeric,163189523.0,33.476178515,Numeric,33.224694554,33.727662475,0.128308143,AAMR
+all,Sex,Male,2015,Bridged,Lung_all_sex_1999_2020.csv,83648.0,Numeric,158229297.0,49.492490765,Numeric,49.149771413,49.835210118,0.174856813,AAMR
+all,Sex,Female,2016,Bridged,Lung_all_sex_1999_2020.csv,68095.0,Numeric,164048590.0,31.846940855,Numeric,31.604033073,32.089848637,0.123932542,AAMR
+all,Sex,Male,2016,Bridged,Lung_all_sex_1999_2020.csv,80775.0,Numeric,159078923.0,46.694441482,Numeric,46.365313531,47.023569432,0.167922424,AAMR
+all,Sex,Female,2017,Bridged,Lung_all_sex_1999_2020.csv,67155.0,Numeric,165311059.0,30.608667444,Numeric,30.373604094,30.843730794,0.119930281,AAMR
+all,Sex,Male,2017,Bridged,Lung_all_sex_1999_2020.csv,78694.0,Numeric,160408119.0,44.3440377,Numeric,44.027514272,44.660561128,0.161491545,AAMR
+all,Sex,Female,2018,Bridged,Lung_all_sex_1999_2020.csv,65847.0,Numeric,166038755.0,29.29686397,Numeric,29.069917679,29.523810262,0.115788924,AAMR
+all,Sex,Male,2018,Bridged,Lung_all_sex_1999_2020.csv,76234.0,Numeric,161128679.0,41.737641464,Numeric,41.435531034,42.039751893,0.154137974,AAMR
+all,Sex,Female,2019,Bridged,Lung_all_sex_1999_2020.csv,64743.0,Numeric,166582199.0,28.177608009,Numeric,27.957498715,28.397717304,0.11230066,AAMR
+all,Sex,Male,2019,Bridged,Lung_all_sex_1999_2020.csv,74860.0,Numeric,161657324.0,40.055842423,Numeric,39.76348268,40.348202166,0.149163134,AAMR
+all,Sex,Female,2020,Bridged,Lung_all_sex_1999_2020.csv,63135.0,Numeric,167227921.0,26.929383889,Numeric,26.71628434,27.142483437,0.10872426,AAMR
+all,Sex,Male,2020,Bridged,Lung_all_sex_1999_2020.csv,72949.0,Numeric,162256202.0,38.05163851,Numeric,37.770354082,38.332922939,0.143512464,AAMR
+all,Sex,Female,2021,Single,Lung_all_sex_2018_2024.csv,62955.0,Numeric,167509003.0,27.251150127,Numeric,27.035696467,27.468243279,0.110141837,AAMR
+all,Sex,Male,2021,Single,Lung_all_sex_2018_2024.csv,71549.0,Numeric,164384742.0,37.412459962,Numeric,37.131802651,37.694922245,0.143460908,AAMR
+all,Sex,Female,2022,Single,Lung_all_sex_2018_2024.csv,62531.0,Numeric,168004004.0,26.029618053,Numeric,25.823412589,26.237406312,0.105415013,AAMR
+all,Sex,Male,2022,Single,Lung_all_sex_2018_2024.csv,69358.0,Numeric,165283553.0,35.215827458,Numeric,34.948979199,35.484413843,0.136404862,AAMR
+all,Sex,Female,2023,Single,Lung_all_sex_2018_2024.csv,62887.0,Numeric,169165495.0,25.811540159,Numeric,25.607840613,26.016816201,0.104133003,AAMR
+all,Sex,Male,2023,Single,Lung_all_sex_2018_2024.csv,68697.0,Numeric,165749400.0,34.066985926,Numeric,33.807604632,34.328091529,0.132589578,AAMR
+all,Sex,Female,2024,Single,Lung_all_sex_2018_2024.csv,61627.0,Numeric,171773106.0,24.625500971,Numeric,24.429385745,24.823175394,0.100257615,AAMR
+all,Sex,Male,2024,Single,Lung_all_sex_2018_2024.csv,67038.0,Numeric,168337882.0,32.302510368,Numeric,32.054372897,32.552345047,0.126844039,AAMR
+CKD,Overall,Overall,1999,Bridged,Lung_CKD_1999_2020.csv,508.0,Numeric,279040168.0,0.188631719,Numeric,0.172049946,0.205213493,0.008460089,AAMR
+CKD,Overall,Overall,2000,Bridged,Lung_CKD_1999_2020.csv,547.0,Numeric,281421906.0,0.197893979,Numeric,0.181024937,0.214763022,0.008606654,AAMR
+CKD,Overall,Overall,2001,Bridged,Lung_CKD_1999_2020.csv,602.0,Numeric,284968955.0,0.214322322,Numeric,0.197023548,0.231621096,0.008825905,AAMR
+CKD,Overall,Overall,2002,Bridged,Lung_CKD_1999_2020.csv,604.0,Numeric,287625193.0,0.220925851,Numeric,0.203034916,0.238816787,0.009128028,AAMR
+CKD,Overall,Overall,2003,Bridged,Lung_CKD_1999_2020.csv,656.0,Numeric,290107933.0,0.226635457,Numeric,0.209192525,0.244078389,0.008899455,AAMR
+CKD,Overall,Overall,2004,Bridged,Lung_CKD_1999_2020.csv,723.0,Numeric,292805298.0,0.253051495,Numeric,0.234441339,0.271661651,0.009494978,AAMR
+CKD,Overall,Overall,2005,Bridged,Lung_CKD_1999_2020.csv,756.0,Numeric,295516599.0,0.24816731,Numeric,0.230295259,0.266039361,0.009118394,AAMR
+CKD,Overall,Overall,2006,Bridged,Lung_CKD_1999_2020.csv,732.0,Numeric,298379912.0,0.246447965,Numeric,0.22849214,0.264403791,0.009161135,AAMR
+CKD,Overall,Overall,2007,Bridged,Lung_CKD_1999_2020.csv,754.0,Numeric,301231207.0,0.249949783,Numeric,0.231775076,0.26812449,0.00927281,AAMR
+CKD,Overall,Overall,2008,Bridged,Lung_CKD_1999_2020.csv,755.0,Numeric,304093966.0,0.221876883,Numeric,0.205609107,0.238144658,0.008299885,AAMR
+CKD,Overall,Overall,2009,Bridged,Lung_CKD_1999_2020.csv,797.0,Numeric,306771529.0,0.250531941,Numeric,0.232917341,0.268146541,0.008987041,AAMR
+CKD,Overall,Overall,2010,Bridged,Lung_CKD_1999_2020.csv,772.0,Numeric,308745538.0,0.232564388,Numeric,0.215826711,0.249302065,0.008539631,AAMR
+CKD,Overall,Overall,2011,Bridged,Lung_CKD_1999_2020.csv,1671.0,Numeric,311591917.0,0.503732339,Numeric,0.479373016,0.528091662,0.012428226,AAMR
+CKD,Overall,Overall,2012,Bridged,Lung_CKD_1999_2020.csv,1751.0,Numeric,313914040.0,0.516784475,Numeric,0.492345751,0.541223199,0.012468737,AAMR
+CKD,Overall,Overall,2013,Bridged,Lung_CKD_1999_2020.csv,1110.0,Numeric,316128839.0,0.315288694,Numeric,0.296316005,0.334261382,0.009679943,AAMR
+CKD,Overall,Overall,2014,Bridged,Lung_CKD_1999_2020.csv,1130.0,Numeric,318857056.0,0.319372669,Numeric,0.300289374,0.338455964,0.009736375,AAMR
+CKD,Overall,Overall,2015,Bridged,Lung_CKD_1999_2020.csv,1276.0,Numeric,321418820.0,0.340702883,Numeric,0.321647257,0.359758508,0.009722258,AAMR
+CKD,Overall,Overall,2016,Bridged,Lung_CKD_1999_2020.csv,1431.0,Numeric,323127513.0,0.381598222,Numeric,0.361494745,0.401701698,0.010256876,AAMR
+CKD,Overall,Overall,2017,Bridged,Lung_CKD_1999_2020.csv,1459.0,Numeric,325719178.0,0.376531983,Numeric,0.356685098,0.396378868,0.010125962,AAMR
+CKD,Overall,Overall,2018,Bridged,Lung_CKD_1999_2020.csv,1517.0,Numeric,327167434.0,0.384454753,Numeric,0.364622574,0.404286931,0.010118458,AAMR
+CKD,Overall,Overall,2019,Bridged,Lung_CKD_1999_2020.csv,1620.0,Numeric,328239523.0,0.397093219,Numeric,0.377488574,0.416697863,0.01000237,AAMR
+CKD,Overall,Overall,2020,Bridged,Lung_CKD_1999_2020.csv,1733.0,Numeric,329484123.0,0.413647172,Numeric,0.39383449,0.433459854,0.010108511,AAMR
+CKD,Overall,Overall,2021,Single,Lung_CKD_2018_2024.csv,1710.0,Numeric,331893745.0,0.421001349,Numeric,0.401217691,0.441656945,0.010214234,AAMR
+CKD,Overall,Overall,2022,Single,Lung_CKD_2018_2024.csv,1773.0,Numeric,333287557.0,0.413829226,Numeric,0.394589552,0.433909628,0.009931947,AAMR
+CKD,Overall,Overall,2023,Single,Lung_CKD_2018_2024.csv,1781.0,Numeric,334914895.0,0.401251323,Numeric,0.382356389,0.420988649,0.009755521,AAMR
+CKD,Overall,Overall,2024,Single,Lung_CKD_2018_2024.csv,1826.0,Numeric,340110988.0,0.400914347,Numeric,0.38239999,0.420257393,0.009556762,AAMR
+CKD,Age,< 1 year,1999,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,3795762.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,1999,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,15339782.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,1999,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,40819824.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,1999,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,38676031.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,1999,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,40178406.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,1999,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,45076677.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,1999,Bridged,Lung_CKD_age_1999_2020.csv,23.0,Numeric,36577819.0,0.062879638,Numeric,0.039860031,0.094350267,0.013111311,CMR
+CKD,Age,55-64 years,1999,Bridged,Lung_CKD_age_1999_2020.csv,81.0,Numeric,23778026.0,0.34065065,Numeric,0.270524307,0.423398099,0.037850072,CMR
+CKD,Age,65-74 years,1999,Bridged,Lung_CKD_age_1999_2020.csv,177.0,Numeric,18418909.0,0.960968969,Numeric,0.819396502,1.102541437,0.072230851,CMR
+CKD,Age,75-84 years,1999,Bridged,Lung_CKD_age_1999_2020.csv,171.0,Numeric,12224914.0,1.398782846,Numeric,1.189126355,1.608439338,0.106967598,CMR
+CKD,Age,85+ years,1999,Bridged,Lung_CKD_age_1999_2020.csv,54.0,Numeric,4154018.0,1.299946221,Numeric,0.976558599,1.69614383,0.176900274,CMR
+CKD,Age,Not Stated,1999,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2000,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,3805648.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2000,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,15370150.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2000,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,41077577.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2000,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,39183891.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2000,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,39891724.0,,Suppressed,,,,CMR
+CKD,Age,35-44 years,2000,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,45148527.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2000,Bridged,Lung_CKD_age_1999_2020.csv,13.0,Numeric,37677952.0,,Unreliable,0.018371434,0.059001057,0.009569393,CMR
+CKD,Age,55-64 years,2000,Bridged,Lung_CKD_age_1999_2020.csv,89.0,Numeric,24274684.0,0.36663711,Numeric,0.294438931,0.451179962,0.038863456,CMR
+CKD,Age,65-74 years,2000,Bridged,Lung_CKD_age_1999_2020.csv,195.0,Numeric,18390986.0,1.060302041,Numeric,0.911479621,1.209124462,0.075929806,CMR
+CKD,Age,75-84 years,2000,Bridged,Lung_CKD_age_1999_2020.csv,193.0,Numeric,12361180.0,1.561339613,Numeric,1.341059751,1.781619475,0.112387685,CMR
+CKD,Age,85+ years,2000,Bridged,Lung_CKD_age_1999_2020.csv,52.0,Numeric,4239587.0,1.226534566,Numeric,0.91603734,1.608440633,0.170089741,CMR
+CKD,Age,Not Stated,2000,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2001,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,4012658.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2001,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,15285559.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2001,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,41152040.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2001,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,40213570.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2001,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,39471522.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2001,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,45051752.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2001,Bridged,Lung_CKD_age_1999_2020.csv,25.0,Numeric,39386268.0,0.063473899,Numeric,0.041077134,0.09370017,0.01269478,CMR
+CKD,Age,55-64 years,2001,Bridged,Lung_CKD_age_1999_2020.csv,85.0,Numeric,25105295.0,0.338573994,Numeric,0.270439363,0.418653515,0.036723506,CMR
+CKD,Age,65-74 years,2001,Bridged,Lung_CKD_age_1999_2020.csv,178.0,Numeric,18384179.0,0.968223819,Numeric,0.82598379,1.110463848,0.072571443,CMR
+CKD,Age,75-84 years,2001,Bridged,Lung_CKD_age_1999_2020.csv,231.0,Numeric,12593618.0,1.834262402,Numeric,1.597718615,2.070806189,0.120685606,CMR
+CKD,Age,85+ years,2001,Bridged,Lung_CKD_age_1999_2020.csv,79.0,Numeric,4312494.0,1.831886607,Numeric,1.450322945,2.283080278,0.206103346,CMR
+CKD,Age,Not Stated,2001,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2002,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,3951461.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2002,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,15477731.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2002,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,41133838.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2002,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,40854135.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2002,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,39349646.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2002,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,44640649.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2002,Bridged,Lung_CKD_age_1999_2020.csv,20.0,Numeric,39992194.0,0.050009759,Numeric,0.030547461,0.077236073,0.011182522,CMR
+CKD,Age,55-64 years,2002,Bridged,Lung_CKD_age_1999_2020.csv,70.0,Numeric,26703332.0,0.262139571,Numeric,0.204350903,0.33119762,0.031331671,CMR
+CKD,Age,65-74 years,2002,Bridged,Lung_CKD_age_1999_2020.csv,201.0,Numeric,18388535.0,1.093072395,Numeric,0.941957606,1.244187185,0.077099382,CMR
+CKD,Age,75-84 years,2002,Bridged,Lung_CKD_age_1999_2020.csv,231.0,Numeric,12764864.0,1.809655003,Numeric,1.57628455,2.043025456,0.119066558,CMR
+CKD,Age,85+ years,2002,Bridged,Lung_CKD_age_1999_2020.csv,78.0,Numeric,4368808.0,1.785384022,Numeric,1.411274654,2.228248529,0.202154933,CMR
+CKD,Age,Not Stated,2002,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2003,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,3975871.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2003,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,15616575.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2003,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,41036204.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2003,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,41388854.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2003,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,39243795.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2003,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,44154206.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2003,Bridged,Lung_CKD_age_1999_2020.csv,32.0,Numeric,40819954.0,0.078393033,Numeric,0.053620835,0.110667445,0.013858061,CMR
+CKD,Age,55-64 years,2003,Bridged,Lung_CKD_age_1999_2020.csv,64.0,Numeric,28008945.0,0.228498431,Numeric,0.175971212,0.291787927,0.028562304,CMR
+CKD,Age,65-74 years,2003,Bridged,Lung_CKD_age_1999_2020.csv,189.0,Numeric,18500915.0,1.021571095,Numeric,0.875926704,1.167215487,0.074308363,CMR
+CKD,Age,75-84 years,2003,Bridged,Lung_CKD_age_1999_2020.csv,280.0,Numeric,12896438.0,2.17114214,Numeric,1.916831042,2.425453238,0.12975056,CMR
+CKD,Age,85+ years,2003,Bridged,Lung_CKD_age_1999_2020.csv,88.0,Numeric,4466176.0,1.9703657,Numeric,1.580292402,2.427549653,0.210041689,CMR
+CKD,Age,Not Stated,2003,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2004,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,4014258.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2004,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,15771627.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2004,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,40865917.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2004,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,41948112.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2004,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,39266556.0,,Suppressed,,,,CMR
+CKD,Age,35-44 years,2004,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,43800275.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2004,Bridged,Lung_CKD_age_1999_2020.csv,26.0,Numeric,41629930.0,0.062455065,Numeric,0.040797522,0.091511036,0.012248446,CMR
+CKD,Age,55-64 years,2004,Bridged,Lung_CKD_age_1999_2020.csv,95.0,Numeric,29305304.0,0.324173399,Numeric,0.26227573,0.396285771,0.033259489,CMR
+CKD,Age,65-74 years,2004,Bridged,Lung_CKD_age_1999_2020.csv,215.0,Numeric,18667533.0,1.151732262,Numeric,0.997779185,1.305685339,0.078547488,CMR
+CKD,Age,75-84 years,2004,Bridged,Lung_CKD_age_1999_2020.csv,296.0,Numeric,12989903.0,2.27869292,Numeric,2.019098102,2.538287738,0.132446336,CMR
+CKD,Age,85+ years,2004,Bridged,Lung_CKD_age_1999_2020.csv,89.0,Numeric,4545883.0,1.957815456,Numeric,1.572282437,2.409268122,0.207528023,CMR
+CKD,Age,Not Stated,2004,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2005,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,4004393.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2005,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,15913007.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2005,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,40601646.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2005,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,42446169.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2005,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,39258647.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2005,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,43505538.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2005,Bridged,Lung_CKD_age_1999_2020.csv,29.0,Numeric,42495904.0,0.068241871,Numeric,0.045702946,0.098006928,0.012672197,CMR
+CKD,Age,55-64 years,2005,Bridged,Lung_CKD_age_1999_2020.csv,105.0,Numeric,30641497.0,0.342672553,Numeric,0.277127376,0.40821773,0.033441417,CMR
+CKD,Age,65-74 years,2005,Bridged,Lung_CKD_age_1999_2020.csv,214.0,Numeric,18881697.0,1.133372705,Numeric,0.981520209,1.2852252,0.077475763,CMR
+CKD,Age,75-84 years,2005,Bridged,Lung_CKD_age_1999_2020.csv,293.0,Numeric,13074802.0,2.240951718,Numeric,1.984352835,2.4975506,0.130917797,CMR
+CKD,Age,85+ years,2005,Bridged,Lung_CKD_age_1999_2020.csv,111.0,Numeric,4693299.0,2.36507412,Numeric,1.925087633,2.805060606,0.224482901,CMR
+CKD,Age,Not Stated,2005,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2006,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,4041738.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2006,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,15897145.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2006,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,40577826.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2006,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,42843844.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2006,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,39395179.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2006,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,43243801.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2006,Bridged,Lung_CKD_age_1999_2020.csv,31.0,Numeric,43286159.0,0.071616426,Numeric,0.048659781,0.101653787,0.01286269,CMR
+CKD,Age,55-64 years,2006,Bridged,Lung_CKD_age_1999_2020.csv,88.0,Numeric,31930113.0,0.275601906,Numeric,0.221040997,0.339549816,0.029379262,CMR
+CKD,Age,65-74 years,2006,Bridged,Lung_CKD_age_1999_2020.csv,219.0,Numeric,19203027.0,1.140445202,Numeric,0.989399477,1.291490926,0.077064145,CMR
+CKD,Age,75-84 years,2006,Bridged,Lung_CKD_age_1999_2020.csv,295.0,Numeric,13095151.0,2.252742255,Numeric,1.995669195,2.509815317,0.131159725,CMR
+CKD,Age,85+ years,2006,Bridged,Lung_CKD_age_1999_2020.csv,95.0,Numeric,4865929.0,1.952350723,Numeric,1.579568876,2.386651141,0.200306958,CMR
+CKD,Age,Not Stated,2006,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2007,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,4147997.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2007,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,15977965.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2007,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,40555653.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2007,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,43145815.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2007,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,39713463.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2007,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,42796230.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2007,Bridged,Lung_CKD_age_1999_2020.csv,22.0,Numeric,43939939.0,0.050068344,Numeric,0.031377331,0.075803974,0.010674607,CMR
+CKD,Age,55-64 years,2007,Bridged,Lung_CKD_age_1999_2020.csv,102.0,Numeric,33128434.0,0.30789261,Numeric,0.248140224,0.367644996,0.030485911,CMR
+CKD,Age,65-74 years,2007,Bridged,Lung_CKD_age_1999_2020.csv,235.0,Numeric,19698727.0,1.19297049,Numeric,1.040441694,1.345499286,0.077820814,CMR
+CKD,Age,75-84 years,2007,Bridged,Lung_CKD_age_1999_2020.csv,297.0,Numeric,13087439.0,2.269351551,Numeric,2.011256531,2.527446572,0.131681133,CMR
+CKD,Age,85+ years,2007,Bridged,Lung_CKD_age_1999_2020.csv,92.0,Numeric,5039545.0,1.825561633,Numeric,1.471658255,2.238887042,0.190327957,CMR
+CKD,Age,Not Stated,2007,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2008,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,4132735.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2008,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,16138392.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2008,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,40636257.0,,Suppressed,,,,CMR
+CKD,Age,15-24 years,2008,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,43391492.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2008,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,40207473.0,,Suppressed,,,,CMR
+CKD,Age,35-44 years,2008,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,42192486.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2008,Bridged,Lung_CKD_age_1999_2020.csv,22.0,Numeric,44460447.0,0.049482184,Numeric,0.03100999,0.074916521,0.010549637,CMR
+CKD,Age,55-64 years,2008,Bridged,Lung_CKD_age_1999_2020.csv,116.0,Numeric,34157063.0,0.339607653,Numeric,0.277805366,0.40140994,0.031531779,CMR
+CKD,Age,65-74 years,2008,Bridged,Lung_CKD_age_1999_2020.csv,214.0,Numeric,20505679.0,1.043613333,Numeric,0.903787053,1.183439613,0.071339939,CMR
+CKD,Age,75-84 years,2008,Bridged,Lung_CKD_age_1999_2020.csv,291.0,Numeric,13076102.0,2.225433849,Numeric,1.969737653,2.481130044,0.130457243,CMR
+CKD,Age,85+ years,2008,Bridged,Lung_CKD_age_1999_2020.csv,105.0,Numeric,5195840.0,2.020847447,Numeric,1.634306994,2.407387901,0.197214517,CMR
+CKD,Age,Not Stated,2008,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2009,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,4003587.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2009,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,16240931.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2009,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,40843063.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2009,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,43576932.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2009,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,40723342.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2009,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,41487811.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2009,Bridged,Lung_CKD_age_1999_2020.csv,26.0,Numeric,44867088.0,0.057948936,Numeric,0.037853983,0.084908519,0.011364721,CMR
+CKD,Age,55-64 years,2009,Bridged,Lung_CKD_age_1999_2020.csv,100.0,Numeric,35405600.0,0.282441196,Numeric,0.227082721,0.33779967,0.02824412,CMR
+CKD,Age,65-74 years,2009,Bridged,Lung_CKD_age_1999_2020.csv,221.0,Numeric,21233099.0,1.040827813,Numeric,0.903601049,1.178054578,0.070013655,CMR
+CKD,Age,75-84 years,2009,Bridged,Lung_CKD_age_1999_2020.csv,317.0,Numeric,13022775.0,2.434197012,Numeric,2.166229487,2.702164538,0.136718125,CMR
+CKD,Age,85+ years,2009,Bridged,Lung_CKD_age_1999_2020.csv,130.0,Numeric,5367301.0,2.422073962,Numeric,2.005711281,2.838436643,0.212429939,CMR
+CKD,Age,Not Stated,2009,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2010,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,3944153.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2010,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,16257209.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2010,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,41025851.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2010,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,43626342.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2010,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,41063948.0,,Suppressed,,,,CMR
+CKD,Age,35-44 years,2010,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,41070606.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2010,Bridged,Lung_CKD_age_1999_2020.csv,22.0,Numeric,45006716.0,0.048881594,Numeric,0.030633606,0.074007221,0.010421591,CMR
+CKD,Age,55-64 years,2010,Bridged,Lung_CKD_age_1999_2020.csv,94.0,Numeric,36482729.0,0.257656164,Numeric,0.208211946,0.315306731,0.026575204,CMR
+CKD,Age,65-74 years,2010,Bridged,Lung_CKD_age_1999_2020.csv,222.0,Numeric,21713429.0,1.022408759,Numeric,0.887914377,1.156903142,0.068619583,CMR
+CKD,Age,75-84 years,2010,Bridged,Lung_CKD_age_1999_2020.csv,301.0,Numeric,13061122.0,2.304549333,Numeric,2.044198584,2.564900083,0.132832015,CMR
+CKD,Age,85+ years,2010,Bridged,Lung_CKD_age_1999_2020.csv,130.0,Numeric,5493433.0,2.366461919,Numeric,1.959659136,2.773264702,0.20755244,CMR
+CKD,Age,Not Stated,2010,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2011,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,3996537.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2011,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,16165521.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2011,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,41039048.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2011,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,43797875.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2011,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,41790498.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2011,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,40627954.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2011,Bridged,Lung_CKD_age_1999_2020.csv,35.0,Numeric,44718203.0,0.078267904,Numeric,0.054516726,0.10885187,0.01322969,CMR
+CKD,Age,55-64 years,2011,Bridged,Lung_CKD_age_1999_2020.csv,182.0,Numeric,38062140.0,0.478165442,Numeric,0.40869524,0.547635644,0.035443981,CMR
+CKD,Age,65-74 years,2011,Bridged,Lung_CKD_age_1999_2020.csv,481.0,Numeric,22481738.0,2.139514303,Numeric,1.948309531,2.330719075,0.097553455,CMR
+CKD,Age,75-84 years,2011,Bridged,Lung_CKD_age_1999_2020.csv,659.0,Numeric,13175230.0,5.001810215,Numeric,4.619918204,5.383702226,0.194842863,CMR
+CKD,Age,85+ years,2011,Bridged,Lung_CKD_age_1999_2020.csv,311.0,Numeric,5737173.0,5.420788252,Numeric,4.818314238,6.023262267,0.307384701,CMR
+CKD,Age,Not Stated,2011,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2012,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,3943077.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2012,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,16056267.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2012,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,41144754.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2012,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,43943905.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2012,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,42309321.0,,Suppressed,,,,CMR
+CKD,Age,35-44 years,2012,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,40516420.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2012,Bridged,Lung_CKD_age_1999_2020.csv,38.0,Numeric,44268738.0,0.085839357,Numeric,0.060745079,0.117821385,0.013924983,CMR
+CKD,Age,55-64 years,2012,Bridged,Lung_CKD_age_1999_2020.csv,184.0,Numeric,38586202.0,0.476854395,Numeric,0.407952217,0.545756573,0.035154172,CMR
+CKD,Age,65-74 years,2012,Bridged,Lung_CKD_age_1999_2020.csv,483.0,Numeric,23985392.0,2.013725688,Numeric,1.834135412,2.193315963,0.091627691,CMR
+CKD,Age,75-84 years,2012,Bridged,Lung_CKD_age_1999_2020.csv,701.0,Numeric,13272634.0,5.281543965,Numeric,4.890560886,5.672527043,0.199481162,CMR
+CKD,Age,85+ years,2012,Bridged,Lung_CKD_age_1999_2020.csv,342.0,Numeric,5887330.0,5.809084933,Numeric,5.193411031,6.424758835,0.314119338,CMR
+CKD,Age,Not Stated,2012,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2013,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,3941783.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2013,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,15926305.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2013,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,41221035.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2013,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,43954402.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2013,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,42844587.0,,Suppressed,,,,CMR
+CKD,Age,35-44 years,2013,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,40452690.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2013,Bridged,Lung_CKD_age_1999_2020.csv,25.0,Numeric,43767532.0,0.057119967,Numeric,0.036965187,0.084320496,0.011423994,CMR
+CKD,Age,55-64 years,2013,Bridged,Lung_CKD_age_1999_2020.csv,129.0,Numeric,39316431.0,0.328107096,Numeric,0.271486187,0.384728005,0.028888219,CMR
+CKD,Age,65-74 years,2013,Bridged,Lung_CKD_age_1999_2020.csv,312.0,Numeric,25216766.0,1.237272059,Numeric,1.099980455,1.374563664,0.070046737,CMR
+CKD,Age,75-84 years,2013,Bridged,Lung_CKD_age_1999_2020.csv,418.0,Numeric,13446519.0,3.108611232,Numeric,2.810598827,3.406623638,0.152047145,CMR
+CKD,Age,85+ years,2013,Bridged,Lung_CKD_age_1999_2020.csv,223.0,Numeric,6040789.0,3.691570753,Numeric,3.207047264,4.176094243,0.247205862,CMR
+CKD,Age,Not Stated,2013,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2014,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,3948350.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2014,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,15928533.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2014,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,41191072.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2014,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,43979821.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2014,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,43516504.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2014,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,40513133.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2014,Bridged,Lung_CKD_age_1999_2020.csv,22.0,Numeric,43458851.0,0.050622599,Numeric,0.031724677,0.076643122,0.010792774,CMR
+CKD,Age,55-64 years,2014,Bridged,Lung_CKD_age_1999_2020.csv,126.0,Numeric,40077581.0,0.314390232,Numeric,0.259494341,0.369286124,0.028008108,CMR
+CKD,Age,65-74 years,2014,Bridged,Lung_CKD_age_1999_2020.csv,289.0,Numeric,26398290.0,1.094767881,Numeric,0.968547584,1.220988178,0.064398111,CMR
+CKD,Age,75-84 years,2014,Bridged,Lung_CKD_age_1999_2020.csv,440.0,Numeric,13682690.0,3.215741934,Numeric,2.91526515,3.516218718,0.153304482,CMR
+CKD,Age,85+ years,2014,Bridged,Lung_CKD_age_1999_2020.csv,252.0,Numeric,6162231.0,4.089428001,Numeric,3.584512891,4.594343111,0.25760975,CMR
+CKD,Age,Not Stated,2014,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2015,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,3978038.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2015,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,15929243.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2015,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,41109506.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2015,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,43848216.0,,Suppressed,,,,CMR
+CKD,Age,25-34 years,2015,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,44137202.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2015,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,40589783.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2015,Bridged,Lung_CKD_age_1999_2020.csv,17.0,Numeric,43188161.0,,Unreliable,0.022930312,0.063023522,0.009546842,CMR
+CKD,Age,55-64 years,2015,Bridged,Lung_CKD_age_1999_2020.csv,113.0,Numeric,40877819.0,0.276433535,Numeric,0.225464363,0.327402707,0.026004679,CMR
+CKD,Age,65-74 years,2015,Bridged,Lung_CKD_age_1999_2020.csv,390.0,Numeric,27550517.0,1.415581421,Numeric,1.275087148,1.556075694,0.071680752,CMR
+CKD,Age,75-84 years,2015,Bridged,Lung_CKD_age_1999_2020.csv,488.0,Numeric,13923174.0,3.504947938,Numeric,3.193971323,3.815924553,0.158661538,CMR
+CKD,Age,85+ years,2015,Bridged,Lung_CKD_age_1999_2020.csv,264.0,Numeric,6287161.0,4.199033554,Numeric,3.692505559,4.705561549,0.25843265,CMR
+CKD,Age,Not Stated,2015,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2016,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,3970145.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2016,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,15956892.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2016,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,41048032.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2016,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,43511027.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2016,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,44677243.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2016,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,40470156.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2016,Bridged,Lung_CKD_age_1999_2020.csv,33.0,Numeric,42786679.0,0.077126809,Numeric,0.053090239,0.108314576,0.013426054,CMR
+CKD,Age,55-64 years,2016,Bridged,Lung_CKD_age_1999_2020.csv,162.0,Numeric,41463144.0,0.390708432,Numeric,0.330542404,0.450874461,0.030696954,CMR
+CKD,Age,65-74 years,2016,Bridged,Lung_CKD_age_1999_2020.csv,350.0,Numeric,28630330.0,1.222479797,Numeric,1.094404981,1.350554613,0.065344294,CMR
+CKD,Age,75-84 years,2016,Bridged,Lung_CKD_age_1999_2020.csv,555.0,Numeric,14233534.0,3.899242451,Numeric,3.574835747,4.223649155,0.165513624,CMR
+CKD,Age,85+ years,2016,Bridged,Lung_CKD_age_1999_2020.csv,327.0,Numeric,6380331.0,5.125125954,Numeric,4.569622532,5.680629375,0.283420113,CMR
+CKD,Age,Not Stated,2016,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2017,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,3939295.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2017,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,15999565.0,,Suppressed,,,,CMR
+CKD,Age,5-14 years,2017,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,41082692.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2017,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,43250295.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2017,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,45342672.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2017,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,40875370.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2017,Bridged,Lung_CKD_age_1999_2020.csv,22.0,Numeric,42374952.0,0.051917463,Numeric,0.032536155,0.078603558,0.01106884,CMR
+CKD,Age,55-64 years,2017,Bridged,Lung_CKD_age_1999_2020.csv,170.0,Numeric,41995658.0,0.404803754,Numeric,0.343951574,0.465655934,0.031047031,CMR
+CKD,Age,65-74 years,2017,Bridged,Lung_CKD_age_1999_2020.csv,422.0,Numeric,29683446.0,1.421667821,Numeric,1.286024636,1.557311006,0.069205707,CMR
+CKD,Age,75-84 years,2017,Bridged,Lung_CKD_age_1999_2020.csv,548.0,Numeric,14706551.0,3.726230576,Numeric,3.41424428,4.038216871,0.159176681,CMR
+CKD,Age,85+ years,2017,Bridged,Lung_CKD_age_1999_2020.csv,293.0,Numeric,6468682.0,4.529516214,Numeric,4.010866575,5.048165853,0.264617163,CMR
+CKD,Age,Not Stated,2017,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2018,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,3848208.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2018,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,15962067.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2018,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,41075169.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2018,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,42970800.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2018,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,45697774.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2018,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,41277888.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,45-54 years,2018,Bridged,Lung_CKD_age_1999_2020.csv,21.0,Numeric,41631699.0,0.050442332,Numeric,0.031224813,0.077106654,0.011007419,CMR
+CKD,Age,55-64 years,2018,Bridged,Lung_CKD_age_1999_2020.csv,170.0,Numeric,42272636.0,0.402151406,Numeric,0.34169794,0.462604871,0.030843605,CMR
+CKD,Age,65-74 years,2018,Bridged,Lung_CKD_age_1999_2020.csv,425.0,Numeric,30492316.0,1.393793768,Numeric,1.261280268,1.526307268,0.067608928,CMR
+CKD,Age,75-84 years,2018,Bridged,Lung_CKD_age_1999_2020.csv,556.0,Numeric,15394374.0,3.611709057,Numeric,3.311494716,3.911923397,0.153170582,CMR
+CKD,Age,85+ years,2018,Bridged,Lung_CKD_age_1999_2020.csv,345.0,Numeric,6544503.0,5.271599692,Numeric,4.715325454,5.82787393,0.283813387,CMR
+CKD,Age,Not Stated,2018,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2019,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,3783052.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2019,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,15793631.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2019,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,40994163.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2019,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,42687510.0,,Suppressed,,,,CMR
+CKD,Age,25-34 years,2019,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,45940321.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2019,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,41659144.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2019,Bridged,Lung_CKD_age_1999_2020.csv,31.0,Numeric,40874902.0,0.07584116,Numeric,0.051530276,0.10765046,0.013621474,CMR
+CKD,Age,55-64 years,2019,Bridged,Lung_CKD_age_1999_2020.csv,174.0,Numeric,42448537.0,0.40990812,Numeric,0.349001013,0.470815227,0.031075054,CMR
+CKD,Age,65-74 years,2019,Bridged,Lung_CKD_age_1999_2020.csv,460.0,Numeric,31483433.0,1.461085899,Numeric,1.327563875,1.594607922,0.068123481,CMR
+CKD,Age,75-84 years,2019,Bridged,Lung_CKD_age_1999_2020.csv,595.0,Numeric,15969872.0,3.725765617,Numeric,3.426392279,4.025138954,0.152741499,CMR
+CKD,Age,85+ years,2019,Bridged,Lung_CKD_age_1999_2020.csv,358.0,Numeric,6604958.0,5.420170726,Numeric,4.858699475,5.981641978,0.286464924,CMR
+CKD,Age,Not Stated,2019,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2020,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,3735010.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2020,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,15566282.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2020,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,40992134.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2020,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,42555684.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2020,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,46069646.0,,Unreliable,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2020,Bridged,Lung_CKD_age_1999_2020.csv,,Suppressed,42136192.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2020,Bridged,Lung_CKD_age_1999_2020.csv,28.0,Numeric,40366133.0,0.069365079,Numeric,0.046092401,0.100251961,0.013108768,CMR
+CKD,Age,55-64 years,2020,Bridged,Lung_CKD_age_1999_2020.csv,163.0,Numeric,42403677.0,0.384400626,Numeric,0.325387808,0.443413445,0.030108581,CMR
+CKD,Age,65-74 years,2020,Bridged,Lung_CKD_age_1999_2020.csv,502.0,Numeric,32549398.0,1.542271227,Numeric,1.407354757,1.677187697,0.068834934,CMR
+CKD,Age,75-84 years,2020,Bridged,Lung_CKD_age_1999_2020.csv,664.0,Numeric,16451547.0,4.0360946,Numeric,3.729098139,4.34309106,0.156630847,CMR
+CKD,Age,85+ years,2020,Bridged,Lung_CKD_age_1999_2020.csv,373.0,Numeric,6658420.0,5.601929587,Numeric,5.033418025,6.170441148,0.290056919,CMR
+CKD,Age,Not Stated,2020,Bridged,Lung_CKD_age_1999_2020.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2021,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,3564493.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2021,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,15262845.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2021,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,41739332.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2021,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,43088663.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2021,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,45495105.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2021,Single,Lung_CKD_age_2018_2024.csv,,Suppressed,43403854.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2021,Single,Lung_CKD_age_2018_2024.csv,26.0,Numeric,40688436.0,0.06390022,Numeric,0.041741541,0.093628519,0.012531864,CMR
+CKD,Age,55-64 years,2021,Single,Lung_CKD_age_2018_2024.csv,176.0,Numeric,42803064.0,0.411185517,Numeric,0.350436739,0.471934295,0.030994274,CMR
+CKD,Age,65-74 years,2021,Single,Lung_CKD_age_2018_2024.csv,469.0,Numeric,33666122.0,1.393091845,Numeric,1.267010916,1.519172774,0.064327005,CMR
+CKD,Age,75-84 years,2021,Single,Lung_CKD_age_2018_2024.csv,651.0,Numeric,16206075.0,4.017012139,Numeric,3.708431466,4.325592811,0.157439119,CMR
+CKD,Age,85+ years,2021,Single,Lung_CKD_age_2018_2024.csv,386.0,Numeric,5975756.0,6.459433752,Numeric,5.81503177,7.103835734,0.328776521,CMR
+CKD,Age,Not Stated,2021,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2022,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,3683113.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2022,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,14855240.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2022,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,40899034.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2022,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,44341571.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2022,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,45501300.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2022,Single,Lung_CKD_age_2018_2024.csv,,Suppressed,43695365.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2022,Single,Lung_CKD_age_2018_2024.csv,29.0,Numeric,40431645.0,0.071725996,Numeric,0.048036334,0.103010723,0.013319183,CMR
+CKD,Age,55-64 years,2022,Single,Lung_CKD_age_2018_2024.csv,172.0,Numeric,42085437.0,0.408692442,Numeric,0.347613929,0.469770954,0.031162506,CMR
+CKD,Age,65-74 years,2022,Single,Lung_CKD_age_2018_2024.csv,420.0,Numeric,33788439.0,1.243028718,Numeric,1.12414768,1.361909756,0.060653591,CMR
+CKD,Age,75-84 years,2022,Single,Lung_CKD_age_2018_2024.csv,725.0,Numeric,17520545.0,4.137999132,Numeric,3.83678353,4.439214734,0.15368143,CMR
+CKD,Age,85+ years,2022,Single,Lung_CKD_age_2018_2024.csv,426.0,Numeric,6485868.0,6.568126271,Numeric,5.944401826,7.191850716,0.318226758,CMR
+CKD,Age,Not Stated,2022,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2023,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,3648654.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2023,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,14862506.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2023,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,40987321.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2023,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,43886652.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2023,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,45542516.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,35-44 years,2023,Single,Lung_CKD_age_2018_2024.csv,,Suppressed,44390693.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2023,Single,Lung_CKD_age_2018_2024.csv,16.0,Numeric,40493781.0,0.03951224,Numeric,0.022584801,0.064165507,0.00987806,CMR
+CKD,Age,55-64 years,2023,Single,Lung_CKD_age_2018_2024.csv,158.0,Numeric,41854411.0,0.377499041,Numeric,0.318635907,0.436362175,0.030032211,CMR
+CKD,Age,65-74 years,2023,Single,Lung_CKD_age_2018_2024.csv,463.0,Numeric,34685284.0,1.334860052,Numeric,1.213269085,1.456451019,0.062036208,CMR
+CKD,Age,75-84 years,2023,Single,Lung_CKD_age_2018_2024.csv,703.0,Numeric,18368097.0,3.827288151,Numeric,3.544364294,4.110212008,0.144348907,CMR
+CKD,Age,85+ years,2023,Single,Lung_CKD_age_2018_2024.csv,438.0,Numeric,6194980.0,7.070240743,Numeric,6.408095569,7.732385917,0.33782917,CMR
+CKD,Age,Not Stated,2023,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Age,< 1 year,2024,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,3615598.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,1-4 years,2024,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,14983716.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,5-14 years,2024,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,41098826.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,15-24 years,2024,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,44797761.0,0.0,Numeric,0.0,0.0,0.0,CMR
+CKD,Age,25-34 years,2024,Single,Lung_CKD_age_2018_2024.csv,,Suppressed,46453864.0,,Suppressed,,,,CMR
+CKD,Age,35-44 years,2024,Single,Lung_CKD_age_2018_2024.csv,,Suppressed,45539224.0,,Suppressed,,,,CMR
+CKD,Age,45-54 years,2024,Single,Lung_CKD_age_2018_2024.csv,20.0,Numeric,40780356.0,0.049043221,Numeric,0.02995707,0.075743331,0.010966398,CMR
+CKD,Age,55-64 years,2024,Single,Lung_CKD_age_2018_2024.csv,153.0,Numeric,41661725.0,0.367243555,Numeric,0.309051387,0.425435723,0.029689882,CMR
+CKD,Age,65-74 years,2024,Single,Lung_CKD_age_2018_2024.csv,462.0,Numeric,35444962.0,1.303429243,Numeric,1.184572851,1.422285636,0.060641016,CMR
+CKD,Age,75-84 years,2024,Single,Lung_CKD_age_2018_2024.csv,768.0,Numeric,19299813.0,3.979313167,Numeric,3.69787462,4.260751715,0.143591095,CMR
+CKD,Age,85+ years,2024,Single,Lung_CKD_age_2018_2024.csv,417.0,Numeric,6435143.0,6.480042479,Numeric,5.85807755,7.102007408,0.317329046,CMR
+CKD,Age,Not Stated,2024,Single,Lung_CKD_age_2018_2024.csv,0.0,Numeric,,,Not Applicable,,,,CMR
+CKD,Race,Hispanic,1999,Bridged,Lung_CKD_Hispanic_1999_2020.csv,24.0,Numeric,33937795.0,0.161623796,Numeric,0.102454941,0.24251489,0.033762793,AAMR
+CKD,Race,Hispanic,2000,Bridged,Lung_CKD_Hispanic_1999_2020.csv,19.0,Numeric,35305818.0,,Unreliable,0.073804841,0.202851189,0.030798954,AAMR
+CKD,Race,Hispanic,2001,Bridged,Lung_CKD_Hispanic_1999_2020.csv,16.0,Numeric,37144096.0,,Unreliable,0.066411423,0.195707766,0.030357576,AAMR
+CKD,Race,Hispanic,2002,Bridged,Lung_CKD_Hispanic_1999_2020.csv,19.0,Numeric,38617620.0,,Unreliable,0.067595642,0.185785324,0.027905086,AAMR
+CKD,Race,Hispanic,2003,Bridged,Lung_CKD_Hispanic_1999_2020.csv,24.0,Numeric,40049429.0,0.153579122,Numeric,0.0962465,0.232520327,0.032653239,AAMR
+CKD,Race,Hispanic,2004,Bridged,Lung_CKD_Hispanic_1999_2020.csv,27.0,Numeric,41501375.0,0.156329648,Numeric,0.100163532,0.232606009,0.031720957,AAMR
+CKD,Race,Hispanic,2005,Bridged,Lung_CKD_Hispanic_1999_2020.csv,24.0,Numeric,43023614.0,0.136599208,Numeric,0.085605358,0.206812567,0.028895074,AAMR
+CKD,Race,Hispanic,2006,Bridged,Lung_CKD_Hispanic_1999_2020.csv,34.0,Numeric,44606305.0,0.172151895,Numeric,0.116968605,0.244355843,0.030834528,AAMR
+CKD,Race,Hispanic,2007,Bridged,Lung_CKD_Hispanic_1999_2020.csv,34.0,Numeric,46196853.0,0.163737225,Numeric,0.111251258,0.232411892,0.029234921,AAMR
+CKD,Race,Hispanic,2008,Bridged,Lung_CKD_Hispanic_1999_2020.csv,43.0,Numeric,47793785.0,0.200421723,Numeric,0.142519887,0.273982508,0.032216303,AAMR
+CKD,Race,Hispanic,2009,Bridged,Lung_CKD_Hispanic_1999_2020.csv,29.0,Numeric,49327489.0,0.128858492,Numeric,0.084174233,0.188807328,0.025340981,AAMR
+CKD,Race,Hispanic,2010,Bridged,Lung_CKD_Hispanic_1999_2020.csv,37.0,Numeric,50477594.0,0.146383707,Numeric,0.100763225,0.205576887,0.02541003,AAMR
+CKD,Race,Hispanic,2011,Bridged,Lung_CKD_Hispanic_1999_2020.csv,78.0,Numeric,52045277.0,0.324497552,Numeric,0.253899865,0.408649502,0.038351413,AAMR
+CKD,Race,Hispanic,2012,Bridged,Lung_CKD_Hispanic_1999_2020.csv,76.0,Numeric,53027708.0,0.306379177,Numeric,0.240152254,0.385225859,0.035835789,AAMR
+CKD,Race,Hispanic,2013,Bridged,Lung_CKD_Hispanic_1999_2020.csv,53.0,Numeric,54071370.0,0.206602334,Numeric,0.153344384,0.272380385,0.029191939,AAMR
+CKD,Race,Hispanic,2014,Bridged,Lung_CKD_Hispanic_1999_2020.csv,58.0,Numeric,55387539.0,0.212828573,Numeric,0.159883209,0.277694465,0.028846589,AAMR
+CKD,Race,Hispanic,2015,Bridged,Lung_CKD_Hispanic_1999_2020.csv,62.0,Numeric,56592793.0,0.19839215,Numeric,0.149863446,0.257628078,0.026508242,AAMR
+CKD,Race,Hispanic,2016,Bridged,Lung_CKD_Hispanic_1999_2020.csv,48.0,Numeric,57470287.0,0.168076109,Numeric,0.123495602,0.223505929,0.024520754,AAMR
+CKD,Race,Hispanic,2017,Bridged,Lung_CKD_Hispanic_1999_2020.csv,67.0,Numeric,58946729.0,0.198087679,Numeric,0.151871842,0.2539385,0.025161355,AAMR
+CKD,Race,Hispanic,2018,Bridged,Lung_CKD_Hispanic_1999_2020.csv,61.0,Numeric,59871746.0,0.174848127,Numeric,0.132078527,0.227054281,0.023348321,AAMR
+CKD,Race,Hispanic,2019,Bridged,Lung_CKD_Hispanic_1999_2020.csv,65.0,Numeric,60572237.0,0.179487131,Numeric,0.136968424,0.231035835,0.023217765,AAMR
+CKD,Race,Hispanic,2020,Bridged,Lung_CKD_Hispanic_1999_2020.csv,72.0,Numeric,61312879.0,0.185110317,Numeric,0.143458644,0.235082697,0.022532452,AAMR
+CKD,Race,Hispanic,2021,Single,Lung_CKD_Hispanic_2018_2024.csv,65.0,Numeric,62647044.0,0.166682095,Numeric,0.126550686,0.215960339,0.021896928,AAMR
+CKD,Race,Hispanic,2022,Single,Lung_CKD_Hispanic_2018_2024.csv,75.0,Numeric,63664346.0,0.188549006,Numeric,0.148100612,0.237263976,0.021889901,AAMR
+CKD,Race,Hispanic,2023,Single,Lung_CKD_Hispanic_2018_2024.csv,79.0,Numeric,65219145.0,0.193626891,Numeric,0.151499503,0.244120143,0.022820148,AAMR
+CKD,Race,Hispanic,2024,Single,Lung_CKD_Hispanic_2018_2024.csv,77.0,Numeric,68086153.0,0.170764152,Numeric,0.133250495,0.215880127,0.020333919,AAMR
+CKD,Urbanicity,Metro,1999,Bridged,Lung_CKD_Metro_1999_2020.csv,425.0,Numeric,234421194.0,0.200289842,Numeric,0.181125281,0.219454403,0.009777837,AAMR
+CKD,Urbanicity,Metro,2000,Bridged,Lung_CKD_Metro_1999_2020.csv,449.0,Numeric,236637796.0,0.193409899,Numeric,0.17519031,0.211629488,0.009295709,AAMR
+CKD,Urbanicity,Metro,2001,Bridged,Lung_CKD_Metro_1999_2020.csv,515.0,Numeric,240128266.0,0.227943051,Numeric,0.208036561,0.247849541,0.010156372,AAMR
+CKD,Urbanicity,Metro,2002,Bridged,Lung_CKD_Metro_1999_2020.csv,516.0,Numeric,242665792.0,0.210375603,Numeric,0.191868802,0.228882404,0.009442245,AAMR
+CKD,Urbanicity,Metro,2003,Bridged,Lung_CKD_Metro_1999_2020.csv,533.0,Numeric,244993933.0,0.223533745,Numeric,0.204441765,0.242625724,0.009740806,AAMR
+CKD,Urbanicity,Metro,2004,Bridged,Lung_CKD_Metro_1999_2020.csv,579.0,Numeric,247510633.0,0.248567415,Numeric,0.228092759,0.269042071,0.010446253,AAMR
+CKD,Urbanicity,Metro,2005,Bridged,Lung_CKD_Metro_1999_2020.csv,618.0,Numeric,250039935.0,0.253219984,Numeric,0.232975328,0.273464639,0.010328906,AAMR
+CKD,Urbanicity,Metro,2006,Bridged,Lung_CKD_Metro_1999_2020.csv,615.0,Numeric,252641624.0,0.253051495,Numeric,0.232918374,0.273184617,0.010272001,AAMR
+CKD,Urbanicity,Metro,2007,Bridged,Lung_CKD_Metro_1999_2020.csv,618.0,Numeric,255300617.0,0.234915454,Numeric,0.215930833,0.253900075,0.009686031,AAMR
+CKD,Urbanicity,Metro,2008,Bridged,Lung_CKD_Metro_1999_2020.csv,622.0,Numeric,257996520.0,0.250688783,Numeric,0.230663098,0.270714469,0.010217186,AAMR
+CKD,Urbanicity,Metro,2009,Bridged,Lung_CKD_Metro_1999_2020.csv,637.0,Numeric,260573371.0,0.233946756,Numeric,0.215358587,0.252534925,0.00948376,AAMR
+CKD,Urbanicity,Metro,2010,Bridged,Lung_CKD_Metro_1999_2020.csv,618.0,Numeric,262452132.0,0.226529452,Numeric,0.208306584,0.244752319,0.009297381,AAMR
+CKD,Urbanicity,Metro,2011,Bridged,Lung_CKD_Metro_1999_2020.csv,1372.0,Numeric,265270604.0,0.503732339,Numeric,0.476822902,0.530641776,0.013729304,AAMR
+CKD,Urbanicity,Metro,2012,Bridged,Lung_CKD_Metro_1999_2020.csv,1415.0,Numeric,267664440.0,0.510918027,Numeric,0.484079843,0.53775621,0.013692951,AAMR
+CKD,Urbanicity,Metro,2013,Bridged,Lung_CKD_Metro_1999_2020.csv,905.0,Numeric,269911242.0,0.310804613,Numeric,0.289977467,0.33163176,0.010626095,AAMR
+CKD,Urbanicity,Metro,2014,Bridged,Lung_CKD_Metro_1999_2020.csv,930.0,Numeric,272667942.0,0.320923525,Numeric,0.29987245,0.341974601,0.010740345,AAMR
+CKD,Urbanicity,Metro,2015,Bridged,Lung_CKD_Metro_1999_2020.csv,1047.0,Numeric,275252217.0,0.342253739,Numeric,0.321101543,0.363405935,0.010791937,AAMR
+CKD,Urbanicity,Metro,2016,Bridged,Lung_CKD_Metro_1999_2020.csv,1158.0,Numeric,277016929.0,0.370510612,Numeric,0.348794687,0.392226536,0.011079553,AAMR
+CKD,Urbanicity,Metro,2017,Bridged,Lung_CKD_Metro_1999_2020.csv,1203.0,Numeric,279636439.0,0.366150223,Numeric,0.34503671,0.387263735,0.0107722,AAMR
+CKD,Urbanicity,Metro,2018,Bridged,Lung_CKD_Metro_1999_2020.csv,1256.0,Numeric,281067210.0,0.386005609,Numeric,0.364233414,0.407777804,0.011108263,AAMR
+CKD,Urbanicity,Metro,2019,Bridged,Lung_CKD_Metro_1999_2020.csv,1333.0,Numeric,282176462.0,0.396524626,Numeric,0.374896969,0.418152282,0.011034519,AAMR
+CKD,Urbanicity,Metro,2020,Bridged,Lung_CKD_Metro_1999_2020.csv,1382.0,Numeric,283450351.0,0.401577299,Numeric,0.380010574,0.423144024,0.011003431,AAMR
+CKD,Race,NH Black,1999,Bridged,Lung_CKD_NHBlack_1999_2020.csv,136.0,Numeric,34722236.0,0.582429276,Numeric,0.483806721,0.681051831,0.05031763,AAMR
+CKD,Race,NH Black,2000,Bridged,Lung_CKD_NHBlack_1999_2020.csv,134.0,Numeric,35091809.0,0.557897766,Numeric,0.461942119,0.653853413,0.048956963,AAMR
+CKD,Race,NH Black,2001,Bridged,Lung_CKD_NHBlack_1999_2020.csv,156.0,Numeric,35638389.0,0.648137442,Numeric,0.544611318,0.751663566,0.052819451,AAMR
+CKD,Race,NH Black,2002,Bridged,Lung_CKD_NHBlack_1999_2020.csv,145.0,Numeric,36049904.0,0.598962106,Numeric,0.500050878,0.697873335,0.050464913,AAMR
+CKD,Race,NH Black,2003,Bridged,Lung_CKD_NHBlack_1999_2020.csv,143.0,Numeric,36422205.0,0.561474206,Numeric,0.467768217,0.655180195,0.047809178,AAMR
+CKD,Race,NH Black,2004,Bridged,Lung_CKD_NHBlack_1999_2020.csv,168.0,Numeric,36848991.0,0.652362775,Numeric,0.551796266,0.752929285,0.051309444,AAMR
+CKD,Race,NH Black,2005,Bridged,Lung_CKD_NHBlack_1999_2020.csv,178.0,Numeric,37270736.0,0.687694194,Numeric,0.584771503,0.790616884,0.052511577,AAMR
+CKD,Race,NH Black,2006,Bridged,Lung_CKD_NHBlack_1999_2020.csv,150.0,Numeric,37719495.0,0.551751942,Numeric,0.46144305,0.642060834,0.046075966,AAMR
+CKD,Race,NH Black,2007,Bridged,Lung_CKD_NHBlack_1999_2020.csv,141.0,Numeric,38184699.0,0.49887788,Numeric,0.413717349,0.584038412,0.043449251,AAMR
+CKD,Race,NH Black,2008,Bridged,Lung_CKD_NHBlack_1999_2020.csv,145.0,Numeric,38651733.0,0.506191055,Numeric,0.421380168,0.591001942,0.043270861,AAMR
+CKD,Race,NH Black,2009,Bridged,Lung_CKD_NHBlack_1999_2020.csv,162.0,Numeric,39104815.0,0.547912503,Numeric,0.460320096,0.63550491,0.044690003,AAMR
+CKD,Race,NH Black,2010,Bridged,Lung_CKD_NHBlack_1999_2020.csv,158.0,Numeric,39437133.0,0.534932577,Numeric,0.449157763,0.62070739,0.04376266,AAMR
+CKD,Race,NH Black,2011,Bridged,Lung_CKD_NHBlack_1999_2020.csv,319.0,Numeric,39944896.0,1.046537262,Numeric,0.928471915,1.164602609,0.060237422,AAMR
+CKD,Race,NH Black,2012,Bridged,Lung_CKD_NHBlack_1999_2020.csv,307.0,Numeric,40391388.0,0.986964138,Numeric,0.873120286,1.100807989,0.058083598,AAMR
+CKD,Race,NH Black,2013,Bridged,Lung_CKD_NHBlack_1999_2020.csv,185.0,Numeric,40802086.0,0.566583342,Numeric,0.48268399,0.650482693,0.042805792,AAMR
+CKD,Race,NH Black,2014,Bridged,Lung_CKD_NHBlack_1999_2020.csv,188.0,Numeric,41316519.0,0.563175884,Numeric,0.480530339,0.645821429,0.042166094,AAMR
+CKD,Race,NH Black,2015,Bridged,Lung_CKD_NHBlack_1999_2020.csv,207.0,Numeric,41777483.0,0.583915999,Numeric,0.501111557,0.666720441,0.042247164,AAMR
+CKD,Race,NH Black,2016,Bridged,Lung_CKD_NHBlack_1999_2020.csv,213.0,Numeric,42141669.0,0.589221512,Numeric,0.507288802,0.671154222,0.041802403,AAMR
+CKD,Race,NH Black,2017,Bridged,Lung_CKD_NHBlack_1999_2020.csv,207.0,Numeric,42624362.0,0.55586333,Numeric,0.47751919,0.63420747,0.0399715,AAMR
+CKD,Race,NH Black,2018,Bridged,Lung_CKD_NHBlack_1999_2020.csv,235.0,Numeric,42934826.0,0.619264846,Numeric,0.537656718,0.700872973,0.0416368,AAMR
+CKD,Race,NH Black,2019,Bridged,Lung_CKD_NHBlack_1999_2020.csv,263.0,Numeric,43235803.0,0.668301005,Numeric,0.58526426,0.751337751,0.042365687,AAMR
+CKD,Race,NH Black,2020,Bridged,Lung_CKD_NHBlack_1999_2020.csv,280.0,Numeric,43620633.0,0.696941853,Numeric,0.613084488,0.780799218,0.04278437,AAMR
+CKD,Race,NH Black,2021,Single,Lung_CKD_NHBlack_2018_2024.csv,238.0,Numeric,41858536.0,0.608052899,Numeric,0.53067553,0.694085346,0.040818545,AAMR
+CKD,Race,NH Black,2022,Single,Lung_CKD_NHBlack_2018_2024.csv,275.0,Numeric,42070471.0,0.670002683,Numeric,0.590239039,0.758014245,0.041981577,AAMR
+CKD,Race,NH Black,2023,Single,Lung_CKD_NHBlack_2018_2024.csv,256.0,Numeric,42313088.0,0.606117041,Numeric,0.532270098,0.68806888,0.038897707,AAMR
+CKD,Race,NH Black,2024,Single,Lung_CKD_NHBlack_2018_2024.csv,266.0,Numeric,42951595.0,0.615514595,Numeric,0.542511694,0.696232429,0.038418738,AAMR
+CKD,Race,NH White,1999,Bridged,Lung_CKD_NHWhite_1999_2020.csv,334.0,Numeric,197154118.0,0.136093743,Numeric,0.12120494,0.150982546,0.007596328,AAMR
+CKD,Race,NH White,2000,Bridged,Lung_CKD_NHWhite_1999_2020.csv,374.0,Numeric,197324684.0,0.153784882,Numeric,0.137943195,0.169626569,0.008082493,AAMR
+CKD,Race,NH White,2001,Bridged,Lung_CKD_NHWhite_1999_2020.csv,413.0,Numeric,197842671.0,0.178769635,Numeric,0.161088349,0.196450921,0.009021064,AAMR
+CKD,Race,NH White,2002,Bridged,Lung_CKD_NHWhite_1999_2020.csv,435.0,Numeric,198101982.0,0.174991404,Numeric,0.158289157,0.191693652,0.008521555,AAMR
+CKD,Race,NH White,2003,Bridged,Lung_CKD_NHWhite_1999_2020.csv,466.0,Numeric,198289486.0,0.189425908,Numeric,0.171859103,0.206992714,0.008962656,AAMR
+CKD,Race,NH White,2004,Bridged,Lung_CKD_NHWhite_1999_2020.csv,510.0,Numeric,198619903.0,0.205566192,Numeric,0.187404605,0.223727779,0.009266116,AAMR
+CKD,Race,NH White,2005,Bridged,Lung_CKD_NHWhite_1999_2020.csv,534.0,Numeric,198880984.0,0.222319865,Numeric,0.203095113,0.241544618,0.009808547,AAMR
+CKD,Race,NH White,2006,Bridged,Lung_CKD_NHWhite_1999_2020.csv,524.0,Numeric,199200396.0,0.207117048,Numeric,0.189033979,0.225200117,0.009226056,AAMR
+CKD,Race,NH White,2007,Bridged,Lung_CKD_NHWhite_1999_2020.csv,550.0,Numeric,199492421.0,0.217224314,Numeric,0.198779871,0.235668758,0.00941043,AAMR
+CKD,Race,NH White,2008,Bridged,Lung_CKD_NHWhite_1999_2020.csv,549.0,Numeric,199783797.0,0.210789273,Numeric,0.192907766,0.22867078,0.009123218,AAMR
+CKD,Race,NH White,2009,Bridged,Lung_CKD_NHWhite_1999_2020.csv,589.0,Numeric,199993079.0,0.22383949,Numeric,0.205467597,0.242211382,0.009373414,AAMR
+CKD,Race,NH White,2010,Bridged,Lung_CKD_NHWhite_1999_2020.csv,550.0,Numeric,200127372.0,0.21275188,Numeric,0.194702515,0.230801245,0.00920886,AAMR
+CKD,Race,NH White,2011,Bridged,Lung_CKD_NHWhite_1999_2020.csv,1221.0,Numeric,200423243.0,0.469161915,Numeric,0.442583491,0.495740339,0.01356042,AAMR
+CKD,Race,NH White,2012,Bridged,Lung_CKD_NHWhite_1999_2020.csv,1319.0,Numeric,200698847.0,0.493870254,Numeric,0.46692401,0.520816498,0.013748083,AAMR
+CKD,Race,NH White,2013,Bridged,Lung_CKD_NHWhite_1999_2020.csv,831.0,Numeric,200918513.0,0.310636125,Numeric,0.288971519,0.332300731,0.01105337,AAMR
+CKD,Race,NH White,2014,Bridged,Lung_CKD_NHWhite_1999_2020.csv,846.0,Numeric,201048793.0,0.302387379,Numeric,0.2817171,0.323057659,0.010546061,AAMR
+CKD,Race,NH White,2015,Bridged,Lung_CKD_NHWhite_1999_2020.csv,967.0,Numeric,201242281.0,0.328476167,Numeric,0.307366976,0.349585358,0.010769995,AAMR
+CKD,Race,NH White,2016,Bridged,Lung_CKD_NHWhite_1999_2020.csv,1127.0,Numeric,201324760.0,0.392285727,Numeric,0.368854216,0.415717238,0.011954853,AAMR
+CKD,Race,NH White,2017,Bridged,Lung_CKD_NHWhite_1999_2020.csv,1135.0,Numeric,201240793.0,0.382166815,Numeric,0.359361695,0.404971935,0.011635265,AAMR
+CKD,Race,NH White,2018,Bridged,Lung_CKD_NHWhite_1999_2020.csv,1172.0,Numeric,201068278.0,0.375623849,Numeric,0.353852192,0.397395505,0.011107988,AAMR
+CKD,Race,NH White,2019,Bridged,Lung_CKD_NHWhite_1999_2020.csv,1232.0,Numeric,200905474.0,0.395142258,Numeric,0.372628324,0.417656192,0.011486701,AAMR
+CKD,Race,NH White,2020,Bridged,Lung_CKD_NHWhite_1999_2020.csv,1336.0,Numeric,200499383.0,0.427267901,Numeric,0.403872791,0.450663012,0.011936281,AAMR
+CKD,Race,NH White,2021,Single,Lung_CKD_NHWhite_2018_2024.csv,1347.0,Numeric,196833431.0,0.439274647,Numeric,0.415888004,0.464157893,0.012093914,AAMR
+CKD,Race,NH White,2022,Single,Lung_CKD_NHWhite_2018_2024.csv,1360.0,Numeric,196225966.0,0.430551668,Numeric,0.407964862,0.454603082,0.01167786,AAMR
+CKD,Race,NH White,2023,Single,Lung_CKD_NHWhite_2018_2024.csv,1360.0,Numeric,195432584.0,0.41837387,Numeric,0.396182051,0.442030164,0.011475318,AAMR
+CKD,Race,NH White,2024,Single,Lung_CKD_NHWhite_2018_2024.csv,1414.0,Numeric,195433224.0,0.432671117,Numeric,0.410573134,0.456241229,0.011421024,AAMR
+CKD,Urbanicity,Nonmetro,1999,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,83.0,Numeric,44618974.0,0.153710108,Numeric,0.122067346,0.191047831,0.017113705,AAMR
+CKD,Urbanicity,Nonmetro,2000,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,98.0,Numeric,44784110.0,0.186481038,Numeric,0.151049641,0.227725049,0.019039091,AAMR
+CKD,Urbanicity,Nonmetro,2001,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,87.0,Numeric,44840689.0,0.166858523,Numeric,0.133279914,0.206323901,0.018051623,AAMR
+CKD,Urbanicity,Nonmetro,2002,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,88.0,Numeric,44959401.0,0.174052019,Numeric,0.139218989,0.214952503,0.018717823,AAMR
+CKD,Urbanicity,Nonmetro,2003,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,123.0,Numeric,45114000.0,0.229905658,Numeric,0.189043931,0.270767385,0.02084782,AAMR
+CKD,Urbanicity,Nonmetro,2004,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,144.0,Numeric,45294665.0,0.261039312,Numeric,0.218365597,0.303713027,0.021772303,AAMR
+CKD,Urbanicity,Nonmetro,2005,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,138.0,Numeric,45476664.0,0.247032043,Numeric,0.205617174,0.288446913,0.021130036,AAMR
+CKD,Urbanicity,Nonmetro,2006,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,117.0,Numeric,45738288.0,0.211877542,Numeric,0.173171353,0.250583731,0.019748056,AAMR
+CKD,Urbanicity,Nonmetro,2007,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,136.0,Numeric,45930590.0,0.249304496,Numeric,0.207213447,0.291395546,0.021475025,AAMR
+CKD,Urbanicity,Nonmetro,2008,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,133.0,Numeric,46097446.0,0.225053369,Numeric,0.185904225,0.264202513,0.019974053,AAMR
+CKD,Urbanicity,Nonmetro,2009,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,160.0,Numeric,46198158.0,0.270767846,Numeric,0.228489051,0.313046641,0.021570814,AAMR
+CKD,Urbanicity,Nonmetro,2010,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,154.0,Numeric,46293406.0,0.272138568,Numeric,0.228404419,0.315872717,0.022313341,AAMR
+CKD,Urbanicity,Nonmetro,2011,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,299.0,Numeric,46321313.0,0.503730419,Numeric,0.446286357,0.561174482,0.029308195,AAMR
+CKD,Urbanicity,Nonmetro,2012,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,336.0,Numeric,46249600.0,0.554764921,Numeric,0.494910663,0.614619178,0.030537886,AAMR
+CKD,Urbanicity,Nonmetro,2013,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,205.0,Numeric,46217597.0,0.331103646,Numeric,0.2853621,0.376845192,0.023337523,AAMR
+CKD,Urbanicity,Nonmetro,2014,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,200.0,Numeric,46189114.0,0.313463343,Numeric,0.269468031,0.357458655,0.022446588,AAMR
+CKD,Urbanicity,Nonmetro,2015,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,229.0,Numeric,46166603.0,0.357813783,Numeric,0.311011761,0.404615805,0.023878582,AAMR
+CKD,Urbanicity,Nonmetro,2016,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,273.0,Numeric,46110584.0,0.424397805,Numeric,0.373095918,0.475699692,0.026174432,AAMR
+CKD,Urbanicity,Nonmetro,2017,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,256.0,Numeric,46082739.0,0.388990315,Numeric,0.340879752,0.437100877,0.024546205,AAMR
+CKD,Urbanicity,Nonmetro,2018,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,261.0,Numeric,46100224.0,0.377565083,Numeric,0.331408444,0.423721722,0.023549306,AAMR
+CKD,Urbanicity,Nonmetro,2019,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,287.0,Numeric,46063061.0,0.404592592,Numeric,0.35726996,0.451915224,0.0241442,AAMR
+CKD,Urbanicity,Nonmetro,2020,Bridged,Lung_CKD_Nonmetro_1999_2020.csv,351.0,Numeric,46024426.0,0.500981169,Numeric,0.448126742,0.553835595,0.026966544,AAMR
+CKD,Race,Other,1999,Bridged,Lung_CKD_Other_1999_2020.csv,13.0,Numeric,13226019.0,,Unreliable,0.093377822,0.315674905,0.052220458,AAMR
+CKD,Race,Other,2000,Bridged,Lung_CKD_Other_1999_2020.csv,19.0,Numeric,13699595.0,,Unreliable,0.142519079,0.38005168,0.056935377,AAMR
+CKD,Race,Other,2001,Bridged,Lung_CKD_Other_1999_2020.csv,13.0,Numeric,14343799.0,,Unreliable,0.092184825,0.311641836,0.051131226,AAMR
+CKD,Race,Other,2002,Bridged,Lung_CKD_Other_1999_2020.csv,,Suppressed,14855687.0,,Suppressed,,,,AAMR
+CKD,Race,Other,2003,Bridged,Lung_CKD_Other_1999_2020.csv,21.0,Numeric,15346813.0,0.237244088,Numeric,0.144915806,0.366404514,0.053669472,AAMR
+CKD,Race,Other,2004,Bridged,Lung_CKD_Other_1999_2020.csv,17.0,Numeric,15835029.0,,Unreliable,0.089356327,0.263324087,0.041195103,AAMR
+CKD,Race,Other,2005,Bridged,Lung_CKD_Other_1999_2020.csv,20.0,Numeric,16341265.0,0.182623914,Numeric,0.108233889,0.288624312,0.042808714,AAMR
+CKD,Race,Other,2006,Bridged,Lung_CKD_Other_1999_2020.csv,23.0,Numeric,16853716.0,0.200864705,Numeric,0.12433927,0.307043797,0.044171328,AAMR
+CKD,Race,Other,2007,Bridged,Lung_CKD_Other_1999_2020.csv,28.0,Numeric,17357234.0,0.256927147,Numeric,0.169317559,0.373816152,0.049818015,AAMR
+CKD,Race,Other,2008,Bridged,Lung_CKD_Other_1999_2020.csv,17.0,Numeric,17864651.0,,Unreliable,0.085502032,0.242919172,0.037290908,AAMR
+CKD,Race,Other,2009,Bridged,Lung_CKD_Other_1999_2020.csv,16.0,Numeric,18346146.0,,Unreliable,0.072294441,0.213044429,0.033320108,AAMR
+CKD,Race,Other,2010,Bridged,Lung_CKD_Other_1999_2020.csv,26.0,Numeric,18703439.0,0.180551462,Numeric,0.114453377,0.270915664,0.037441146,AAMR
+CKD,Race,Other,2011,Bridged,Lung_CKD_Other_1999_2020.csv,50.0,Numeric,19178501.0,0.351987649,Numeric,0.258626445,0.468069655,0.051335883,AAMR
+CKD,Race,Other,2012,Bridged,Lung_CKD_Other_1999_2020.csv,45.0,Numeric,19796097.0,0.299157492,Numeric,0.215605796,0.404374174,0.046338807,AAMR
+CKD,Race,Other,2013,Bridged,Lung_CKD_Other_1999_2020.csv,38.0,Numeric,20336870.0,0.232080906,Numeric,0.161653634,0.322768841,0.038991615,AAMR
+CKD,Race,Other,2014,Bridged,Lung_CKD_Other_1999_2020.csv,35.0,Numeric,21104205.0,0.194003703,Numeric,0.133542449,0.272452981,0.033862944,AAMR
+CKD,Race,Other,2015,Bridged,Lung_CKD_Other_1999_2020.csv,34.0,Numeric,21806263.0,0.189269066,Numeric,0.129460041,0.26719114,0.033355268,AAMR
+CKD,Race,Other,2016,Bridged,Lung_CKD_Other_1999_2020.csv,42.0,Numeric,22190797.0,0.22910353,Numeric,0.164409275,0.310804139,0.035849455,AAMR
+CKD,Race,Other,2017,Bridged,Lung_CKD_Other_1999_2020.csv,45.0,Numeric,22907294.0,0.226878719,Numeric,0.164192129,0.305603366,0.034533821,AAMR
+CKD,Race,Other,2018,Bridged,Lung_CKD_Other_1999_2020.csv,47.0,Numeric,23292584.0,0.216529465,Numeric,0.157938757,0.289733747,0.032392314,AAMR
+CKD,Race,Other,2019,Bridged,Lung_CKD_Other_1999_2020.csv,57.0,Numeric,23526009.0,0.262921125,Numeric,0.198069,0.342228653,0.035523498,AAMR
+CKD,Race,Other,2020,Bridged,Lung_CKD_Other_1999_2020.csv,41.0,Numeric,24051228.0,0.18368095,Numeric,0.131223508,0.250122024,0.029170691,AAMR
+CKD,Race,Other,2021,Single,Lung_CKD_Other_2018_2024.csv,57.0,Numeric,30554734.0,0.218584513,Numeric,0.16602396,0.283451668,0.028675631,AAMR
+CKD,Race,Other,2022,Single,Lung_CKD_Other_2018_2024.csv,61.0,Numeric,31326774.0,0.219886086,Numeric,0.167323051,0.284214272,0.028664431,AAMR
+CKD,Race,Other,2023,Single,Lung_CKD_Other_2018_2024.csv,81.0,Numeric,31950078.0,0.273557148,Numeric,0.214917608,0.343452009,0.031733168,AAMR
+CKD,Race,Other,2024,Single,Lung_CKD_Other_2018_2024.csv,63.0,Numeric,33640016.0,0.18741182,Numeric,0.141510464,0.243668711,0.025078361,AAMR
+CKD,Region,Northeast,1999,Bridged,Lung_CKD_region_1999_2020.csv,103.0,Numeric,53343775.0,0.1860986,Numeric,0.149395974,0.222801226,0.01872583,AAMR
+CKD,Region,Midwest,1999,Bridged,Lung_CKD_region_1999_2020.csv,121.0,Numeric,64100061.0,0.186161083,Numeric,0.152377539,0.219944627,0.017236502,AAMR
+CKD,Region,South,1999,Bridged,Lung_CKD_region_1999_2020.csv,196.0,Numeric,99164460.0,0.201272105,Numeric,0.173053264,0.229490946,0.014397368,AAMR
+CKD,Region,West,1999,Bridged,Lung_CKD_region_1999_2020.csv,88.0,Numeric,62431872.0,0.152804538,Numeric,0.122223766,0.188712077,0.01652296,AAMR
+CKD,Region,Northeast,2000,Bridged,Lung_CKD_region_1999_2020.csv,111.0,Numeric,53594378.0,0.187863406,Numeric,0.152569727,0.223157085,0.018006979,AAMR
+CKD,Region,Midwest,2000,Bridged,Lung_CKD_region_1999_2020.csv,156.0,Numeric,64392776.0,0.250357182,Numeric,0.210619179,0.290095185,0.020274491,AAMR
+CKD,Region,South,2000,Bridged,Lung_CKD_region_1999_2020.csv,185.0,Numeric,100236820.0,0.181585207,Numeric,0.154972405,0.208198009,0.01357796,AAMR
+CKD,Region,West,2000,Bridged,Lung_CKD_region_1999_2020.csv,95.0,Numeric,63197932.0,0.162507861,Numeric,0.130841579,0.199523902,0.017037896,AAMR
+CKD,Region,Northeast,2001,Bridged,Lung_CKD_region_1999_2020.csv,123.0,Numeric,53915522.0,0.210818585,Numeric,0.173500139,0.248137032,0.019040024,AAMR
+CKD,Region,Midwest,2001,Bridged,Lung_CKD_region_1999_2020.csv,131.0,Numeric,64776531.0,0.20299145,Numeric,0.167709375,0.238273524,0.018001058,AAMR
+CKD,Region,South,2001,Bridged,Lung_CKD_region_1999_2020.csv,249.0,Numeric,101849575.0,0.246849989,Numeric,0.215962112,0.277737867,0.015759121,AAMR
+CKD,Region,West,2001,Bridged,Lung_CKD_region_1999_2020.csv,99.0,Numeric,64427327.0,0.171414813,Numeric,0.139163116,0.208899805,0.017333854,AAMR
+CKD,Region,Northeast,2002,Bridged,Lung_CKD_region_1999_2020.csv,133.0,Numeric,54143915.0,0.21143264,Numeric,0.174804681,0.248060598,0.018687734,AAMR
+CKD,Region,Midwest,2002,Bridged,Lung_CKD_region_1999_2020.csv,144.0,Numeric,65018293.0,0.218572867,Numeric,0.18242519,0.254720544,0.018442692,AAMR
+CKD,Region,South,2002,Bridged,Lung_CKD_region_1999_2020.csv,230.0,Numeric,103150787.0,0.225810036,Numeric,0.196239826,0.255380247,0.015086842,AAMR
+CKD,Region,West,2002,Bridged,Lung_CKD_region_1999_2020.csv,97.0,Numeric,65312198.0,0.156484571,Numeric,0.125991987,0.192128626,0.016425709,AAMR
+CKD,Region,Northeast,2003,Bridged,Lung_CKD_region_1999_2020.csv,111.0,Numeric,54334453.0,0.174422811,Numeric,0.141446646,0.207398977,0.016824574,AAMR
+CKD,Region,Midwest,2003,Bridged,Lung_CKD_region_1999_2020.csv,139.0,Numeric,65276954.0,0.203721236,Numeric,0.169806564,0.237635909,0.017303404,AAMR
+CKD,Region,South,2003,Bridged,Lung_CKD_region_1999_2020.csv,273.0,Numeric,104380188.0,0.258917943,Numeric,0.22796147,0.289874417,0.015794119,AAMR
+CKD,Region,West,2003,Bridged,Lung_CKD_region_1999_2020.csv,133.0,Numeric,66116338.0,0.224007978,Numeric,0.185180937,0.262835019,0.019809715,AAMR
+CKD,Region,Northeast,2004,Bridged,Lung_CKD_region_1999_2020.csv,135.0,Numeric,54423533.0,0.218038089,Numeric,0.180542961,0.255533217,0.019130167,AAMR
+CKD,Region,Midwest,2004,Bridged,Lung_CKD_region_1999_2020.csv,177.0,Numeric,65532305.0,0.266427043,Numeric,0.227014016,0.30584007,0.020108687,AAMR
+CKD,Region,South,2004,Bridged,Lung_CKD_region_1999_2020.csv,291.0,Numeric,105883977.0,0.284765388,Numeric,0.251974266,0.31755651,0.016730164,AAMR
+CKD,Region,West,2004,Bridged,Lung_CKD_region_1999_2020.csv,120.0,Numeric,66965483.0,0.2034032,Numeric,0.166530787,0.240275614,0.018812456,AAMR
+CKD,Region,Northeast,2005,Bridged,Lung_CKD_region_1999_2020.csv,146.0,Numeric,54451230.0,0.242038014,Numeric,0.202543372,0.281532656,0.020150327,AAMR
+CKD,Region,Midwest,2005,Bridged,Lung_CKD_region_1999_2020.csv,189.0,Numeric,65751872.0,0.275965716,Numeric,0.236474104,0.315457328,0.020148782,AAMR
+CKD,Region,South,2005,Bridged,Lung_CKD_region_1999_2020.csv,287.0,Numeric,107479771.0,0.258106088,Numeric,0.227937734,0.288274442,0.015392017,AAMR
+CKD,Region,West,2005,Bridged,Lung_CKD_region_1999_2020.csv,134.0,Numeric,67833726.0,0.211526354,Numeric,0.175472353,0.247580356,0.018394899,AAMR
+CKD,Region,Northeast,2006,Bridged,Lung_CKD_region_1999_2020.csv,133.0,Numeric,54522659.0,0.212771466,Numeric,0.176395059,0.249147872,0.018559391,AAMR
+CKD,Region,Midwest,2006,Bridged,Lung_CKD_region_1999_2020.csv,181.0,Numeric,66028555.0,0.263400104,Numeric,0.224646354,0.302153854,0.019772322,AAMR
+CKD,Region,South,2006,Bridged,Lung_CKD_region_1999_2020.csv,276.0,Numeric,109076933.0,0.253958984,Numeric,0.22384585,0.284072119,0.015363844,AAMR
+CKD,Region,West,2006,Bridged,Lung_CKD_region_1999_2020.csv,142.0,Numeric,68751765.0,0.228092599,Numeric,0.189841663,0.266343534,0.019515783,AAMR
+CKD,Region,Northeast,2007,Bridged,Lung_CKD_region_1999_2020.csv,152.0,Numeric,54653362.0,0.238985864,Numeric,0.200363657,0.277608071,0.019705207,AAMR
+CKD,Region,Midwest,2007,Bridged,Lung_CKD_region_1999_2020.csv,214.0,Numeric,66293689.0,0.303193609,Numeric,0.262095741,0.344291477,0.0209683,AAMR
+CKD,Region,South,2007,Bridged,Lung_CKD_region_1999_2020.csv,249.0,Numeric,110688742.0,0.22467285,Numeric,0.196286975,0.253058726,0.01448259,AAMR
+CKD,Region,West,2007,Bridged,Lung_CKD_region_1999_2020.csv,139.0,Numeric,69595414.0,0.209650167,Numeric,0.173901057,0.245399278,0.018239342,AAMR
+CKD,Region,Northeast,2008,Bridged,Lung_CKD_region_1999_2020.csv,134.0,Numeric,54875926.0,0.226468888,Numeric,0.187898414,0.265039362,0.019678813,AAMR
+CKD,Region,Midwest,2008,Bridged,Lung_CKD_region_1999_2020.csv,181.0,Numeric,66523935.0,0.259823513,Numeric,0.221339498,0.298307528,0.019634701,AAMR
+CKD,Region,South,2008,Bridged,Lung_CKD_region_1999_2020.csv,293.0,Numeric,112184930.0,0.252396482,Numeric,0.22291775,0.281875214,0.01504017,AAMR
+CKD,Region,West,2008,Bridged,Lung_CKD_region_1999_2020.csv,147.0,Numeric,70509175.0,0.221151447,Numeric,0.184630393,0.257672501,0.018633191,AAMR
+CKD,Region,Northeast,2009,Bridged,Lung_CKD_region_1999_2020.csv,138.0,Numeric,55133101.0,0.220002615,Numeric,0.182690727,0.257314503,0.019036678,AAMR
+CKD,Region,Midwest,2009,Bridged,Lung_CKD_region_1999_2020.csv,201.0,Numeric,66748437.0,0.269772018,Numeric,0.232203358,0.307340678,0.019167684,AAMR
+CKD,Region,South,2009,Bridged,Lung_CKD_region_1999_2020.csv,312.0,Numeric,113548615.0,0.27361465,Numeric,0.242913285,0.304316015,0.015663962,AAMR
+CKD,Region,West,2009,Bridged,Lung_CKD_region_1999_2020.csv,146.0,Numeric,71341376.0,0.210463942,Numeric,0.175696498,0.245231386,0.017738492,AAMR
+CKD,Region,Northeast,2010,Bridged,Lung_CKD_region_1999_2020.csv,147.0,Numeric,55317240.0,0.219692386,Numeric,0.183552468,0.255832304,0.018438734,AAMR
+CKD,Region,Midwest,2010,Bridged,Lung_CKD_region_1999_2020.csv,183.0,Numeric,66927001.0,0.253263525,Numeric,0.216161083,0.290365968,0.018929818,AAMR
+CKD,Region,South,2010,Bridged,Lung_CKD_region_1999_2020.csv,300.0,Numeric,114555744.0,0.251100534,Numeric,0.22214726,0.280053808,0.014772078,AAMR
+CKD,Region,West,2010,Bridged,Lung_CKD_region_1999_2020.csv,142.0,Numeric,71945553.0,0.209683318,Numeric,0.174915598,0.244451039,0.017738633,AAMR
+CKD,Region,Northeast,2011,Bridged,Lung_CKD_region_1999_2020.csv,275.0,Numeric,55521598.0,0.430250688,Numeric,0.378867405,0.481633971,0.026215961,AAMR
+CKD,Region,Midwest,2011,Bridged,Lung_CKD_region_1999_2020.csv,406.0,Numeric,67158835.0,0.542875182,Numeric,0.489309648,0.596440716,0.027329354,AAMR
+CKD,Region,South,2011,Bridged,Lung_CKD_region_1999_2020.csv,637.0,Numeric,116046736.0,0.509922198,Numeric,0.469876832,0.549967565,0.020431309,AAMR
+CKD,Region,West,2011,Bridged,Lung_CKD_region_1999_2020.csv,353.0,Numeric,72864748.0,0.498997057,Numeric,0.446355025,0.551639088,0.026858179,AAMR
+CKD,Region,Northeast,2012,Bridged,Lung_CKD_region_1999_2020.csv,280.0,Numeric,55761091.0,0.408149597,Numeric,0.359318963,0.456980231,0.024913589,AAMR
+CKD,Region,Midwest,2012,Bridged,Lung_CKD_region_1999_2020.csv,468.0,Numeric,67316297.0,0.615851368,Numeric,0.559446559,0.672256177,0.028777964,AAMR
+CKD,Region,South,2012,Bridged,Lung_CKD_region_1999_2020.csv,602.0,Numeric,117257221.0,0.479424104,Numeric,0.440792862,0.518055346,0.019709817,AAMR
+CKD,Region,West,2012,Bridged,Lung_CKD_region_1999_2020.csv,401.0,Numeric,73579431.0,0.550241005,Numeric,0.495844221,0.604637788,0.027753461,AAMR
+CKD,Region,Northeast,2013,Bridged,Lung_CKD_region_1999_2020.csv,201.0,Numeric,55943073.0,0.290717611,Numeric,0.249665094,0.331770128,0.020945162,AAMR
+CKD,Region,Midwest,2013,Bridged,Lung_CKD_region_1999_2020.csv,259.0,Numeric,67547890.0,0.333211449,Numeric,0.291925051,0.374497848,0.021064489,AAMR
+CKD,Region,South,2013,Bridged,Lung_CKD_region_1999_2020.csv,401.0,Numeric,118383453.0,0.312925982,Numeric,0.281926117,0.343925847,0.015816257,AAMR
+CKD,Region,West,2013,Bridged,Lung_CKD_region_1999_2020.csv,249.0,Numeric,74254423.0,0.328507399,Numeric,0.286589157,0.370425641,0.021386858,AAMR
+CKD,Region,Northeast,2014,Bridged,Lung_CKD_region_1999_2020.csv,182.0,Numeric,56152333.0,0.276804702,Numeric,0.235756499,0.317852905,0.020942961,AAMR
+CKD,Region,Midwest,2014,Bridged,Lung_CKD_region_1999_2020.csv,298.0,Numeric,67745108.0,0.370879485,Numeric,0.327925978,0.413832991,0.021915054,AAMR
+CKD,Region,South,2014,Bridged,Lung_CKD_region_1999_2020.csv,408.0,Numeric,119771934.0,0.30533827,Numeric,0.275247795,0.335428745,0.015352283,AAMR
+CKD,Region,West,2014,Bridged,Lung_CKD_region_1999_2020.csv,242.0,Numeric,75187681.0,0.302399025,Numeric,0.26338053,0.341417521,0.019907396,AAMR
+CKD,Region,Northeast,2015,Bridged,Lung_CKD_region_1999_2020.csv,218.0,Numeric,56283891.0,0.311755645,Numeric,0.269442654,0.354068636,0.021588261,AAMR
+CKD,Region,Midwest,2015,Bridged,Lung_CKD_region_1999_2020.csv,332.0,Numeric,67907403.0,0.409284864,Numeric,0.364553911,0.454015817,0.022821915,AAMR
+CKD,Region,South,2015,Bridged,Lung_CKD_region_1999_2020.csv,437.0,Numeric,121182847.0,0.312881185,Numeric,0.282911766,0.342850604,0.01529052,AAMR
+CKD,Region,West,2015,Bridged,Lung_CKD_region_1999_2020.csv,289.0,Numeric,76044679.0,0.357682152,Numeric,0.315604618,0.399759687,0.02146813,AAMR
+CKD,Region,Northeast,2016,Bridged,Lung_CKD_region_1999_2020.csv,236.0,Numeric,56209510.0,0.341392966,Numeric,0.297193271,0.385592661,0.022550865,AAMR
+CKD,Region,Midwest,2016,Bridged,Lung_CKD_region_1999_2020.csv,370.0,Numeric,67941429.0,0.444929729,Numeric,0.398578153,0.491281304,0.023648763,AAMR
+CKD,Region,South,2016,Bridged,Lung_CKD_region_1999_2020.csv,540.0,Numeric,122319574.0,0.389340857,Numeric,0.356162653,0.42251906,0.016927655,AAMR
+CKD,Region,West,2016,Bridged,Lung_CKD_region_1999_2020.csv,285.0,Numeric,76657000.0,0.347194367,Numeric,0.305837689,0.388551045,0.021100346,AAMR
+CKD,Region,Northeast,2017,Bridged,Lung_CKD_region_1999_2020.csv,225.0,Numeric,56470581.0,0.309222525,Numeric,0.268091408,0.350353643,0.020985264,AAMR
+CKD,Region,Midwest,2017,Bridged,Lung_CKD_region_1999_2020.csv,373.0,Numeric,68179351.0,0.440371519,Numeric,0.394985875,0.485757164,0.023155941,AAMR
+CKD,Region,South,2017,Bridged,Lung_CKD_region_1999_2020.csv,541.0,Numeric,123658624.0,0.361654496,Numeric,0.330638055,0.392670937,0.015824715,AAMR
+CKD,Region,West,2017,Bridged,Lung_CKD_region_1999_2020.csv,320.0,Numeric,77410622.0,0.362997029,Numeric,0.322395147,0.40359891,0.020715246,AAMR
+CKD,Region,Northeast,2018,Bridged,Lung_CKD_region_1999_2020.csv,213.0,Numeric,56111079.0,0.282762945,Numeric,0.243769298,0.321756592,0.019894718,AAMR
+CKD,Region,Midwest,2018,Bridged,Lung_CKD_region_1999_2020.csv,376.0,Numeric,68308744.0,0.439737879,Numeric,0.394562005,0.484913753,0.023048915,AAMR
+CKD,Region,South,2018,Bridged,Lung_CKD_region_1999_2020.csv,606.0,Numeric,124753948.0,0.395024606,Numeric,0.363132491,0.426916721,0.016271487,AAMR
+CKD,Region,West,2018,Bridged,Lung_CKD_region_1999_2020.csv,322.0,Numeric,77993663.0,0.357205354,Numeric,0.317454505,0.396956203,0.020281045,AAMR
+CKD,Region,Northeast,2019,Bridged,Lung_CKD_region_1999_2020.csv,251.0,Numeric,55982803.0,0.334289346,Numeric,0.291765178,0.376813515,0.021696004,AAMR
+CKD,Region,Midwest,2019,Bridged,Lung_CKD_region_1999_2020.csv,425.0,Numeric,68329004.0,0.477346888,Numeric,0.431423272,0.523270503,0.023430416,AAMR
+CKD,Region,South,2019,Bridged,Lung_CKD_region_1999_2020.csv,652.0,Numeric,125580448.0,0.420250702,Numeric,0.387687132,0.452814272,0.016614066,AAMR
+CKD,Region,West,2019,Bridged,Lung_CKD_region_1999_2020.csv,292.0,Numeric,78347268.0,0.319846903,Numeric,0.282760605,0.3569332,0.01892158,AAMR
+CKD,Region,Northeast,2020,Bridged,Lung_CKD_region_1999_2020.csv,272.0,Numeric,55849869.0,0.350760586,Numeric,0.308517948,0.393003225,0.021552366,AAMR
+CKD,Region,Midwest,2020,Bridged,Lung_CKD_region_1999_2020.csv,432.0,Numeric,68316744.0,0.47822379,Numeric,0.432571826,0.523875754,0.023291818,AAMR
+CKD,Region,South,2020,Bridged,Lung_CKD_region_1999_2020.csv,694.0,Numeric,126662754.0,0.439724314,Numeric,0.406350785,0.473097842,0.01702731,AAMR
+CKD,Region,West,2020,Bridged,Lung_CKD_region_1999_2020.csv,335.0,Numeric,78654756.0,0.363271523,Numeric,0.32360751,0.402935536,0.020236741,AAMR
+CKD,Region,Northeast,2021,Single,Lung_CKD_region_2018_2024.csv,263.0,Numeric,57159838.0,0.342774689,Numeric,0.30185401,0.388954253,0.021539519,AAMR
+CKD,Region,Midwest,2021,Single,Lung_CKD_region_2018_2024.csv,488.0,Numeric,68841444.0,0.548758652,Numeric,0.500270245,0.601452174,0.025307988,AAMR
+CKD,Region,South,2021,Single,Lung_CKD_region_2018_2024.csv,624.0,Numeric,127225329.0,0.407212131,Numeric,0.37586999,0.440832136,0.01630912,AAMR
+CKD,Region,West,2021,Single,Lung_CKD_region_2018_2024.csv,335.0,Numeric,78667134.0,0.379362244,Numeric,0.339767635,0.422874356,0.02075593,AAMR
+CKD,Region,Northeast,2022,Single,Lung_CKD_region_2018_2024.csv,258.0,Numeric,57040406.0,0.330408798,Numeric,0.29171977,0.374061487,0.020352112,AAMR
+CKD,Region,Midwest,2022,Single,Lung_CKD_region_2018_2024.csv,444.0,Numeric,68787595.0,0.495128286,Numeric,0.450080125,0.544297305,0.023529135,AAMR
+CKD,Region,South,2022,Single,Lung_CKD_region_2018_2024.csv,700.0,Numeric,128716192.0,0.430771638,Numeric,0.399238792,0.464508352,0.016392009,AAMR
+CKD,Region,West,2022,Single,Lung_CKD_region_2018_2024.csv,371.0,Numeric,78743364.0,0.394935853,Numeric,0.355865332,0.437748532,0.020450758,AAMR
+CKD,Region,Northeast,2023,Single,Lung_CKD_region_2018_2024.csv,254.0,Numeric,56983517.0,0.309327886,Numeric,0.271877083,0.351809804,0.019722418,AAMR
+CKD,Region,Midwest,2023,Single,Lung_CKD_region_2018_2024.csv,427.0,Numeric,68909283.0,0.462094508,Numeric,0.418409119,0.509927799,0.02283897,AAMR
+CKD,Region,South,2023,Single,Lung_CKD_region_2018_2024.csv,710.0,Numeric,130125290.0,0.435190671,Numeric,0.404085878,0.468432931,0.016162111,AAMR
+CKD,Region,West,2023,Single,Lung_CKD_region_2018_2024.csv,390.0,Numeric,78896805.0,0.39149268,Numeric,0.352345996,0.434448736,0.020496424,AAMR
+CKD,Region,Northeast,2024,Single,Lung_CKD_region_2018_2024.csv,236.0,Numeric,57832935.0,0.284462704,Numeric,0.24919624,0.324709792,0.018587176,AAMR
+CKD,Region,Midwest,2024,Single,Lung_CKD_region_2018_2024.csv,522.0,Numeric,69596584.0,0.55613804,Numeric,0.509289842,0.607046511,0.024424972,AAMR
+CKD,Region,South,2024,Single,Lung_CKD_region_2018_2024.csv,734.0,Numeric,132665693.0,0.413784429,Numeric,0.383337892,0.446371519,0.015828895,AAMR
+CKD,Region,West,2024,Single,Lung_CKD_region_2018_2024.csv,334.0,Numeric,80015776.0,0.329902687,Numeric,0.294939869,0.36861735,0.018335789,AAMR
+CKD,Sex,Female,1999,Bridged,Lung_CKD_sex_1999_2020.csv,140.0,Numeric,142237295.0,0.079091271,Numeric,0.065564076,0.092618467,0.00690163,AAMR
+CKD,Sex,Male,1999,Bridged,Lung_CKD_sex_1999_2020.csv,368.0,Numeric,136802873.0,0.33444427,Numeric,0.299783062,0.369105477,0.01768429,AAMR
+CKD,Sex,Female,2000,Bridged,Lung_CKD_sex_1999_2020.csv,171.0,Numeric,143368343.0,0.10591906,Numeric,0.089700501,0.122137619,0.008274775,AAMR
+CKD,Sex,Male,2000,Bridged,Lung_CKD_sex_1999_2020.csv,376.0,Numeric,138053563.0,0.33312503,Numeric,0.298867268,0.367382791,0.01747845,AAMR
+CKD,Sex,Female,2001,Bridged,Lung_CKD_sex_1999_2020.csv,178.0,Numeric,145077463.0,0.11040506,Numeric,0.093519116,0.127291003,0.008615277,AAMR
+CKD,Sex,Male,2001,Bridged,Lung_CKD_sex_1999_2020.csv,424.0,Numeric,139891492.0,0.374904434,Numeric,0.338604329,0.411204538,0.018520462,AAMR
+CKD,Sex,Female,2002,Bridged,Lung_CKD_sex_1999_2020.csv,197.0,Numeric,146394634.0,0.114318627,Numeric,0.09787007,0.130767185,0.008392121,AAMR
+CKD,Sex,Male,2002,Bridged,Lung_CKD_sex_1999_2020.csv,407.0,Numeric,141230559.0,0.350025687,Numeric,0.315362345,0.384689028,0.017685378,AAMR
+CKD,Sex,Female,2003,Bridged,Lung_CKD_sex_1999_2020.csv,198.0,Numeric,147679036.0,0.110077809,Numeric,0.094346041,0.125809578,0.008026413,AAMR
+CKD,Sex,Male,2003,Bridged,Lung_CKD_sex_1999_2020.csv,458.0,Numeric,142428897.0,0.375961471,Numeric,0.340764552,0.411158389,0.017957611,AAMR
+CKD,Sex,Female,2004,Bridged,Lung_CKD_sex_1999_2020.csv,254.0,Numeric,148977286.0,0.149377495,Numeric,0.130737503,0.168017487,0.0095102,AAMR
+CKD,Sex,Male,2004,Bridged,Lung_CKD_sex_1999_2020.csv,469.0,Numeric,143828012.0,0.381339475,Numeric,0.346162274,0.416516675,0.017947551,AAMR
+CKD,Sex,Female,2005,Bridged,Lung_CKD_sex_1999_2020.csv,244.0,Numeric,150319521.0,0.150147728,Numeric,0.130770473,0.169524982,0.009886354,AAMR
+CKD,Sex,Male,2005,Bridged,Lung_CKD_sex_1999_2020.csv,512.0,Numeric,145197078.0,0.411682646,Numeric,0.375329121,0.448036171,0.018547717,AAMR
+CKD,Sex,Female,2006,Bridged,Lung_CKD_sex_1999_2020.csv,251.0,Numeric,151732647.0,0.148840134,Numeric,0.130062843,0.167617425,0.00958025,AAMR
+CKD,Sex,Male,2006,Bridged,Lung_CKD_sex_1999_2020.csv,481.0,Numeric,146647265.0,0.381170986,Numeric,0.346731639,0.415610334,0.017571096,AAMR
+CKD,Sex,Female,2007,Bridged,Lung_CKD_sex_1999_2020.csv,275.0,Numeric,153166353.0,0.146444271,Numeric,0.128734264,0.164154278,0.009035718,AAMR
+CKD,Sex,Male,2007,Bridged,Lung_CKD_sex_1999_2020.csv,479.0,Numeric,148064854.0,0.367381768,Numeric,0.333920653,0.400842884,0.017071998,AAMR
+CKD,Sex,Female,2008,Bridged,Lung_CKD_sex_1999_2020.csv,257.0,Numeric,154604015.0,0.127939357,Numeric,0.111707172,0.144171542,0.008281727,AAMR
+CKD,Sex,Male,2008,Bridged,Lung_CKD_sex_1999_2020.csv,498.0,Numeric,149489951.0,0.382555273,Numeric,0.348475608,0.416634939,0.017387585,AAMR
+CKD,Sex,Female,2009,Bridged,Lung_CKD_sex_1999_2020.csv,236.0,Numeric,155964075.0,0.133435013,Numeric,0.115742194,0.151127832,0.009026948,AAMR
+CKD,Sex,Male,2009,Bridged,Lung_CKD_sex_1999_2020.csv,561.0,Numeric,150807454.0,0.419176643,Numeric,0.38386378,0.454489507,0.018016767,AAMR
+CKD,Sex,Female,2010,Bridged,Lung_CKD_sex_1999_2020.csv,244.0,Numeric,156964212.0,0.129490213,Numeric,0.112851487,0.146128939,0.008489146,AAMR
+CKD,Sex,Male,2010,Bridged,Lung_CKD_sex_1999_2020.csv,528.0,Numeric,151781326.0,0.390721305,Numeric,0.356896538,0.424546073,0.017257535,AAMR
+CKD,Sex,Female,2011,Bridged,Lung_CKD_sex_1999_2020.csv,628.0,Numeric,158301098.0,0.337052163,Numeric,0.310323978,0.363780347,0.013636829,AAMR
+CKD,Sex,Male,2011,Bridged,Lung_CKD_sex_1999_2020.csv,1043.0,Numeric,153290819.0,0.749126974,Numeric,0.703023695,0.795230253,0.023522081,AAMR
+CKD,Sex,Female,2012,Bridged,Lung_CKD_sex_1999_2020.csv,656.0,Numeric,159421973.0,0.340153875,Numeric,0.313808974,0.366498776,0.013441276,AAMR
+CKD,Sex,Male,2012,Bridged,Lung_CKD_sex_1999_2020.csv,1095.0,Numeric,154492067.0,0.76707686,Numeric,0.720942673,0.813211047,0.02353785,AAMR
+CKD,Sex,Female,2013,Bridged,Lung_CKD_sex_1999_2020.csv,435.0,Numeric,160477237.0,0.214871329,Numeric,0.194284806,0.235457852,0.010503328,AAMR
+CKD,Sex,Male,2013,Bridged,Lung_CKD_sex_1999_2020.csv,675.0,Numeric,155651602.0,0.456217059,Numeric,0.421227106,0.491207012,0.017852017,AAMR
+CKD,Sex,Female,2014,Bridged,Lung_CKD_sex_1999_2020.csv,430.0,Numeric,161920569.0,0.203215126,Numeric,0.18359909,0.222831162,0.010008182,AAMR
+CKD,Sex,Male,2014,Bridged,Lung_CKD_sex_1999_2020.csv,700.0,Numeric,156936487.0,0.458761824,Numeric,0.424176587,0.493347061,0.017645529,AAMR
+CKD,Sex,Female,2015,Bridged,Lung_CKD_sex_1999_2020.csv,513.0,Numeric,163189523.0,0.239011075,Numeric,0.217890195,0.260131956,0.010775959,AAMR
+CKD,Sex,Male,2015,Bridged,Lung_CKD_sex_1999_2020.csv,763.0,Numeric,158229297.0,0.473886693,Numeric,0.43925569,0.508517697,0.017668879,AAMR
+CKD,Sex,Female,2016,Bridged,Lung_CKD_sex_1999_2020.csv,578.0,Numeric,164048590.0,0.275822439,Numeric,0.252868186,0.298776692,0.011711354,AAMR
+CKD,Sex,Male,2016,Bridged,Lung_CKD_sex_1999_2020.csv,853.0,Numeric,159078923.0,0.531674882,Numeric,0.495174856,0.568174908,0.018622462,AAMR
+CKD,Sex,Female,2017,Bridged,Lung_CKD_sex_1999_2020.csv,581.0,Numeric,165311059.0,0.26627212,Numeric,0.243949914,0.288594326,0.011388881,AAMR
+CKD,Sex,Male,2017,Bridged,Lung_CKD_sex_1999_2020.csv,878.0,Numeric,160408119.0,0.522661924,Numeric,0.48728558,0.558038268,0.018049155,AAMR
+CKD,Sex,Female,2018,Bridged,Lung_CKD_sex_1999_2020.csv,594.0,Numeric,166038755.0,0.251006175,Numeric,0.230455998,0.271556352,0.010484784,AAMR
+CKD,Sex,Male,2018,Bridged,Lung_CKD_sex_1999_2020.csv,923.0,Numeric,161128679.0,0.542685799,Numeric,0.506939886,0.578431712,0.018237711,AAMR
+CKD,Sex,Female,2019,Bridged,Lung_CKD_sex_1999_2020.csv,683.0,Numeric,166582199.0,0.295232923,Numeric,0.272517166,0.317948681,0.011589672,AAMR
+CKD,Sex,Male,2019,Bridged,Lung_CKD_sex_1999_2020.csv,937.0,Numeric,161657324.0,0.527514213,Numeric,0.493109937,0.561918489,0.017553202,AAMR
+CKD,Sex,Female,2020,Bridged,Lung_CKD_sex_1999_2020.csv,713.0,Numeric,167227921.0,0.309422246,Numeric,0.286036874,0.332807617,0.011931312,AAMR
+CKD,Sex,Male,2020,Bridged,Lung_CKD_sex_1999_2020.csv,1020.0,Numeric,162256202.0,0.562573081,Numeric,0.527404809,0.597741353,0.017942996,AAMR
+CKD,Sex,Female,2021,Single,Lung_CKD_sex_2018_2024.csv,742.0,Numeric,167509003.0,0.3267152,Numeric,0.303650041,0.351457783,0.011981974,AAMR
+CKD,Sex,Male,2021,Single,Lung_CKD_sex_2018_2024.csv,968.0,Numeric,164384742.0,0.552002582,Numeric,0.517156353,0.588759364,0.018066558,AAMR
+CKD,Sex,Female,2022,Single,Lung_CKD_sex_2018_2024.csv,760.0,Numeric,168004004.0,0.311280766,Numeric,0.289180177,0.335002395,0.011482065,AAMR
+CKD,Sex,Male,2022,Single,Lung_CKD_sex_2018_2024.csv,1013.0,Numeric,165283553.0,0.563092112,Numeric,0.528766721,0.599246876,0.017786352,AAMR
+CKD,Sex,Female,2023,Single,Lung_CKD_sex_2018_2024.csv,771.0,Numeric,169165495.0,0.308927781,Numeric,0.286975135,0.332505071,0.011405408,AAMR
+CKD,Sex,Male,2023,Single,Lung_CKD_sex_2018_2024.csv,1010.0,Numeric,165749400.0,0.533791767,Numeric,0.500703028,0.568696928,0.01715008,AAMR
+CKD,Sex,Female,2024,Single,Lung_CKD_sex_2018_2024.csv,837.0,Numeric,171773106.0,0.333330375,Numeric,0.311078401,0.35717369,0.011547715,AAMR
+CKD,Sex,Male,2024,Single,Lung_CKD_sex_2018_2024.csv,989.0,Numeric,168337882.0,0.496182759,Numeric,0.464757267,0.529403904,0.016293728,AAMR

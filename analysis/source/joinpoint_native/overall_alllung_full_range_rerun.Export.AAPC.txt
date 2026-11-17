@@ -1,0 +1,2 @@
+"Joinpoint Model"	"AAPC Index"	"Start Obs"	"End Obs"	"AAPC"	"AAPC C.I. Low"	"AAPC C.I. High"	"Statistically Significant (0=No  1=Yes)"	"Test Statistic"	"P-Value"
+4	0	1999	2024	-2.6849	-2.7516	-2.5996	1	NA	0.000000

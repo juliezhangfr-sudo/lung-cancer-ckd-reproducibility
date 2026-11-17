@@ -1,0 +1,94 @@
+[
+  {
+    "query": "D77_denominator_age55plus",
+    "retrieved_utc": "2026-10-23T23:10:39Z",
+    "rows": 32,
+    "error": [],
+    "sha256": "03b18ae10dab0282723e82f1c791f2a3ca12e0c17b83c9d0dc077857b6b698ee"
+  },
+  {
+    "query": "D77_N18_age55plus",
+    "retrieved_utc": "2026-10-23T23:12:38Z",
+    "rows": 32,
+    "error": [],
+    "sha256": "1a49a5f63709c04110b8deac7cbe13dc8871b43836d4d3d4a1635ffc4e35f4a6"
+  },
+  {
+    "query": "D77_diabetes_age55plus",
+    "retrieved_utc": "2026-10-23T23:14:39Z",
+    "rows": 32,
+    "error": [],
+    "sha256": "02a9df8bcc146ecc0130f8af55442301b0c4f22e86524c96efdeef85a54e8af4"
+  },
+  {
+    "query": "D77_broad_renal_age55plus",
+    "retrieved_utc": "2026-10-23T23:16:40Z",
+    "rows": 32,
+    "error": [],
+    "sha256": "58ac4975a2b53cc47148706fc6f83d38a64d8fbac039f5379bac0c5ed3b51977"
+  },
+  {
+    "query": "D77_ESRD_age55plus",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "query": "D77_denominator_under55",
+    "retrieved_utc": "2026-10-23T23:20:39Z",
+    "rows": 8,
+    "error": [],
+    "sha256": "5f23d2f4f1647ee855e5ba78a70eb4455348d2feedc0fe38e769031d2d402e43"
+  },
+  {
+    "query": "D77_N18_under55",
+    "retrieved_utc": "2026-10-23T23:22:38Z",
+    "rows": 8,
+    "error": [],
+    "sha256": "603cf4bc636540473931c127b9132611931421e299a298450ab34b03c65d9e8e"
+  },
+  {
+    "query": "D157_denominator_age55plus",
+    "retrieved_utc": "2026-10-23T23:24:39Z",
+    "rows": 28,
+    "error": [],
+    "sha256": "8ddcc848d2ca4848290ae78f1cc91c6cd9e55bf83e168324798818a11edc31e6"
+  },
+  {
+    "query": "D157_N18_age55plus",
+    "retrieved_utc": "2026-10-23T23:26:40Z",
+    "rows": 28,
+    "error": [],
+    "sha256": "fbc418f8a0940ba1361816326bb598f4d5026cdeace026ea897e46ffc9ba2e6e"
+  },
+  {
+    "query": "D157_diabetes_age55plus",
+    "retrieved_utc": "2026-10-23T23:28:41Z",
+    "rows": 28,
+    "error": [],
+    "sha256": "22d6ca070b316de77bcaf601b793db7794d0262b59bdabdba655b463838ccfcc"
+  },
+  {
+    "query": "D157_broad_renal_age55plus",
+    "retrieved_utc": "2026-10-23T23:30:47Z",
+    "rows": 28,
+    "error": [],
+    "sha256": "6025285585c915f107ccc3c2f3b38d8f989f374fc09ed12b67353c0ff91f2898"
+  },
+  {
+    "query": "D157_ESRD_age55plus",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "query": "D157_denominator_under55",
+    "retrieved_utc": "2026-10-23T23:34:39Z",
+    "rows": 7,
+    "error": [],
+    "sha256": "7f57bf4a0e1d9e3b37f4ac83fd985bacb29254a2da03192040436a755e5390a1"
+  },
+  {
+    "query": "D157_N18_under55",
+    "retrieved_utc": "2026-10-23T23:36:40Z",
+    "rows": 7,
+    "error": [],
+    "sha256": "8e6ad83c0901c5c453f52efcfe4ca7d8cc536afa2894766c1dd1b07526520335"
+  }
+]

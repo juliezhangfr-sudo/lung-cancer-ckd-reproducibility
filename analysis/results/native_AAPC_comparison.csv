@@ -1,0 +1,27 @@
+session,group,disease,start,end,AAPC,lower,upper,P,matches_retained_4dp
+NCI_overall_CKD_2013_2024.jpo,Overall,CKD,2013,2024,2.135,1.5732,2.7886,0.000000,True
+NCI_race_alllung_1999_2024_FINAL.jpo,Hispanic,all,1999,2024,-2.709,-2.832,-2.5633,0.000000,True
+NCI_race_alllung_1999_2024_FINAL.jpo,NH Black,all,1999,2024,-3.0555,-3.1441,-2.9628,0.000000,True
+NCI_race_alllung_1999_2024_FINAL.jpo,NH White,all,1999,2024,-2.3736,-2.4493,-2.3012,0.000000,True
+NCI_race_alllung_1999_2024_FINAL.jpo,Other,all,1999,2024,-2.2224,-2.3307,-2.0911,0.000000,True
+NCI_race_CKD_2013_2024_FINAL.jpo,Hispanic,CKD,2013,2024,-1.1618,-2.5693,0.3933,0.143171,True
+NCI_race_CKD_2013_2024_FINAL.jpo,NH Black,CKD,2013,2024,1.1543,-0.3724,2.7654,0.116377,True
+NCI_race_CKD_2013_2024_FINAL.jpo,NH White,CKD,2013,2024,3.134,1.4193,5.0381,0.001200,True
+NCI_race_CKD_2013_2024_FINAL.jpo,Other,CKD,2013,2024,0.4983,-2.2,3.8145,0.637872,True
+NCI_region_alllung_1999_2024.jpo,Northeast,all,1999,2024,-2.8627,-2.9375,-2.7861,0.000000,True
+NCI_region_alllung_1999_2024.jpo,Midwest,all,1999,2024,-2.1977,-2.2681,-2.1197,0.000000,True
+NCI_region_alllung_1999_2024.jpo,South,all,1999,2024,-2.694,-2.765,-2.6126,0.000000,True
+NCI_region_alllung_1999_2024.jpo,West,all,1999,2024,-3.2792,-3.3663,-3.1814,0.000000,True
+NCI_region_CKD_2013_2024.jpo,Northeast,CKD,2013,2024,0.5174,-1.8353,3.0292,0.583483,True
+NCI_region_CKD_2013_2024.jpo,Midwest,CKD,2013,2024,3.5246,2.2185,4.9643,0.000000,True
+NCI_region_CKD_2013_2024.jpo,South,CKD,2013,2024,2.99,1.9382,4.2938,0.000000,True
+NCI_region_CKD_2013_2024.jpo,West,CKD,2013,2024,1.1703,-0.1426,2.6016,0.082783,True
+NCI_sex_alllung_1999_2024.jpo,Female,all,1999,2024,-1.924,-1.9953,-1.8471,0.000000,True
+NCI_sex_alllung_1999_2024.jpo,Male,all,1999,2024,-3.3921,-3.4505,-3.3344,0.000000,True
+NCI_sex_CKD_2013_2024.jpo,Female,CKD,2013,2024,4.038,1.9425,6.4354,0.000400,True
+NCI_sex_CKD_2013_2024.jpo,Male,CKD,2013,2024,0.568,-0.306,1.561,0.136773,True
+NCI_urbanicity_alllung_1999_2020.jpo,Metro,all,1999,2020,-2.8261,-2.8723,-2.7759,0.000000,True
+NCI_urbanicity_alllung_1999_2020.jpo,Nonmetro,all,1999,2020,-1.727,-1.8357,-1.6124,0.000000,True
+NCI_urbanicity_CKD_2013_2020.jpo,Metro,CKD,2013,2020,3.7848,2.6666,5.0316,0.000000,True
+NCI_urbanicity_CKD_2013_2020.jpo,Nonmetro,CKD,2013,2020,5.3247,0.1207,11.2919,0.043591,True
+overall_alllung_full_range_rerun.jpo,Overall,all,1999,2024,-2.6849,-2.7516,-2.5996,0.000000,True

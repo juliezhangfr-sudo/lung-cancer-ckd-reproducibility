@@ -1,0 +1,342 @@
+"Notes","Year","Year Code","Ten-Year Age Groups","Ten-Year Age Groups Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error,% of Total Deaths
+,"1999","1999","< 1 year","1",0,3795762,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"1999","1999","1-4 years","1-4",0,15339782,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"1999","1999","5-14 years","5-14",0,40819824,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"1999","1999","15-24 years","15-24",0,38676031,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"1999","1999","25-34 years","25-34",0,40178406,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"1999","1999","35-44 years","35-44",Suppressed,45076677,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"1999","1999","45-54 years","45-54",23,36577819,0.062879638,0.039860031,0.094350267,0.013111311,0.100419141%
+,"1999","1999","55-64 years","55-64",81,23778026,0.340650650,0.270524307,0.423398099,0.037850072,0.353650017%
+,"1999","1999","65-74 years","65-74",177,18418909,0.960968969,0.819396502,1.102541437,0.072230851,0.772790779%
+,"1999","1999","75-84 years","75-84",171,12224914,1.398782846,1.189126355,1.608439338,0.106967598,0.746594481%
+,"1999","1999","85+ years","85+",54,4154018,1.299946221,0.976558599,1.696143830,0.176900274,0.235766678%
+,"1999","1999","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2000","2000","< 1 year","1",0,3805648,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2000","2000","1-4 years","1-4",0,15370150,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2000","2000","5-14 years","5-14",0,41077577,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2000","2000","15-24 years","15-24",0,39183891,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2000","2000","25-34 years","25-34",Suppressed,39891724,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2000","2000","35-44 years","35-44",Suppressed,45148527,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2000","2000","45-54 years","45-54",13,37677952,Unreliable,0.018371434,0.059001057,0.009569393,0.056758645%
+,"2000","2000","55-64 years","55-64",89,24274684,0.366637110,0.294438931,0.451179962,0.038863456,0.388578414%
+,"2000","2000","65-74 years","65-74",195,18390986,1.060302041,0.911479621,1.209124462,0.075929806,0.851379672%
+,"2000","2000","75-84 years","75-84",193,12361180,1.561339613,1.341059751,1.781619475,0.112387685,0.842647572%
+,"2000","2000","85+ years","85+",52,4239587,1.226534566,0.916037340,1.608440633,0.170089741,0.227034579%
+,"2000","2000","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2001","2001","< 1 year","1",0,4012658,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2001","2001","1-4 years","1-4",0,15285559,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2001","2001","5-14 years","5-14",0,41152040,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2001","2001","15-24 years","15-24",0,40213570,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2001","2001","25-34 years","25-34",0,39471522,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2001","2001","35-44 years","35-44",Suppressed,45051752,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2001","2001","45-54 years","45-54",25,39386268,0.063473899,0.041077134,0.093700170,0.012694780,0.109151240%
+,"2001","2001","55-64 years","55-64",85,25105295,0.338573994,0.270439363,0.418653515,0.036723506,0.371114216%
+,"2001","2001","65-74 years","65-74",178,18384179,0.968223819,0.825983790,1.110463848,0.072571443,0.777156829%
+,"2001","2001","75-84 years","75-84",231,12593618,1.834262402,1.597718615,2.070806189,0.120685606,1.008557457%
+,"2001","2001","85+ years","85+",79,4312494,1.831886607,1.450322945,2.283080278,0.206103346,0.344917918%
+,"2001","2001","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2002","2002","< 1 year","1",0,3951461,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2002","2002","1-4 years","1-4",0,15477731,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2002","2002","5-14 years","5-14",0,41133838,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2002","2002","15-24 years","15-24",0,40854135,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2002","2002","25-34 years","25-34",0,39349646,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2002","2002","35-44 years","35-44",Suppressed,44640649,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2002","2002","45-54 years","45-54",20,39992194,0.050009759,0.030547461,0.077236073,0.011182522,0.087320992%
+,"2002","2002","55-64 years","55-64",70,26703332,0.262139571,0.204350903,0.331197620,0.031331671,0.305623472%
+,"2002","2002","65-74 years","65-74",201,18388535,1.093072395,0.941957606,1.244187185,0.077099382,0.877575969%
+,"2002","2002","75-84 years","75-84",231,12764864,1.809655003,1.576284550,2.043025456,0.119066558,1.008557457%
+,"2002","2002","85+ years","85+",78,4368808,1.785384022,1.411274654,2.228248529,0.202154933,0.340551869%
+,"2002","2002","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2003","2003","< 1 year","1",0,3975871,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2003","2003","1-4 years","1-4",0,15616575,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2003","2003","5-14 years","5-14",0,41036204,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2003","2003","15-24 years","15-24",0,41388854,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2003","2003","25-34 years","25-34",0,39243795,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2003","2003","35-44 years","35-44",Suppressed,44154206,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2003","2003","45-54 years","45-54",32,40819954,0.078393033,0.053620835,0.110667445,0.013858061,0.139713587%
+,"2003","2003","55-64 years","55-64",64,28008945,0.228498431,0.175971212,0.291787927,0.028562304,0.279427174%
+,"2003","2003","65-74 years","65-74",189,18500915,1.021571095,0.875926704,1.167215487,0.074308363,0.825183374%
+,"2003","2003","75-84 years","75-84",280,12896438,2.171142140,1.916831042,2.425453238,0.129750560,1.222493888%
+,"2003","2003","85+ years","85+",88,4466176,1.970365700,1.580292402,2.427549653,0.210041689,0.384212365%
+,"2003","2003","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2004","2004","< 1 year","1",0,4014258,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2004","2004","1-4 years","1-4",0,15771627,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2004","2004","5-14 years","5-14",0,40865917,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2004","2004","15-24 years","15-24",0,41948112,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2004","2004","25-34 years","25-34",Suppressed,39266556,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2004","2004","35-44 years","35-44",Suppressed,43800275,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2004","2004","45-54 years","45-54",26,41629930,0.062455065,0.040797522,0.091511036,0.012248446,0.113517290%
+,"2004","2004","55-64 years","55-64",95,29305304,0.324173399,0.262275730,0.396285771,0.033259489,0.414774712%
+,"2004","2004","65-74 years","65-74",215,18667533,1.151732262,0.997779185,1.305685339,0.078547488,0.938700664%
+,"2004","2004","75-84 years","75-84",296,12989903,2.278692920,2.019098102,2.538287738,0.132446336,1.292350681%
+,"2004","2004","85+ years","85+",89,4545883,1.957815456,1.572282437,2.409268122,0.207528023,0.388578414%
+,"2004","2004","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2005","2005","< 1 year","1",0,4004393,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2005","2005","1-4 years","1-4",0,15913007,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2005","2005","5-14 years","5-14",0,40601646,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2005","2005","15-24 years","15-24",0,42446169,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2005","2005","25-34 years","25-34",0,39258647,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2005","2005","35-44 years","35-44",Suppressed,43505538,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2005","2005","45-54 years","45-54",29,42495904,0.068241871,0.045702946,0.098006928,0.012672197,0.126615438%
+,"2005","2005","55-64 years","55-64",105,30641497,0.342672553,0.277127376,0.408217730,0.033441417,0.458435208%
+,"2005","2005","65-74 years","65-74",214,18881697,1.133372705,0.981520209,1.285225200,0.077475763,0.934334614%
+,"2005","2005","75-84 years","75-84",293,13074802,2.240951718,1.984352835,2.497550600,0.130917797,1.279252532%
+,"2005","2005","85+ years","85+",111,4693299,2.365074120,1.925087633,2.805060606,0.224482901,0.484631505%
+,"2005","2005","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2006","2006","< 1 year","1",0,4041738,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2006","2006","1-4 years","1-4",0,15897145,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2006","2006","5-14 years","5-14",0,40577826,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2006","2006","15-24 years","15-24",0,42843844,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2006","2006","25-34 years","25-34",0,39395179,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2006","2006","35-44 years","35-44",Suppressed,43243801,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2006","2006","45-54 years","45-54",31,43286159,0.071616426,0.048659781,0.101653787,0.012862690,0.135347538%
+,"2006","2006","55-64 years","55-64",88,31930113,0.275601906,0.221040997,0.339549816,0.029379262,0.384212365%
+,"2006","2006","65-74 years","65-74",219,19203027,1.140445202,0.989399477,1.291490926,0.077064145,0.956164862%
+,"2006","2006","75-84 years","75-84",295,13095151,2.252742255,1.995669195,2.509815317,0.131159725,1.287984632%
+,"2006","2006","85+ years","85+",95,4865929,1.952350723,1.579568876,2.386651141,0.200306958,0.414774712%
+,"2006","2006","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2007","2007","< 1 year","1",0,4147997,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2007","2007","1-4 years","1-4",0,15977965,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2007","2007","5-14 years","5-14",0,40555653,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2007","2007","15-24 years","15-24",0,43145815,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2007","2007","25-34 years","25-34",0,39713463,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2007","2007","35-44 years","35-44",Suppressed,42796230,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2007","2007","45-54 years","45-54",22,43939939,0.050068344,0.031377331,0.075803974,0.010674607,0.096053091%
+,"2007","2007","55-64 years","55-64",102,33128434,0.307892610,0.248140224,0.367644996,0.030485911,0.445337059%
+,"2007","2007","65-74 years","65-74",235,19698727,1.192970490,1.040441694,1.345499286,0.077820814,1.026021656%
+,"2007","2007","75-84 years","75-84",297,13087439,2.269351551,2.011256531,2.527446572,0.131681133,1.296716731%
+,"2007","2007","85+ years","85+",92,5039545,1.825561633,1.471658255,2.238887042,0.190327957,0.401676563%
+,"2007","2007","Not Stated","NS",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2008","2008","< 1 year","1",0,4132735,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2008","2008","1-4 years","1-4",0,16138392,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2008","2008","5-14 years","5-14",Suppressed,40636257,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2008","2008","15-24 years","15-24",0,43391492,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2008","2008","25-34 years","25-34",Suppressed,40207473,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2008","2008","35-44 years","35-44",Suppressed,42192486,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2008","2008","45-54 years","45-54",22,44460447,0.049482184,0.031009990,0.074916521,0.010549637,0.096053091%
+,"2008","2008","55-64 years","55-64",116,34157063,0.339607653,0.277805366,0.401409940,0.031531779,0.506461753%
+,"2008","2008","65-74 years","65-74",214,20505679,1.043613333,0.903787053,1.183439613,0.071339939,0.934334614%
+,"2008","2008","75-84 years","75-84",291,13076102,2.225433849,1.969737653,2.481130044,0.130457243,1.270520433%
+,"2008","2008","85+ years","85+",105,5195840,2.020847447,1.634306994,2.407387901,0.197214517,0.458435208%
+,"2008","2008","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2009","2009","< 1 year","1",0,4003587,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2009","2009","1-4 years","1-4",0,16240931,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2009","2009","5-14 years","5-14",0,40843063,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2009","2009","15-24 years","15-24",0,43576932,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2009","2009","25-34 years","25-34",0,40723342,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2009","2009","35-44 years","35-44",Suppressed,41487811,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2009","2009","45-54 years","45-54",26,44867088,0.057948936,0.037853983,0.084908519,0.011364721,0.113517290%
+,"2009","2009","55-64 years","55-64",100,35405600,0.282441196,0.227082721,0.337799670,0.028244120,0.436604960%
+,"2009","2009","65-74 years","65-74",221,21233099,1.040827813,0.903601049,1.178054578,0.070013655,0.964896961%
+,"2009","2009","75-84 years","75-84",317,13022775,2.434197012,2.166229487,2.702164538,0.136718125,1.384037723%
+,"2009","2009","85+ years","85+",130,5367301,2.422073962,2.005711281,2.838436643,0.212429939,0.567586448%
+,"2009","2009","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2010","2010","< 1 year","1",0,3944153,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2010","2010","1-4 years","1-4",0,16257209,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2010","2010","5-14 years","5-14",0,41025851,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2010","2010","15-24 years","15-24",0,43626342,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2010","2010","25-34 years","25-34",Suppressed,41063948,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2010","2010","35-44 years","35-44",Suppressed,41070606,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2010","2010","45-54 years","45-54",22,45006716,0.048881594,0.030633606,0.074007221,0.010421591,0.096053091%
+,"2010","2010","55-64 years","55-64",94,36482729,0.257656164,0.208211946,0.315306731,0.026575204,0.410408662%
+,"2010","2010","65-74 years","65-74",222,21713429,1.022408759,0.887914377,1.156903142,0.068619583,0.969263011%
+,"2010","2010","75-84 years","75-84",301,13061122,2.304549333,2.044198584,2.564900083,0.132832015,1.314180929%
+,"2010","2010","85+ years","85+",130,5493433,2.366461919,1.959659136,2.773264702,0.207552440,0.567586448%
+,"2010","2010","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2011","2011","< 1 year","1",0,3996537,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2011","2011","1-4 years","1-4",0,16165521,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2011","2011","5-14 years","5-14",0,41039048,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2011","2011","15-24 years","15-24",0,43797875,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2011","2011","25-34 years","25-34",0,41790498,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2011","2011","35-44 years","35-44",Suppressed,40627954,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2011","2011","45-54 years","45-54",35,44718203,0.078267904,0.054516726,0.108851870,0.013229690,0.152811736%
+,"2011","2011","55-64 years","55-64",182,38062140,0.478165442,0.408695240,0.547635644,0.035443981,0.794621027%
+,"2011","2011","65-74 years","65-74",481,22481738,2.139514303,1.948309531,2.330719075,0.097553455,2.100069857%
+,"2011","2011","75-84 years","75-84",659,13175230,5.001810215,4.619918204,5.383702226,0.194842863,2.877226685%
+,"2011","2011","85+ years","85+",311,5737173,5.420788252,4.818314238,6.023262267,0.307384701,1.357841425%
+,"2011","2011","Not Stated","NS",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2012","2012","< 1 year","1",0,3943077,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2012","2012","1-4 years","1-4",0,16056267,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2012","2012","5-14 years","5-14",0,41144754,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2012","2012","15-24 years","15-24",0,43943905,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2012","2012","25-34 years","25-34",Suppressed,42309321,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2012","2012","35-44 years","35-44",Suppressed,40516420,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2012","2012","45-54 years","45-54",38,44268738,0.085839357,0.060745079,0.117821385,0.013924983,0.165909885%
+,"2012","2012","55-64 years","55-64",184,38586202,0.476854395,0.407952217,0.545756573,0.035154172,0.803353126%
+,"2012","2012","65-74 years","65-74",483,23985392,2.013725688,1.834135412,2.193315963,0.091627691,2.108801956%
+,"2012","2012","75-84 years","75-84",701,13272634,5.281543965,4.890560886,5.672527043,0.199481162,3.060600768%
+,"2012","2012","85+ years","85+",342,5887330,5.809084933,5.193411031,6.424758835,0.314119338,1.493188963%
+,"2012","2012","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2013","2013","< 1 year","1",0,3941783,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2013","2013","1-4 years","1-4",0,15926305,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2013","2013","5-14 years","5-14",0,41221035,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2013","2013","15-24 years","15-24",0,43954402,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2013","2013","25-34 years","25-34",Suppressed,42844587,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2013","2013","35-44 years","35-44",Suppressed,40452690,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2013","2013","45-54 years","45-54",25,43767532,0.057119967,0.036965187,0.084320496,0.011423994,0.109151240%
+,"2013","2013","55-64 years","55-64",129,39316431,0.328107096,0.271486187,0.384728005,0.028888219,0.563220398%
+,"2013","2013","65-74 years","65-74",312,25216766,1.237272059,1.099980455,1.374563664,0.070046737,1.362207475%
+,"2013","2013","75-84 years","75-84",418,13446519,3.108611232,2.810598827,3.406623638,0.152047145,1.825008732%
+,"2013","2013","85+ years","85+",223,6040789,3.691570753,3.207047264,4.176094243,0.247205862,0.973629060%
+,"2013","2013","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2014","2014","< 1 year","1",0,3948350,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2014","2014","1-4 years","1-4",0,15928533,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2014","2014","5-14 years","5-14",0,41191072,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2014","2014","15-24 years","15-24",0,43979821,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2014","2014","25-34 years","25-34",0,43516504,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2014","2014","35-44 years","35-44",Suppressed,40513133,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2014","2014","45-54 years","45-54",22,43458851,0.050622599,0.031724677,0.076643122,0.010792774,0.096053091%
+,"2014","2014","55-64 years","55-64",126,40077581,0.314390232,0.259494341,0.369286124,0.028008108,0.550122249%
+,"2014","2014","65-74 years","65-74",289,26398290,1.094767881,0.968547584,1.220988178,0.064398111,1.261788334%
+,"2014","2014","75-84 years","75-84",440,13682690,3.215741934,2.915265150,3.516218718,0.153304482,1.921061823%
+,"2014","2014","85+ years","85+",252,6162231,4.089428001,3.584512891,4.594343111,0.257609750,1.100244499%
+,"2014","2014","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2015","2015","< 1 year","1",0,3978038,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2015","2015","1-4 years","1-4",0,15929243,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2015","2015","5-14 years","5-14",0,41109506,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2015","2015","15-24 years","15-24",Suppressed,43848216,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2015","2015","25-34 years","25-34",0,44137202,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2015","2015","35-44 years","35-44",Suppressed,40589783,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2015","2015","45-54 years","45-54",17,43188161,Unreliable,0.022930312,0.063023522,0.009546842,0.074222843%
+,"2015","2015","55-64 years","55-64",113,40877819,0.276433535,0.225464363,0.327402707,0.026004679,0.493363605%
+,"2015","2015","65-74 years","65-74",390,27550517,1.415581421,1.275087148,1.556075694,0.071680752,1.702759343%
+,"2015","2015","75-84 years","75-84",488,13923174,3.504947938,3.193971323,3.815924553,0.158661538,2.130632204%
+,"2015","2015","85+ years","85+",264,6287161,4.199033554,3.692505559,4.705561549,0.258432650,1.152637094%
+,"2015","2015","Not Stated","NS",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2016","2016","< 1 year","1",0,3970145,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2016","2016","1-4 years","1-4",0,15956892,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2016","2016","5-14 years","5-14",0,41048032,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2016","2016","15-24 years","15-24",0,43511027,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2016","2016","25-34 years","25-34",0,44677243,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2016","2016","35-44 years","35-44",Suppressed,40470156,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2016","2016","45-54 years","45-54",33,42786679,0.077126809,0.053090239,0.108314576,0.013426054,0.144079637%
+,"2016","2016","55-64 years","55-64",162,41463144,0.390708432,0.330542404,0.450874461,0.030696954,0.707300035%
+,"2016","2016","65-74 years","65-74",350,28630330,1.222479797,1.094404981,1.350554613,0.065344294,1.528117359%
+,"2016","2016","75-84 years","75-84",555,14233534,3.899242451,3.574835747,4.223649155,0.165513624,2.423157527%
+,"2016","2016","85+ years","85+",327,6380331,5.125125954,4.569622532,5.680629375,0.283420113,1.427698219%
+,"2016","2016","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2017","2017","< 1 year","1",0,3939295,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2017","2017","1-4 years","1-4",Suppressed,15999565,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2017","2017","5-14 years","5-14",0,41082692,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2017","2017","15-24 years","15-24",0,43250295,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2017","2017","25-34 years","25-34",0,45342672,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2017","2017","35-44 years","35-44",Suppressed,40875370,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2017","2017","45-54 years","45-54",22,42374952,0.051917463,0.032536155,0.078603558,0.011068840,0.096053091%
+,"2017","2017","55-64 years","55-64",170,41995658,0.404803754,0.343951574,0.465655934,0.031047031,0.742228432%
+,"2017","2017","65-74 years","65-74",422,29683446,1.421667821,1.286024636,1.557311006,0.069205707,1.842472930%
+,"2017","2017","75-84 years","75-84",548,14706551,3.726230576,3.414244280,4.038216871,0.159176681,2.392595180%
+,"2017","2017","85+ years","85+",293,6468682,4.529516214,4.010866575,5.048165853,0.264617163,1.279252532%
+,"2017","2017","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2018","2018","< 1 year","1",0,3848208,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2018","2018","1-4 years","1-4",0,15962067,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2018","2018","5-14 years","5-14",0,41075169,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2018","2018","15-24 years","15-24",0,42970800,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2018","2018","25-34 years","25-34",0,45697774,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2018","2018","35-44 years","35-44",0,41277888,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2018","2018","45-54 years","45-54",21,41631699,0.050442332,0.031224813,0.077106654,0.011007419,0.091687042%
+,"2018","2018","55-64 years","55-64",170,42272636,0.402151406,0.341697940,0.462604871,0.030843605,0.742228432%
+,"2018","2018","65-74 years","65-74",425,30492316,1.393793768,1.261280268,1.526307268,0.067608928,1.855571079%
+,"2018","2018","75-84 years","75-84",556,15394374,3.611709057,3.311494716,3.911923397,0.153170582,2.427523577%
+,"2018","2018","85+ years","85+",345,6544503,5.271599692,4.715325454,5.827873930,0.283813387,1.506287111%
+,"2018","2018","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2019","2019","< 1 year","1",0,3783052,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2019","2019","1-4 years","1-4",0,15793631,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2019","2019","5-14 years","5-14",0,40994163,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2019","2019","15-24 years","15-24",Suppressed,42687510,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2019","2019","25-34 years","25-34",0,45940321,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2019","2019","35-44 years","35-44",Suppressed,41659144,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2019","2019","45-54 years","45-54",31,40874902,0.075841160,0.051530276,0.107650460,0.013621474,0.135347538%
+,"2019","2019","55-64 years","55-64",174,42448537,0.409908120,0.349001013,0.470815227,0.031075054,0.759692630%
+,"2019","2019","65-74 years","65-74",460,31483433,1.461085899,1.327563875,1.594607922,0.068123481,2.008382815%
+,"2019","2019","75-84 years","75-84",595,15969872,3.725765617,3.426392279,4.025138954,0.152741499,2.597799511%
+,"2019","2019","85+ years","85+",358,6604958,5.420170726,4.858699475,5.981641978,0.286464924,1.563045756%
+,"2019","2019","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+,"2020","2020","< 1 year","1",0,3735010,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2020","2020","1-4 years","1-4",0,15566282,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2020","2020","5-14 years","5-14",0,40992134,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2020","2020","15-24 years","15-24",0,42555684,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2020","2020","25-34 years","25-34",0,46069646,Unreliable,0.000000000,0.000000000,0.000000000,0.000000000%
+,"2020","2020","35-44 years","35-44",Suppressed,42136192,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2020","2020","45-54 years","45-54",28,40366133,0.069365079,0.046092401,0.100251961,0.013108768,0.122249389%
+,"2020","2020","55-64 years","55-64",163,42403677,0.384400626,0.325387808,0.443413445,0.030108581,0.711666085%
+,"2020","2020","65-74 years","65-74",502,32549398,1.542271227,1.407354757,1.677187697,0.068834934,2.191756898%
+,"2020","2020","75-84 years","75-84",664,16451547,4.036094600,3.729098139,4.343091060,0.156630847,2.899056933%
+,"2020","2020","85+ years","85+",373,6658420,5.601929587,5.033418025,6.170441148,0.290056919,1.628536500%
+,"2020","2020","Not Stated","NS",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.000000000%
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: N18.0 (End-stage renal disease); N18.1 (Chronic kidney disease, stage 1); N18.2 (Chronic kidney disease,"
+"stage 2); N18.3 (Chronic kidney disease, stage 3); N18.4 (Chronic kidney disease, stage 4); N18.5 (Chronic kidney disease, stage"
+"5); N18.8 (Other chronic renal failure); N18.9 (Chronic renal failure, unspecified)"
+"UCD - ICD-10 Codes: C34.0 (Main bronchus - Malignant neoplasms); C34.1 (Upper lobe, bronchus or lung - Malignant neoplasms);"
+"C34.2 (Middle lobe, bronchus or lung - Malignant neoplasms); C34.3 (Lower lobe, bronchus or lung - Malignant neoplasms); C34.8"
+"(Overlapping lesion of bronchus and lung - Malignant neoplasms); C34.9 (Bronchus or lung, unspecified - Malignant neoplasms)"
+"Group By: Year; Ten-Year Age Groups"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Aug 30, 2026 6:12:39 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Aug 30, 2026 6:12:39 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies."
+"5. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"7. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"8. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Confidence-Intervals."
+"9. The method used to calculate standard errors is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Standard-Errors."
+"10. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"11. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"12. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

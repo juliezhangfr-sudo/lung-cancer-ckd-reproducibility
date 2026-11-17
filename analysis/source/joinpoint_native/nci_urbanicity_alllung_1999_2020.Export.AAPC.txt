@@ -1,0 +1,3 @@
+"Urbanicity"	"Joinpoint Model"	"AAPC Index"	"Start Obs"	"End Obs"	"AAPC"	"AAPC C.I. Low"	"AAPC C.I. High"	"Statistically Significant (0=No  1=Yes)"	"Test Statistic"	"P-Value"
+0	4	0	1999	2020	-2.8261	-2.8723	-2.7759	1	NA	0.000000
+1	3	0	1999	2020	-1.7270	-1.8357	-1.6124	1	NA	0.000000

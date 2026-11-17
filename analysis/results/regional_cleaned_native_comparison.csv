@@ -1,0 +1,9 @@
+disease,region,selected_model,AAPC,lower,upper,P,all_compared_values_unchanged
+CKD,Northeast,0,0.5174,-1.8353,3.0292,0.583483,True
+CKD,Midwest,0,3.5246,2.2185,4.9643,0.000000,True
+CKD,South,1,2.9900,1.9382,4.2938,0.000000,True
+CKD,West,0,1.1703,-0.1426,2.6016,0.082783,True
+alllung,Northeast,4,-2.8627,-2.9375,-2.7861,0.000000,True
+alllung,Midwest,3,-2.1977,-2.2681,-2.1197,0.000000,True
+alllung,South,3,-2.6940,-2.7650,-2.6126,0.000000,True
+alllung,West,3,-3.2792,-3.3663,-3.1814,0.000000,True

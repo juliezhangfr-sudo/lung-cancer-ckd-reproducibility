@@ -1,0 +1,3 @@
+"Model"	"Segment"	"Segment Start"	"Segment End"	"APC"	"APC 95% LCL"	"APC 95% UCL"	"APC Significant"	"Test Statistic"	"P-Value"
+1	0	2013	2020	4.0716	3.1223	5.9370	1	NA	0.000000
+1	1	2020	2024	-1.1678	-4.9518	0.7367	0	NA	0.201960

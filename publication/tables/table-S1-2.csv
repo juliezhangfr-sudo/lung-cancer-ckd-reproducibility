@@ -1,0 +1,3 @@
+﻿Analysis,Estimate,95% CI,P
+Adjusted annual trend,OR 1.0615 per calendar year (unrounded 1.06151),1.0545 to 1.0685,<.001
+Lag-1 HAC sensitivity,OR 1.0615,1.0490 to 1.0741,<.001

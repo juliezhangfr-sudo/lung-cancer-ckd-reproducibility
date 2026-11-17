@@ -1,0 +1,24 @@
+
+Call:
+glm(formula = cbind(ckd, lung - ckd) ~ year_c + age, family = quasibinomial(), 
+    data = d)
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) -5.923812   0.088703 -66.782  < 2e-16 ***
+year_c       0.059693   0.003371  17.708  < 2e-16 ***
+age55-64     0.423924   0.094193   4.501 3.65e-05 ***
+age65-74     0.866220   0.089791   9.647 2.40e-13 ***
+age75-84     1.336545   0.088977  15.021  < 2e-16 ***
+age85+       1.622897   0.090395  17.953  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for quasibinomial family taken to be 2.425596)
+
+    Null deviance: 4245.59  on 59  degrees of freedom
+Residual deviance:  131.88  on 54  degrees of freedom
+AIC: NA
+
+Number of Fisher Scoring iterations: 4
+

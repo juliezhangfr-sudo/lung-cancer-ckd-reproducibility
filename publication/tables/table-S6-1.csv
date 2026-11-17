@@ -1,0 +1,10 @@
+﻿Stratum,Period,AAPC % (95% CI),P,Interpretation
+NH White,2013–2024,+3.13 (+1.42 to +5.04),.001,Within-group increase (exploratory)
+NH Black,2013–2024,+1.15 (-0.37 to +2.77),.116,No statistically significant full-period trend
+Hispanic,2013–2024,-1.16 (-2.57 to +0.39),.143,No statistically significant full-period trend
+Northeast,2013–2024,+0.52 (-1.84 to +3.03),.583,No statistically significant full-period trend
+Midwest,2013–2024,+3.52 (+2.22 to +4.96),<.001,Within-group increase (exploratory)
+South,2013–2024,+2.99 (+1.94 to +4.29),<.001,Within-group increase (exploratory)
+West,2013–2024,+1.17 (-0.14 to +2.60),.083,No statistically significant full-period trend
+Metro,2013–2020,+3.78 (+2.67 to +5.03),<.001,Within-group increase (exploratory)
+Nonmetro,2013–2020,+5.32 (+0.12 to +11.29),.044,Within-group increase (exploratory)

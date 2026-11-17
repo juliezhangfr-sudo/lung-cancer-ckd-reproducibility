@@ -1,0 +1,6 @@
+"Age_Group"	"Joinpoint Model"	"AAPC Index"	"Start Obs"	"End Obs"	"AAPC"	"AAPC C.I. Low"	"AAPC C.I. High"	"Statistically Significant (0=No  1=Yes)"	"Test Statistic"	"P-Value"
+0	3	0	1999	2024	-4.5451	-4.6714	-4.4498	1	NA	0.000000
+1	4	0	1999	2024	-3.4584	-3.5320	-3.3876	1	NA	0.000000
+2	4	0	1999	2024	-3.2320	-3.3061	-3.1496	1	NA	0.000000
+3	2	0	1999	2024	-2.0920	-2.1699	-2.0055	1	NA	0.000000
+4	1	0	1999	2024	-0.5350	-0.7080	-0.3375	1	NA	0.000000

@@ -1,0 +1,6 @@
+"id","issue","action","data_changed"
+"D01","National <55 counts recovered from archive; standalone originals not located","Resolved in round two: all 120 counts match new official CDC query responses",FALSE
+"D02","Rounded endpoints subtract to 0.702 pp; full contrast is 0.702912775 pp","Resolved as rounding",FALSE
+"D03","Printed age weights sum to 1.00001","Resolved: exact weights computed from counts",FALSE
+"D05","Residual r and P differ from manuscript","Verified correction: R and Python agree at r 0.589912 and P 0.056093",FALSE
+"D06","Native APC upper CI is 5.9370 percent rather than 5.9570 percent","Verified native transcription correction: upper limit 5.9370",FALSE

@@ -1,0 +1,13 @@
+{
+  "native_sessions_audited": 10,
+  "distinct_AAPC_intervals_verified": 26,
+  "fresh_native_runs": 3,
+  "fresh_native_AAPC_intervals": 9,
+  "regional_selected_models_and_intervals_unchanged": 8,
+  "fixed_knot_AAPC_matches": 26,
+  "fixed_knot_APC_matches": 71,
+  "national_total_rows_identified": 38,
+  "primary_source_values_changed": 0,
+  "metadata_note": "Inherited regional value-label dictionaries contain unused year labels. Run summaries retain label counts 16 (CKD) and 30 (all-lung); actual cleaned input and exported result cohorts are exactly four in each analysis. The dictionaries do not constitute observed regional cohorts.",
+  "status": "passed"
+}

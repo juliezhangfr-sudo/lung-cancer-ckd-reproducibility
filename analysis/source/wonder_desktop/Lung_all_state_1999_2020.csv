@@ -1,0 +1,122 @@
+"Notes","State","State Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error,Age Adjusted Rate,Age Adjusted Rate Lower 95% Confidence Interval,Age Adjusted Rate Upper 95% Confidence Interval,Age Adjusted Rate Standard Error,% of Total Deaths
+,"Alabama","01",66661,103604166,64.342007251,63.853563267,64.830451234,0.249206114,55.413111812,54.989294270,55.836929354,0.216233440,1.971734752%
+,"Alaska","02",5061,15300884,33.076520285,32.165227950,33.987812620,0.464945069,44.839038063,43.517958790,46.160117336,0.674020037,0.149696968%
+,"Arizona","04",58726,138079425,42.530594258,42.186607034,42.874581481,0.175503685,37.069152016,36.767683548,37.370620484,0.153810443,1.737029073%
+,"Arkansas","05",45087,63181817,71.360720759,70.702017777,72.019423742,0.336072950,60.312703579,59.752394329,60.873012829,0.285872066,1.333607428%
+,"California","06",278967,815706063,34.199451574,34.072540711,34.326362437,0.064750440,34.892292623,34.762009247,35.022575999,0.066471110,8.251435298%
+,"Colorado","08",33736,110389320,30.560927452,30.234808673,30.887046231,0.166387132,32.102346462,31.754844275,32.449848648,0.177297034,0.997861472%
+,"Connecticut","09",37640,77711442,48.435595881,47.946272564,48.924919198,0.249654753,40.276045668,39.866248484,40.685842853,0.209080196,1.113336074%
+,"Delaware","10",11960,19532241,61.232093133,60.134681430,62.329504835,0.559903930,51.019225024,50.097639445,51.940810602,0.470196724,0.353759284%
+,"District of Columbia","11",5516,13636649,40.449820187,39.382338242,41.517302131,0.544633645,41.896500060,40.782982329,43.010017791,0.568121291,0.163155202%
+,"Florida","12",257603,413765419,62.258223663,62.017799928,62.498647397,0.122665171,44.900013403,44.725248543,45.074778262,0.089165745,7.619519467%
+,"Georgia","13",96030,209381012,45.863757694,45.573674718,46.153840669,0.148001518,48.185821166,47.876203681,48.495438650,0.157968104,2.840426759%
+,"Hawaii","15",11543,29491292,39.140367265,38.426328780,39.854405750,0.364305350,32.540635165,31.942790339,33.138479992,0.305022871,0.341425035%
+,"Idaho","16",13062,33894011,38.537781793,37.876878455,39.198685130,0.337195580,36.681100237,36.047165910,37.315034565,0.323435881,0.386354830%
+,"Illinois","17",143234,279233480,51.295424890,51.029773775,51.561076004,0.135536283,47.756573389,47.507874867,48.005271912,0.126887001,4.236651946%
+,"Indiana","18",86291,141518257,60.975171564,60.568329029,61.382014099,0.207572722,55.522347353,55.149689325,55.895005381,0.190131647,2.552361402%
+,"Iowa","19",37768,66861208,56.487163678,55.917466791,57.056860565,0.290661677,46.291017288,45.820877542,46.761157033,0.239867217,1.117122127%
+,"Kansas","20",32798,62051541,52.856060416,52.284019385,53.428101447,0.291857669,47.353572618,46.838139238,47.869005998,0.262976215,0.970116806%
+,"Kentucky","21",73031,94374176,77.384516714,76.823266496,77.945766931,0.286352152,68.210227562,67.711382438,68.709072686,0.254512818,2.160150022%
+,"Louisiana","22",59087,100136377,59.006528666,58.530744300,59.482313032,0.242747125,55.793540284,55.339900333,56.247180236,0.231448955,1.747706924%
+,"Maine","23",20410,29046732,70.266080191,69.302072950,71.230087432,0.491840429,52.964001492,52.231785454,53.696217531,0.373579612,0.603697909%
+,"Maryland","24",60388,126308636,47.809874220,47.428546524,48.191201915,0.194554947,45.081678137,44.718889852,45.444466422,0.185096064,1.786188599%
+,"Massachusetts","25",75504,144921428,52.099955846,51.728327831,52.471583862,0.189606130,44.756687646,44.435542015,45.077833277,0.163849812,2.233297740%
+,"Michigan","26",125383,219087039,57.229766111,56.912985412,57.546546811,0.161622806,49.829655856,49.552135171,50.107176540,0.141592186,3.708645510%
+,"Minnesota","27",50927,116354336,43.768888853,43.388745374,44.149032333,0.193950755,39.920428038,39.571273151,40.269582925,0.178140248,1.506346075%
+,"Mississippi","28",42038,64598559,65.075755018,64.453663523,65.697846513,0.317393620,59.826933215,59.250715911,60.403150518,0.293988420,1.243422473%
+,"Missouri","29",83707,130170885,64.305470459,63.869835120,64.741105798,0.222262928,55.030385514,54.655573021,55.405198007,0.191230864,2.475930467%
+,"Montana","30",11191,21654987,51.678627191,50.721140840,52.636113542,0.488513445,41.808833168,41.027937204,42.589729132,0.398416308,0.331013390%
+,"Nebraska","31",19245,40077995,48.018869207,47.340432961,48.697305453,0.346140942,42.668634698,42.062343958,43.274925438,0.309332010,0.569238915%
+,"Nevada","32",28021,57588193,48.657543396,48.087819501,49.227267291,0.290675457,47.148083058,46.585335444,47.710830673,0.287116130,0.828820142%
+,"New Hampshire","33",15633,28800092,54.281076602,53.430167126,55.131986078,0.434137488,46.236111685,45.504030033,46.968193337,0.373511047,0.462401245%
+,"New Jersey","34",90670,192409809,47.123377166,46.816644047,47.430110285,0.156496489,41.238860522,40.969137003,41.508584042,0.137614040,2.681885809%
+,"New Mexico","35",15374,43978024,34.958369207,34.405765495,35.510972919,0.281940669,31.433773311,30.932915185,31.934631436,0.255539860,0.454740404%
+,"New York","36",194699,425850343,45.720052408,45.516965967,45.923138850,0.103615531,40.235368095,40.055661535,40.415074655,0.091687020,5.758911273%
+,"North Carolina","37",115216,205681896,56.016597591,55.693140705,56.340054477,0.165029023,50.547586543,50.253262703,50.841910382,0.150165224,3.407920540%
+,"North Dakota","38",6994,15194827,46.028822836,44.950067081,47.107578590,0.550385589,39.474515865,38.541907584,40.407124146,0.475820552,0.206872277%
+,"Ohio","39",158220,253609029,62.387368708,62.079955835,62.694781582,0.156843303,53.087879904,52.824911662,53.350848146,0.134167470,4.679915879%
+,"Oklahoma","40",51890,81770584,63.458027889,62.912017625,64.004038154,0.278576666,56.558051449,56.068586765,57.047516134,0.249726880,1.534830204%
+,"Oregon","41",43802,83915155,52.197961143,51.709125752,52.686796534,0.249405812,44.426241597,44.007147091,44.845336103,0.213823728,1.295599010%
+,"Pennsylvania","42",167101,277318500,60.255987249,59.967074469,60.544900029,0.147404480,47.060895116,46.833995461,47.287794771,0.115765130,4.942602852%
+,"Rhode Island","44",13682,23261764,58.817551412,57.831979724,59.803123099,0.502842698,48.507105482,47.688187816,49.326023149,0.417815136,0.404693522%
+,"South Carolina","45",58743,100679830,58.346344049,57.874507413,58.818180685,0.240732978,50.440838270,50.028168920,50.853507620,0.210545587,1.737531908%
+,"South Dakota","46",9244,17936581,51.537135199,50.486513475,52.587756923,0.536031492,43.344848020,42.454874890,44.234821150,0.454067923,0.273423982%
+,"Tennessee","47",92279,138146823,66.797772107,66.366782686,67.228761527,0.219892561,58.820313464,58.437452348,59.203174581,0.195337304,2.729477673%
+,"Texas","48",207105,548904814,37.730585471,37.568085112,37.893085830,0.082908346,41.805849419,41.623790617,41.987908221,0.092887144,6.125862584%
+,"Utah","49",9522,59820399,15.917647089,15.597926316,16.237367862,0.163122843,20.331722485,19.919954905,20.743490065,0.210085500,0.281646815%
+,"Vermont","50",7707,13674812,56.359092907,55.100812639,57.617373176,0.641979729,45.696810124,44.666283141,46.727337106,0.525779073,0.227961773%
+,"Virginia","51",85475,173946516,49.138667428,48.809239897,49.468094959,0.168075271,46.586301207,46.271045051,46.901557364,0.160844978,2.528225317%
+,"Washington","53",67066,147569534,45.447050067,45.103087986,45.791012148,0.175490858,43.048764271,42.719843279,43.377685262,0.167816833,1.983714058%
+,"West Virginia","54",32488,40168566,80.879163075,79.999672415,81.758653735,0.448719724,61.048930362,60.379606631,61.718254093,0.341491700,0.960947460%
+,"Wisconsin","55",62302,124026036,50.233001077,49.838549041,50.627453113,0.201251039,43.243651407,42.902123200,43.585179614,0.174249085,1.842801916%
+,"Wyoming","56",5003,12035143,41.569925675,40.418011645,42.721839705,0.587711240,38.222170299,37.150621464,39.293719135,0.546708590,0.147981413%
+"Total",,,3380830,6746356647,50.113419389,50.060000059,50.166838720,0.027254760,45.319465505,45.270891745,45.368039264,0.024782530,100.000000000%
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"UCD - ICD-10 Codes: C34.0 (Main bronchus - Malignant neoplasms); C34.1 (Upper lobe, bronchus or lung - Malignant neoplasms);"
+"C34.2 (Middle lobe, bronchus or lung - Malignant neoplasms); C34.3 (Lower lobe, bronchus or lung - Malignant neoplasms); C34.8"
+"(Overlapping lesion of bronchus and lung - Malignant neoplasms); C34.9 (Bronchus or lung, unspecified - Malignant neoplasms)"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Aug 30, 2026 8:47:49 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Aug 30, 2026 8:47:49 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies."
+"5. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2000 Standard Population."
+"6. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Age-Adjusted Rates."
+"7. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"8. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Confidence-Intervals."
+"9. The method used to calculate standard errors is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Standard-Errors."
+"10. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"11. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"12. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

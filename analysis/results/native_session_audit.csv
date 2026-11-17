@@ -1,0 +1,11 @@
+session,settings_exported,APC_rows,AAPC_rows,status,version,maximum_joinpoints,minimum_end,minimum_between,permutations,resamples,errors,seed,full_range_display,nonestimable_AAPC_rows,AAPC_source
+NCI_overall_alllung_1999_2024.jpo,True,5,1,full-period AAPC verified by fresh native rerun; original saved range absent,V5.4.0.0,4,2,2,4499,5001,Uncorrelated,7160,,0,overall_alllung_full_range_rerun.jpo
+NCI_overall_CKD_2013_2024.jpo,True,2,1,"settings, selected APC and AAPC intervals exported and compared",V5.4.0.0,2,2,2,4499,5001,Uncorrelated,7160,,0,
+NCI_race_alllung_1999_2024_FINAL.jpo,True,14,4,"settings, selected APC and AAPC intervals exported and compared",V5.4.0.0,4,2,2,4499,5001,Uncorrelated,7160,,0,
+NCI_race_CKD_2013_2024_FINAL.jpo,True,4,4,"settings, selected APC and AAPC intervals exported and compared",V5.4.0.0,2,2,2,4499,5001,Uncorrelated,7160,,0,
+NCI_region_alllung_1999_2024.jpo,True,18,5,"settings, selected APC and AAPC intervals exported and compared",V5.4.0.0,4,2,2,4499,5001,Uncorrelated,7160,,1,
+NCI_region_CKD_2013_2024.jpo,True,6,5,"settings, selected APC and AAPC intervals exported and compared",V5.4.0.0,2,2,2,4499,5001,Uncorrelated,7160,,1,
+NCI_sex_alllung_1999_2024.jpo,True,10,2,"settings, selected APC and AAPC intervals exported and compared",V5.4.0.0,4,2,2,4499,5001,Uncorrelated,7160,,0,
+NCI_sex_CKD_2013_2024.jpo,True,3,2,"settings, selected APC and AAPC intervals exported and compared",V5.4.0.0,2,2,2,4499,5001,Uncorrelated,7160,,0,
+NCI_urbanicity_alllung_1999_2020.jpo,True,9,2,"settings, selected APC and AAPC intervals exported and compared",V5.4.0.0,4,2,2,4499,5001,Uncorrelated,7160,,0,
+NCI_urbanicity_CKD_2013_2020.jpo,True,2,2,"settings, selected APC and AAPC intervals exported and compared",V5.4.0.0,1,2,2,4499,5001,Uncorrelated,7160,,0,

@@ -1,0 +1,6 @@
+"Region"	"Joinpoint Model"	"AAPC Index"	"Start Obs"	"End Obs"	"AAPC"	"AAPC C.I. Low"	"AAPC C.I. High"	"Statistically Significant (0=No  1=Yes)"	"Test Statistic"	"P-Value"
+0	0	0	2013	2024	0.5174	-1.8353	3.0292	0	NA	0.583483
+1	0	0	2013	2024	3.5246	2.2185	4.9643	1	NA	0.000000
+2	1	0	2013	2024	2.9900	1.9382	4.2938	1	NA	0.000000
+3	0	0	2013	2024	1.1703	-0.1426	2.6016	0	NA	0.082783
+0	0	0	2013	2013	NA	NA	NA	NA	NA	NA

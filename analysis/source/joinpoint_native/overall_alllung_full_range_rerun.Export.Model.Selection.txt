@@ -1,0 +1,5 @@
+"Test #"	"Null Hypothesis"	"Alt Hypothesis"	"Selected Hypothesis"	"Numerator DF"	"Denominator DF"	"# of Permutations"	"P-Value"	"Significance level"
+0	0	4	4	   8	  16	4500	       0.0002222	       0.0125000
+1	1	4	4	   6	  16	4500	       0.0006667	       0.0166667
+2	2	4	4	   4	  16	4500	       0.0013333	       0.0250000
+3	3	4	4	   2	  16	4500	       0.0402222	       0.0500000

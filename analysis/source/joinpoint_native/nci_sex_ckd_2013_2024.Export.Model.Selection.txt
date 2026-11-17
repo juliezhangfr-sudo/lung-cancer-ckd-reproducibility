@@ -1,0 +1,5 @@
+"Sex"	"Test #"	"Null Hypothesis"	"Alt Hypothesis"	"Selected Hypothesis"	"Numerator DF"	"Denominator DF"	"# of Permutations"	"P-Value"	"Significance level"
+0	0	0	2	0	   4	   6	4500	       0.3451111	       0.0250000
+0	1	0	1	0	   2	   8	4500	       0.2020000	       0.0250000
+1	0	0	2	2	   4	   6	4500	       0.0028889	       0.0250000
+1	1	1	2	1	   2	   6	4500	       0.0555556	       0.0500000

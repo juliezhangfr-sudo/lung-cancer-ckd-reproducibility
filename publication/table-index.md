@@ -1,0 +1,22 @@
+# Tables
+
+- [Table 1. Trends in Overall Lung Cancer Mortality in the United States — block 1](../publication/tables/table-1-1.csv)
+- [Table 2. Historical descriptive endpoints of age-adjusted mortality rates of lung-cancer deaths with CKD recorded (Lung+CKD AAMR) — block 1](../publication/tables/table-2-1.csv)
+- [Table 3. Primary Post-Transition Trends in the Age-Adjusted Mortality Rate of Lung-Cancer Deaths With CKD Recorded (Lung+CKD AAMR) — block 1](../publication/tables/table-3-1.csv)
+- [Supplementary Table S1. National age-standardized CKD co-recording analysis, 2013–2024. Panel A. Change in CKD co-recording, 2013–2024 — block 1](../publication/tables/table-S1-1.csv)
+- [Supplementary Table S1. National age-standardized CKD co-recording analysis, 2013–2024. Panel A. Change in CKD co-recording, 2013–2024 — block 2](../publication/tables/table-S1-2.csv)
+- [Supplementary Table S1. National age-standardized CKD co-recording analysis, 2013–2024. Panel A. Change in CKD co-recording, 2013–2024 — block 3](../publication/tables/table-S1-3.csv)
+- [Supplementary Table S2. Age-standardized CKD co-recording sensitivity analysis among lung-cancer decedents aged ≥55 years by six-level 2023 NCHS urbanicity, 2018–2024. “2023 NCHS” denotes the urban-rural classification-scheme vintage; mortality follow-up extends through 2024. — block 1](../publication/tables/table-S2-1.csv)
+- [Supplementary Table S2. Age-standardized CKD co-recording sensitivity analysis among lung-cancer decedents aged ≥55 years by six-level 2023 NCHS urbanicity, 2018–2024. “2023 NCHS” denotes the urban-rural classification-scheme vintage; mortality follow-up extends through 2024. — block 2](../publication/tables/table-S2-2.csv)
+- [Supplementary Table S3. NCI Joinpoint audit and retained model metadata. — block 1](../publication/tables/table-S3-1.csv)
+- [Supplementary Table S3. NCI Joinpoint audit and retained model metadata. — block 2](../publication/tables/table-S3-2.csv)
+- [Supplementary Table S4. Race-era sensitivity analyses and 2018–2020 overlap quality control. (unweighted OLS sensitivity analysis) — block 1](../publication/tables/table-S4-1.csv)
+- [Supplementary Table S5. Updated 2024 age-specific descriptive endpoints. — block 1](../publication/tables/table-S5-1.csv)
+- [Supplementary Table S6. Race, region, and historical urbanicity trend estimates for the age-adjusted mortality rate of lung-cancer deaths with CKD co-recorded. — block 1](../publication/tables/table-S6-1.csv)
+- [Supplementary Table S7  Revision comparator and renal code sensitivities — block 1](../publication/tables/table-S7-1.csv)
+
+## Main table notes
+
+**Table 1.** Rates are AAMRs per 100,000 except age-group rows, which use age-specific CMRs. The Descriptive period column reports endpoint years and is not necessarily the Joinpoint estimation interval. Age-specific Joinpoint AAPCs were reported through 2024. Historical urbanicity AAMR analyses end in 2020 because the Bridged Race data ends in 2020. *A continuous cross-era AAPC for the aggregated Other race category is not reported because the category is not compositionally equivalent between Bridged Race and Single Race data [8,9]. Race-era sensitivity estimates for the Lung+CKD AAMR are provided in Supplementary Table S4. Abbreviations: AAMR, age-adjusted mortality rate; CMR, crude mortality rate; AAPC, average annual percent change; CI, confidence interval; NH, non-Hispanic; CKD, chronic kidney disease.
+
+**Table 3.** Rates are AAMRs per 100,000 except age-group rows, which use age-specific CMRs. The inferential period indicates the Joinpoint estimation interval. The 2015 Lung+CKD rate for ages 45–54 years was excluded from Joinpoint inference because the archived CDC WONDER estimate, based on 17 deaths, was flagged as unreliable; no interpolation was performed. Historical urbanicity AAMR analyses are limited to 2020 since the Bridged Race database ends in 2020. Race-era sensitivity estimates for the Lung+CKD AAMR are provided in Supplementary Table S4.  AAPCs are NCI Joinpoint AAPCs (log-linear, standard-error-weighted) over the inferential period shown; the start→end deaths and rates are descriptive endpoints and are not model estimates. The Lung+CKD AAMR is a population rate (denominator: the U.S. population) and is not the CKD co-recording proportion among lung-cancer deaths. Abbreviations: AAMR, age-adjusted mortality rate; CMR, crude mortality rate; AAPC, average annual percent change; CI, confidence interval; NH, non-Hispanic; CKD, chronic kidney disease.

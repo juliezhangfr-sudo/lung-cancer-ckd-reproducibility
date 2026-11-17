@@ -1,0 +1,10 @@
+﻿Outcome,Annual OR (95% CI),Standardized 2013→2024 %,Change pp (95% CI)
+N18 reference,1.0610 (1.0537 to 1.0685),0.801 → 1.524,0.723 (0.636 to 0.810)
+Diabetes E10–E14,1.0390 (1.0335 to 1.0444),3.849 → 5.744,1.895 (1.632 to 2.157)
+Broader renal union,1.0693 (1.0630 to 1.0756),2.105 → 4.294,2.190 (1.994 to 2.386)
+N18.5 stage 5/end stage,1.0189 (1.0064 to 1.0315),0.240 → 0.294,0.055 (0.018 to 0.091)
+Outcome,Returned cells,Suppressed or nonnumeric,Smallest disclosed count,Counts below 20
+N18,48,0,113,0
+diabetes,48,0,708,0
+broad_renal,48,0,493,0
+stage5,48,0,28,0

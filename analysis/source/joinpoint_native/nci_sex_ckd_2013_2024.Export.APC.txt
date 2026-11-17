@@ -1,0 +1,4 @@
+"Sex"	"Model"	"Segment"	"Segment Start"	"Segment End"	"APC"	"APC 95% LCL"	"APC 95% UCL"	"APC Significant"	"Test Statistic"	"P-Value"
+0	0	0	2013	2024	4.0380	1.9425	6.4354	1	NA	0.000400
+1	1	0	2013	2022	2.3941	1.6375	4.0617	1	NA	0.000400
+1	1	1	2022	2024	-7.2547	-12.4258	-1.2209	1	NA	0.013597

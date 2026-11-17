@@ -1,0 +1,94 @@
+"Notes","Year","Year Code","Sex","Sex Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error,Age Adjusted Rate,Age Adjusted Rate Lower 95% Confidence Interval,Age Adjusted Rate Upper 95% Confidence Interval,Age Adjusted Rate Standard Error,% of Total Deaths
+,"2018","2018","Female","F",65847,166038755,39.657608852,39.354698162,39.960519541,0.154546270,29.296863970,29.070142352,29.525244213,0.115898079,6.972289578%
+,"2018","2018","Male","M",76234,161128679,47.312496120,46.976636665,47.648355575,0.171356865,41.737641464,41.436039106,42.041116330,0.154156132,8.072129689%
+"Total","2018","2018",,,142081,327167434,43.427610830,43.201795196,43.653426464,0.115212058,34.752204158,34.569304385,34.935974574,0.093439033,15.044419267%
+,"2019","2019","Female","F",64743,166582199,38.865497267,38.566116505,39.164878030,0.152745287,28.177608009,27.957932683,28.398916283,0.112298161,6.855391197%
+,"2019","2019","Male","M",74860,161657324,46.307830754,45.976100106,46.639561403,0.169250331,40.055842423,39.763977283,40.349544144,0.149181826,7.926642030%
+"Total","2019","2019",,,139603,328239523,42.530831974,42.307725294,42.753938654,0.113829939,33.405383947,33.228105195,33.583519710,0.090568720,14.782033227%
+,"2020","2020","Female","F",63135,167227921,37.753862885,37.459364869,38.048360901,0.150254090,26.929383889,26.716708484,27.143666844,0.108722316,6.685126163%
+,"2020","2020","Male","M",72949,162256202,44.959144304,44.632883850,45.285404759,0.166459416,38.051638510,37.770803139,38.334277149,0.143547524,7.724293474%
+"Total","2020","2020",,,136084,329484123,41.302141894,41.082697186,41.521586602,0.111961586,31.836501116,31.665341649,32.008503362,0.087443892,14.409419638%
+,"2021","2021","Female","F",62955,167509003,37.583054566,37.289470127,37.876639004,0.149787979,27.251150127,27.035696467,27.468243279,0.110141837,6.666066645%
+,"2021","2021","Male","M",71549,164384742,43.525329133,43.206398415,43.844259851,0.162719754,37.412459962,37.131802651,37.694922245,0.143460908,7.576052774%
+"Total","2021","2021",,,134504,331893745,40.526223235,40.309640116,40.742806354,0.110501591,31.734636556,31.562651673,31.907474367,0.087867177,14.242119418%
+,"2022","2022","Female","F",62531,168004004,37.219946258,36.928214220,37.511678296,0.148842877,26.029618053,25.823412589,26.237406312,0.105415013,6.621170890%
+,"2022","2022","Male","M",69358,165283553,41.963037907,41.650735946,42.275339869,0.159337735,35.215827458,34.948979199,35.484413843,0.136404862,7.344056077%
+"Total","2022","2022",,,131889,333287557,39.572134402,39.358563904,39.785704899,0.108964539,30.046425497,29.882698076,30.210972500,0.083649096,13.965226967%
+,"2023","2023","Female","F",62887,169165495,37.174838758,36.884286184,37.465391331,0.148241109,25.811540159,25.607840613,26.016816201,0.104133003,6.658866382%
+,"2023","2023","Male","M",68697,165749400,41.446303878,41.136367187,41.756240569,0.158130965,34.066985926,33.807604632,34.328091529,0.132589578,7.274065289%
+"Total","2023","2023",,,131584,334914895,39.288787081,39.076500203,39.501073960,0.108309632,29.492104509,29.331214873,29.653809184,0.082199222,13.932931672%
+,"2024 ","2024","Female","F",61627,171773106,35.876978321,35.593717560,36.160239081,0.144520796,24.625500971,24.429385745,24.823175394,0.100257615,6.525449752%
+,"2024 ","2024","Male","M",67038,168337882,39.823478354,39.522014854,40.124941854,0.153807908,32.302510368,32.054372897,32.552345047,0.126844039,7.098400059%
+"Total","2024 ","2024",,,128665,340110988,37.830297914,37.623585947,38.037009882,0.105465290,28.023504051,27.868927653,28.178886206,0.078974554,13.623849811%
+"Total",,,,,944410,2325098265,40.618068243,40.536147280,40.699989206,0.041796410,31.249807113,31.186086243,31.313645842,0.032527463,100.000000000%
+"---"
+"Dataset: Multiple Cause of Death, 2018-2024, Single Race"
+"Query Parameters:"
+"UCD - ICD-10 Codes: C34.0 (Main bronchus - Malignant neoplasms); C34.1 (Upper lobe, bronchus or lung - Malignant neoplasms);"
+"C34.2 (Middle lobe, bronchus or lung - Malignant neoplasms); C34.3 (Lower lobe, bronchus or lung - Malignant neoplasms); C34.8"
+"(Overlapping lesion of bronchus and lung - Malignant neoplasms); C34.9 (Bronchus or lung, unspecified - Malignant neoplasms)"
+"Group By: Year; Sex"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Aug 30, 2026 6:03:25 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2024 on CDC WONDER Online Database, released in 2026. Data are from the Multiple Cause of Death Files,"
+"2018-2024, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Aug 30, 2026 6:03:25 PM"
+"---"
+Caveats:
+"1. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#2000 Standard Population."
+"2. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age-Adjusted Rates."
+"3. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"4. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Confidence-Intervals."
+"5. The method used to calculate standard errors is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Standard-Errors."
+"6. The population figures for year 2024 are single-race estimates of the July 1 resident population, from the Vintage 2024"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2024 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for year 2023 are single-race estimates of the July 1"
+"resident population, from the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2022 are"
+"single-race estimates of the July 1 resident population, from the Vintage 2022 postcensal series released by the Census Bureau"
+"on June 22, 2023. The 2022 series is based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1,"
+"2020 decennial population count. The Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates"
+"for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The"
+"population figures for year 2021 are single-race estimates of the July 1 resident population, based on the Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal series"
+"released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the July 1"
+"resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on July"
+"27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the Vintage"
+"2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population figures for"
+"year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based on April"
+"2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Population Data."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age"
+"Group."
+"8. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Connecticut-2022."
+"9. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"10. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#ICD-10 Changes."
